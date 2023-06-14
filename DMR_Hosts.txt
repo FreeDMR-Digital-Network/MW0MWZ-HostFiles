@@ -852,6 +852,8 @@ FreeDMR_China			4601	bd4two.site				passw0rd	62031
 FreeDMR_Colombia		7321	n2fur.ddns.net				passw0rd	62031
 FreeDMR_Colombia-Zona1		7322	freedmrcol.mine.nu			passw0rd	62031
 FreeDMR_CostaRica		7121	freedmrcr.net				passw0rd	62031
+FreeDMR_Digital			0000	freedmr.digital				passw0rd	62031
+FreeDMR_Digital_Ersatz		0000	161.97.132.248				passw0rd	62031
 FreeDMR_DominicanRepublic	3701	1skynet.ddns.net			passw0rd	62031
 FreeDMR_Ecuador			7401	hc3lrc.ddns.net				passw0rd	62031
 FreeDMR_EU			2349	freedmreu.gb7fr.org.uk			passw0rd	62031
