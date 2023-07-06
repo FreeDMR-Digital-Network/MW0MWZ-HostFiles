@@ -51,6 +51,6 @@ FreeDMR_Digital			0000	freedmr.digital				passw0rd	62031
 FreeDMR_Digital_1		0000	freedmr-germany.de			passw0rd	62031
 FreeDMR_Digital_2		0000	freedmr.network				passw0rd	62031
 FreeDMR_Digital_Ersatz	0000	161.97.132.248				passw0rd	62031
-FreeDMR_Bayern			0000	dmr446.de					password	62031
+FreeDMR_Bayern			0000	85.214.200.212					passw0rd	62031
 FreeDMR_Germany_AFU			2621	178.254.30.151				passw0rd	62031
 ######################################################################################################
