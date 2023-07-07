@@ -42,7 +42,7 @@ DMR+_IPSC2-DL-NORD		187697	176.10.105.252				PASSWORD	55555
 DMR+_IPSC2-DMR-DL		335758	5.28.41.138					PASSWORD	55555
 ######################################################################################################
 #
-#				FreeDMR Network Germany, France DE/F Hosts Below
+#				FreeDMR Network Germany, France DE/F Hosts Below for licenced free
 #
 ######################################################################################################
 # Country			DMR-ID	IP/Hostname				Password	Port #
@@ -51,6 +51,8 @@ FreeDMR_Digital			0000	freedmr.digital				passw0rd	62031
 FreeDMR_Digital_1		0000	freedmr-germany.de			passw0rd	62031
 FreeDMR_Digital_2		0000	freedmr.network				passw0rd	62031
 FreeDMR_Digital_Ersatz	0000	161.97.132.248				passw0rd	62031
-FreeDMR_Bayern			0000	85.214.200.212					passw0rd	62031
-FreeDMR_Germany_AFU			2621	178.254.30.151				passw0rd	62031
+FreeDMR_Bayern			0000	85.214.200.212				passw0rd	62031
+FreeDMR_Hessen			0000	dmr.61350a.de				passw0rd	62031
+FreeDMR_France_F62		0000	serveur-f62dmr.fr			f62dmr  	55555
+FreeDMR_Ireland			0000	unmsomci.myvnc.com			passw0rd	62031
 ######################################################################################################
