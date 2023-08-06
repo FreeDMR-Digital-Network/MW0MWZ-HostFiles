@@ -1,25 +1,11 @@
 RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
-1231631,16OA31,Walter,Nord,59,Belgium
-1699005,BS99T1,Thierry,Belgium,206,Belgium
-1699006,BS99N1,Nicolas,Belgium,206,Belgium
-1699007,BS99P1,Philippe,Belgium,206,Belgium
-1699009,BS99F2,Felix,Belgium,206,Belgium
-1699011,BS99S1,Sebastien,Belgium,206,Belgium
-1699012,BS99S2,Stephane,Belgium,206,Belgium
-1699013,BS99J3,Joseph,Belgium,206,Belgium
-1699014,BS99G1,Gregory,Belgium,206,Belgium
-1699015,BS99G2,Giuseppe,Belgium,206,Belgium
-7360299,DF99G1,Gregory,Belgium,206,Belgium
-7360399,DF99G1,Gregory,Belgium,206,Belgium
-7360699,DF99H1,Hugues,Belgium,206,Belgium
-9004005,BL04JN,Joseph,Belgium,206,Belgium
-9004006,BL04FC,Francis,Belgium,206,Belgium
-9004008,BL04DF,Dany,Belgium,206,Belgium
-9007006,BE07FC,Francis,Belgium,206,Belgium
-9062005,BL62GR,Giuseppe,Belgium,206,Belgium
-7360320,VE2MKX,Jules,Gard,302,Canada
-9002001,CA02BS,Benoit,Gard,302,Canada
-999002,CS99F1,Frederic,Gard,302,Canada
+1000271,29CT067,Omci2  Bundoran,Bundoran,Donegal,Ireland
+1000272,29CT067,Omci1  Bundoran,Bundoran,Donegal,Ireland
+1000273,29CT067,Ollie  Bundoran,Bundoran,Donegal,Ireland
+1000301,29ICB120,Brian  Dromahair,Dromahair,Leitrim,Ireland
+1000305,29ICB051,Chris  Carrick-On-Shannon,Carrick-On-Shannon,Leitrim,Ireland
+1000306,29IOP076,Les  Dromahair,Dromahair,Leitrim,Ireland
+1000307,29SD029,Michael  Killybegs,Killybegs,Donegal,Ireland
 1011003,KIMI,Khim,France,99,France
 1011247,FRS1247,Joel,Vitry-Sur-Seine,94,France
 1012006,F11FGU,Michel,Hauts-De-Seine,92,France
@@ -4792,6 +4778,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1149900,FRS9900,Jerome,Bouches-Du-Rhone,13,France
 1149999,FRS9999,Bruno,Seine-Et-Marne,77,France
 1173001,974DMR,Reunion,La Reunion,974,France
+1231631,16OA31,Walter,Nord,59,Belgium
+1234567,N0CALL,N0call,Worldwide,Worldwide,Worldwide
 1400008,104FRS08,Christian,Furiani,2b,France
 1400068,FRS068,Pascal,Nord,59,France
 1400077,RF62DMR,Rf62dmr,,,France
@@ -5030,7 +5018,11 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1497007,FS97A1,Alexandrine,Martinique,97,France
 1497008,FS97S2,Stephane,Martinique,97,France
 1497009,FS97M2,Marc,Martinique,97,France
+1499010,ES99E1,Etienne,Spain,214,Spain
 1499999,FDX06,Xaxier,France,99,France
+1599004,HS99J2,J.Carlos,Switzerland,228,Switzerland
+1599008,HS99C1,Carlos,Switzerland,228,Switzerland
+1599016,HS99S3,Stephane,Switzerland,228,Switzerland
 1614100,BALISE38,Nabilla,Hauts-De-Seine,92,France
 1614101,FS92F1,Vrk,Hauts-De-Seine,92,France
 1614102,FS92F1,Moa,Hauts-De-Seine,92,France
@@ -5038,6 +5030,15 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1614108,OWNER2,Invite,Hauts-De-Seine,92,France
 1614201,FS92F1,Francois,Hauts-De-Seine,92,France
 1677641,971DMR,Christophe,Guadeloupe,971,France
+1699005,BS99T1,Thierry,Belgium,206,Belgium
+1699006,BS99N1,Nicolas,Belgium,206,Belgium
+1699007,BS99P1,Philippe,Belgium,206,Belgium
+1699009,BS99F2,Felix,Belgium,206,Belgium
+1699011,BS99S1,Sebastien,Belgium,206,Belgium
+1699012,BS99S2,Stephane,Belgium,206,Belgium
+1699013,BS99J3,Joseph,Belgium,206,Belgium
+1699014,BS99G1,Gregory,Belgium,206,Belgium
+1699015,BS99G2,Giuseppe,Belgium,206,Belgium
 1730001,173FRS016,Frederic,La Reunion,974,France
 1730002,173FRS023,Stephane,La Reunion,974,France
 1730003,174FRS049,Steeve,La Reunion,974,France
@@ -5053,6 +5054,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1739740,MAHE,Balise Mumble,,,France
 173975,173975,Marc,La Reunion,974,France
 1799740,173FRS023,Stephane,Saint-Paul,974,France
+2000007,ZH007,Tino  Zuerich,Zuerich,Zuerich,Switzerland
 2000008,BALISE7,Tg7&tg38,Hauts-De-Seine,92,France
 2080000,BALISE38,Nabilla,Hauts-De-Seine,92,France
 2080810,FS92F1,Francois,,,France
@@ -5063,10 +5065,155 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2087099,FS11Y1,Yannick,,,France
 2089409,14PS62,Philippe,Lens,62,France
 2089527,FRS2921,Francois,Berck,59,France
+2104500,HBSAX64,Erhard  Bern,Bern,Bern,Switzerland
+2281238,CH22PH,Passah,Switzerland,228,Switzerland
 2312059,FRS2312,Freddy,Nord,59,France
+2629084,DO1ABZ,Andreas  Zoellnitz,Zoellnitz,Thueringen,Germany
+2651001,DLRB01,Rene  Hamburg,Hamburg,Hamburg,Germany
+2651002,KARO500,Wolfgang  Hamburg,Hamburg,Hamburg,Germany
+2651003,KARO502,Nico  Hamburg,Hamburg,Hamburg,Germany
+2651004,ELBE1,Stefan  Hamburg,Hamburg,Hamburg,Germany
+2651005,HERKULES4,Andreas  Hagenburg,Hagenburg,Niedersachsen,Germany
+2651006,13DW366,Jaro  Braunschweig,Braunschweig,Niedersachsen,Germany
+2651007,ECHO1,Norbert  Fehmarn,Fehmarn,Schleswig-Holstein,Germany
+2651008,MUMBLE TG8 NDS - HB,Mumble Tg8 Nds - Hb,Nds - Hb,Niedersachsen,Germany
+265101,RL1HH,Relais Hamburg,Hamburg,Hamburg,Germany
+2651021,DAX021,Horst  Hameln,Hameln,Niedersachsen,Germany
+265110,RL1OL,Relais Oldenburg Brettorf,Oldenburg Brettorf,Niedersachsen,Germany
+2651100,HUNTE1,Christian  Oldenburg,Oldenburg,Niedersachsen,Germany
+2651101,SHORTY71,Jockel  Oldenburg Brettorf,Oldenburg Brettorf,Niedersachsen,Germany
+2651102,SHORTY71,Jockel  Oldenburg Brettorf,Oldenburg Brettorf,Niedersachsen,Germany
+2651103,MUCKEL,Ann-Katrin  Oldenburg Brettorf,Oldenburg Brettorf,Niedersachsen,Germany
+2651104,JAZZ84,Jessica  Oldenburg Brettorf,Oldenburg Brettorf,Niedersachsen,Germany
+2651105,GAMER,Jonas  Oldenburg Brettorf,Oldenburg Brettorf,Niedersachsen,Germany
+2651106,BROTDOSE,Jules  Oldenburg Brettorf,Oldenburg Brettorf,Niedersachsen,Germany
+2651107,OPENGD77,Chris  Oldenburg Brettorf,Oldenburg Brettorf,Niedersachsen,Germany
+2651108,BIGBLOCK,Denis  Oldenburg Brettorf,Oldenburg Brettorf,Niedersachsen,Germany
+265111,JO43FA,Relais Oldenburg Brettorf (test),Oldenburg Brettorf,Niedersachsen,Germany
+2651111,13MU101,Manfred  Hamburg,Hamburg,Hamburg,Germany
+2651112,DD6BG,Oliver  Hamburg,Hamburg,Hamburg,Germany
+2651123,MUMBLE,Mumble Tg5x5 Nds - Hb,Nds - Hb,Niedersachsen,Germany
+2651151,AKKI72,Axel  Wildeshausen Altona,Wildeshausen Altona,Niedersachsen,Germany
+2651152,MONI77,Monika  Wildeshausen Altona,Wildeshausen Altona,Niedersachsen,Germany
+2651201,DL1MVSN,Erich  Schwerin,Schwerin,Mecklenburg-Vorpommern,Germany
+2651222,13KB22,Barbara  Hamburg,Hamburg,Hamburg,Germany
+265130,RL2OL,Relais Wildeshausen Altona,Wildeshausen Altona,Niedersachsen,Germany
+2651333,BAKE,Info-Bake Freedmr Digital,Germany,Germany,Germany
+2651388,BROKER88,Andy  Vielank,Vielank,Mecklenburg-Vorpommern,Germany
+2651444,REF091,Analog-Reflector 091,Germany,Germany,Germany
+265150,RL1DEL,Relais Delmenhorst Adelheide,Delmenhorst Adelheide,Niedersachsen,Germany
+2651501,BROESEL59,Rolf  Delmenhorst Annenheide,Delmenhorst Annenheide,Niedersachsen,Germany
+2651510,DOLE64,Andreas  Delmenhorst Adelheide,Delmenhorst Adelheide,Niedersachsen,Germany
+2651571,WOLF81,Wolfgang  Heiligenhafen,Heiligenhafen,Schleswig-Holstein,Germany
+2651623,BAKE,Zeitansage Nds/hb,Bremen,Germany,Germany
+2651628,LA0NEA,Lanea  Aerzen,Aerzen,Niedersachsen,Germany
+2651666,1313TH,Torben  Hassmoor,Hassmoor,Schleswig-Holstein,Germany
+265170,RL1HB,Relais Bremen Kattenturm,Bremen Kattenturm,Bremen,Germany
+2651701,BA0FENG,Leo  Bremen Kattenturm,Bremen Kattenturm,Bremen,Germany
+2651702,DINA01,Irmgard  Bremen Kattenturm,Bremen Kattenturm,Bremen,Germany
+2651703,13HN480,Guenther  Bremen Kattenturm,Bremen Kattenturm,Bremen,Germany
+2651720,MAN,Thorsten  Delmenhorst Schoenemoor,Delmenhorst Schoenemoor,Niedersachsen,Germany
+2651788,FR3PWA,Wolfgang  Jever,Jever,Niedersachsen,Germany
+2651822,13RF882,Markus  Lehrte,Lehrte,Niedersachsen,Germany
+2651901,OHZER1,Benjamin  Osterholz-Scharmbeck,Osterholz-Scharmbeck,Niedersachsen,Germany
+2651902,OHZER2,Bjoern  Osterholz-Scharmbeck,Osterholz-Scharmbeck,Niedersachsen,Germany
+2651903,NOBODY,Kim  Osterholz-Scharmbeck,Osterholz-Scharmbeck,Niedersachsen,Germany
+2651904,DR3HBF,Ronny  Bremen,Bremen,Bremen,Germany
+2651988,FR3FMA,Mirko  Varel,Varel,Niedersachsen,Germany
+2651990,WH3CBA,Benny  Wilhelmshaven,Wilhelmshaven,Niedersachsen,Germany
+2652001,OM1NET,Oli  Remseck,Remseck,Baden-Wuerttemberg,Germany
+2652002,POLYKA1,Vince  Mannheim,Mannheim,Baden-Wuerttemberg,Germany
+2652003,DESPERADO,Sascha  Rheinfelden,Rheinfelden,Baden-Wuerttemberg,Germany
+2652004,COBRA08,Axel  Murg,Murg,Baden-Wuerttemberg,Germany
+2652005,DO1F13,Frank  Albbruck,Albbruck,Baden-Wuerttemberg,Germany
+2652006,RECEP,Kray  Muenchen,Muenchen,Bayern,Germany
+2652007,13MZ75,Mario  Herrngiersdorf,Herrngiersdorf,Bayern,Germany
+2652008,13MZ75,Mario  Herrngiersdorf,Herrngiersdorf,Bayern,Germany
+2652009,13MZ75,Mario  Herrngiersdorf,Herrngiersdorf,Bayern,Germany
+2652010,13MZ75,Mario  Herrngiersdorf,Herrngiersdorf,Bayern,Germany
+2652011,DAVE,Dave  Nuernberg,Nuernberg,Bayern,Germany
+2652012,DF94H1,Andreas  Freyung,Freyung,Bayern,Germany
+2652013,13PD10,Paul  Woelbattendorf,Woelbattendorf,Bayern,Germany
+2652014,13PD10,Paul  Woelbattendorf,Woelbattendorf,Bayern,Germany
+2652015,LASPEZIA79,Maurizio  Veltheim (ag),5106 Veltheim,228,Switzerland
+2652044,TJ44,Markus  Sonthofen,Sonthofen,Bayern,Germany
+2652100,JD02,Thomas  Oberstdorf,Oberstdorf,Bayern,Germany
+2652700,13HN267,Wolfgang  Neu-Anspach,Neu-Anspach,Hessen,Germany
+2652793,CB93,Clemens  Sonthofen,Sonthofen,Bayern,Germany
+2652814,13AS25,Andreas  Hof,Hof,Bayern,Germany
+2652907,BANDIT,Markus  Troestau,Troestau,Bayern,Germany
+265300,HS1MH,Relais Muelheim,Muelheim,Nordrhein-Westfalen,Germany
+2653001,GERAU01,Peter  Gross-Gerau,Gross-Gerau,Hessen,Germany
+2653002,13HN1276,Juergen  Montabaur,Montabaur,Rheinland-Pfalz,Germany
+2653003,13CT3379,Daniel  Nieheim,Nieheim,Nordrhein-Westfalen,Germany
+2653004,DAC662,Hans-Juergen  Hoexter,Hoexter,Nordrhein-Westfalen,Germany
+2653005,BLUEDEVIL,Sascha  Herne,Herne,Nordrhein-Westfalen,Germany
+2653006,JAGUAR,Uwe  Bruehl,Bruehl,Nordrhein-Westfalen,Germany
+2653007,AMIGO76,Johannes  Schwerte (ruhr),Schwerte (ruhr),Nordrhein-Westfalen,Germany
+2653008,13HN603,Gregor  Frankfurt,Frankfurt,Hessen,Germany
+2653009,DG2,Bernd  Frankfurt,Frankfurt,Hessen,Germany
+2653011,EPL,Erik  Bad Homburg,Bad Homburg,Hessen,Germany
+2653012,ALPHA01,Stephan  Bad Homburg,Bad Homburg,Hessen,Germany
+2653013,DK2,Stefan  Bad Homburg,Bad Homburg,Hessen,Germany
+2653014,TAUNUSRANGER,Volker  Oberursel,Oberursel,Hessen,Germany
+2653015,13TW226,Michael  Pfungstadt,Pfungstadt,Hessen,Germany
+2653016,13ING0,Ingo  Weiterstadt,Weiterstadt,Hessen,Germany
+2653017,GUENNI,Guenni  Frankfurt,Frankfurt,Hessen,Germany
+2653018,GUENNI,Guenni  Frankfurt,Frankfurt,Hessen,Germany
+2653019,BALUNA,Christian  Buerstadt,Buerstadt,Hessen,Germany
+2653020,RHEIN1,Mario  Jockgrim,Jockgrim,Rheinland-Pfalz,Germany
+2653021,GV1DMR,Uwe  Grevenbroich,Grevenbroich,Nordrhein-Westfalen,Germany
+2653022,GVOLI,Olaf  Grevenbroich,Grevenbroich,Nordrhein-Westfalen,Germany
+2653023,PHANT0M,Oliver  Gelsenkirchen,Gelsenkirchen,Nordrhein-Westfalen,Germany
+2653024,HS1DMR,Ulf  Breberen,Breberen,Nordrhein-Westfalen,Germany
+2653025,KARO503,Klaus  Castrop-Rauxel,Castrop-Rauxel,Nordrhein-Westfalen,Germany
+2653026,OL4AFG,Olaf  Dortmund,Dortmund,Nordrhein-Westfalen,Germany
+265303,RL1HX,Relais Nieheim,Nieheim,Nordrhein-Westfalen,Germany
+265304,DMRSVX,Dmr - Analog  Crosslink Castrop-Rauxel,Castrop-Rauxel,Nordrhein-Westfalen,Germany
+2653077,13FB077,Patrick  Muelheim,Muelheim,Nordrhein-Westfalen,Germany
+2653083,KUGELFISCH,Stephanie  Muelheim,Muelheim,Nordrhein-Westfalen,Germany
+2653112,CRISU76,Michael  Schoenenberg-Kuebelberg,Schoenenberg-Kuebelberg,Rheinland-Pfalz,Germany
+2653150,DW1PBJ,Jens  Hoevelhof (lkw),Hoevelhof,Nordrhein-Westfalen,Germany
+2653151,DW1PBJ,Jens  Hoevelhof (hg),Hoevelhof,Nordrhein-Westfalen,Germany
+2653166,13MAD86,Martin  Hammersbach,Hammersbach,Hessen,Germany
+2653200,STH2707,Sven  Bosen-Eckelhausen,Bosen-Eckelhausen,Saarland,Germany
+2653470,JJ COOL J,Jakob  Muelheim,Muelheim,Nordrhein-Westfalen,Germany
+2653479,BUMBLEBEE,Phillipp  Muelheim,Muelheim,Nordrhein-Westfalen,Germany
+2653701,KANE,Micha  Castrop-Rauxel,Castrop-Rauxel,Nordrhein-Westfalen,Germany
+2653702,KANE,Gd77-2 Leihgeraet  Castrop-Rauxel,Castrop-Rauxel,Nordrhein-Westfalen,Germany
+2653703,KANE,Gd77-3 Leihgeraet  Castrop-Rauxel,Castrop-Rauxel,Nordrhein-Westfalen,Germany
+2653704,KANE,Rt3 Leihgeraet  Castrop-Rauxel,Castrop-Rauxel,Nordrhein-Westfalen,Germany
+2653801,EMS1,Micha  Harsewinkel,Harsewinkel,Nordrhein-Westfalen,Germany
+2653802,EMS2,Ulli  Harsewinkel,Harsewinkel,Nordrhein-Westfalen,Germany
+2654001,13BLN82,Markus  Berlin,Berlin,Berlin,Germany
+2654002,DFO702,Hartmut  Frankfurt (oder),Frankfurt(oder),Brandenburg,Germany
+2654003,13OT702,Hartmut  Frankfurt (oder),Frankfurt(oder),Brandenburg,Germany
+2654004,13HN895,Maik  Zeitz,Zeitz,Sachsen-Anhalt,Germany
+2654005,ROTERFUCHS,Kai  Zeitz,Zeitz,Sachsen-Anhalt,Germany
+2654006,HUGO351,Andre  Jena,Jena,Thueringen,Germany
+2654007,TOM,Thomas  Calau,Calau,Brandenburg,Germany
+2654008,FRECHDACHS,Tilo  Rochlitz,Rochlitz,Sachsen,Germany
+2654009,TTV,Lucas  Freiberg,Freiberg,Sachsen,Germany
+265401,CB0FBG,Crosslink Frn-Mittelsachsen,Mittelsachsen,Sachsen,Germany
+2654010,13RF477,Ruediger  Berlin,Berlin,Berlin,Germany
+2654012,DG3,Daniel  Brand-Erbisdorf,Brand-Erbisdorf,Sachsen,Germany
+2654013,13RF814,Enrico  Hildburghausen,Hildburghausen,Thueringen,Germany
+265403,RL1MTL,Relais Bad Lausick,Bad Lausick,Sachsen,Germany
+2654047,13HN2047,Daniel  Ebeleben,Ebeleben,Thueringen,Germany
+2654103,BEBRA3,Marcel  Sondershausen,Sondershausen,Thueringen,Germany
+2654109,13RF895,Tom  Berlin,Berlin,Berlin,Germany
+2654110,FUERST,Lars  Fuerstenwalde (spree),Fuerstenwalde (spree),Brandenburg,Germany
+2654548,WOLKE01,Kata  Bruenn,Bruenn,Thueringen,Germany
+265456,DMRFRN,Crosslink Frn-Mittelsachsen,Mittelsachsen,Sachsen,Germany
+2654565,AJ1,Andreas  Regis-Breitingen,Regis-Breitingen,Sachsen,Germany
+2654790,U96,Dennis  Bad Lausick,Bad Lausick,Sachsen,Germany
+2654977,13HN640,Silvio  Bruenn,Bruenn,Thueringen,Germany
+2654993,13HN5003,Sebastian  Neuhaus Am Rennweg,Neuhaus Am Rennweg,Thueringen,Germany
 2712978,FR38WIZ,Nicolas,Isere,38,France
 2909740,FRS9740,Nicolas,Lannilis,29,France
+299003,US99L1,Laurent,Usa,310,Usa
 302911,RADIO1_ID,Radioid,Vienne,86,France
+3099001,ES99J1,Jose,Spain,214,Spain
 3300294,RJ294,Jean-Claude,Lormont,,France
 3301896,FRS1896,Eric,Villenave-Dornon,,France
 3302090,FRS090,Jean,Bordeaux,33,France
@@ -5157,6 +5304,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 7360060,DF60T1,Thom,Oise,60,France
 7360061,DF60S1,Samuel,Oise,60,France
 7360062,DF60A1,Alain,Oise,60,France
+7360065,DF99L1,Laurent,Switzerland,228,Switzerland
 7360074,DF74R1,Remy,Haute-Savoie,74,France
 7360075,DF75M1,Martin,Paris,75,France
 7360076,FRS931,P.Antoine,Seine-Maritime,76,France
@@ -5181,6 +5329,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 7360154,DF54F1,Franck,Meurthe-Et-Moselle,54,France
 7360159,DF59L1,Lucas,Nord,59,France
 7360161,DF60S1,Samuel,Oise,60,France
+7360165,DF99J2,J.Claude,Switzerland,228,Switzerland
 7360168,DF68C1,Clement,Haut-Rhin,68,France
 7360173,DF73M1,Max,Savoie,73,France
 7360175,DF75M2,Martin,Paris,75,France
@@ -5192,6 +5341,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 7360192,DF92F2,Francois,Hauts-De-Seine,92,France
 7360194,DF94B1,Bruno,Val-De-Marne,94,France
 7360195,DF95F1,Francois,Val-d Oise,95,France
+7360199,DF99J1,Joao,Switzerland,228,Switzerland
 7360225,DF25H2,Herve,Doubs,25,France
 7360226,DF26C1,Christian,Drome,26,France
 7360228,DF28P2,Pierre,Eure-Et-Loir,28,France
@@ -5200,18 +5350,23 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 7360254,DF54F1,Franck,Meurthe-Et-Moselle,54,France
 7360259,DF59L1,Lucas,Nord,59,France
 7360260,DF60S1,Samuel,Oise,60,France
+7360265,DF99L1,Laurent,Switzerland,228,Switzerland
 7360271,DF71R1,Roger,Seine-Et-Marne,77,France
 7360275,DF75A1,Arnaud,Paris,75,France
 7360278,DF78M2,Michel,Yvelines,78,France
 7360290,DF90G1,Gerard,Territoire-De-Belfort,90,France
 7360294,DF94G1,Georges,Val-De-Marne,94,France
+7360299,DF99G1,Gregory,Belgium,206,Belgium
+7360320,VE2MKX,Jules,Gard,302,Canada
 7360325,DF25J3,Jean,Doubs,25,France
 7360328,DF28L1,Laurent,Eure-Et-Loir,28,France
 7360360,DF60X1,Xavier,Oise,60,France
+7360365,DF99J2,J.Claude,Switzerland,228,Switzerland
 7360375,DF75A1,Arnaud,Paris,75,France
 7360376,DF14F1,Franck,Calvados,14,France
 7360377,DF77D2,Daniel,Seine-Et-Marne,77,France
 7360390,DF90O1,Olivier,Territoire-De-Belfort,90,France
+7360399,DF99G1,Gregory,Belgium,206,Belgium
 7360428,VOIP SRDL2,Tg74,Haute-Savoie,74,France
 7360460,DF60X1,Xavier,Oise,60,France
 7360486,DF25H4,Herve,Doubs,25,France
@@ -5228,6 +5383,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 7360625,RELAIS25,C4fm 25,Doubs,25,France
 7360650,16FRS038,Ronald,Manche,50,France
 7360651,FRS2312,Freddy,Nord,59,France
+7360699,DF99H1,Hugues,Belgium,206,Belgium
 7360725,USRP25,Herve,Doubs,25,France
 7360746,DF62B1,Bertrand,Pas-De-Calais,62,France
 7360749,DF62B1,Bertrand,Pas-De-Calais,62,France
@@ -5283,9 +5439,15 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 8035001,SV35Z0,Zello,Somme,80,France
 8059002,SV59F1,Francis,Nord,59,France
 85130,DMR85F,Fred,Vendee,85,France
+9002001,CA02BS,Benoit,Gard,302,Canada
+9004005,BL04JN,Joseph,Belgium,206,Belgium
+9004006,BL04FC,Francis,Belgium,206,Belgium
+9004008,BL04DF,Dany,Belgium,206,Belgium
 9005404,FR_DMR1,Bridge,Vienne,86,France
+9007006,BE07FC,Francis,Belgium,206,Belgium
 9008888,RFR_NODE1,Node,Vienne,86,France
 9008889,BALISE99,Germaine,Vienne,86,France
+9062005,BL62GR,Giuseppe,Belgium,206,Belgium
 9175001,FR75PM,Pascal,Paris,75,France
 9175002,FR75OM,Othmane,Paris,75,France
 9177001,FR77DM,Daniel,Seine-Et-Marne,77,France
@@ -5475,169 +5637,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 9974003,FR974FS,Frederic,La Reunion,974,France
 9974004,FR974LA,Luciano,La Reunion,974,France
 9974005,FR974BF,Bryan,La Reunion,974,France
+999002,CS99F1,Frederic,Gard,302,Canada
 9994100,FR94DD,Didier,Val-De-Marne,94,France
 9998,RELAIS25,C4fm 25,Doubs,25,France
-2629084,DO1ABZ,Andreas  Zoellnitz,Zoellnitz,Thueringen,Germany
-2651001,DLRB01,Rene  Hamburg,Hamburg,Hamburg,Germany
-2651002,KARO500,Wolfgang  Hamburg,Hamburg,Hamburg,Germany
-2651003,KARO502,Nico  Hamburg,Hamburg,Hamburg,Germany
-2651004,ELBE1,Stefan  Hamburg,Hamburg,Hamburg,Germany
-2651005,HERKULES4,Andreas  Hagenburg,Hagenburg,Niedersachsen,Germany
-2651006,13DW366,Jaro  Braunschweig,Braunschweig,Niedersachsen,Germany
-2651007,ECHO1,Norbert  Fehmarn,Fehmarn,Schleswig-Holstein,Germany
-2651008,MUMBLE TG8 NDS - HB,Mumble Tg8 Nds - Hb,Nds - Hb,Niedersachsen,Germany
-265101,RL1HH,Relais Hamburg,Hamburg,Hamburg,Germany
-2651021,DAX021,Horst  Hameln,Hameln,Niedersachsen,Germany
-265110,RL1OL,Relais Oldenburg Brettorf,Oldenburg Brettorf,Niedersachsen,Germany
-2651100,HUNTE1,Christian  Oldenburg,Oldenburg,Niedersachsen,Germany
-2651101,SHORTY71,Jockel  Oldenburg Brettorf,Oldenburg Brettorf,Niedersachsen,Germany
-2651102,SHORTY71,Jockel  Oldenburg Brettorf,Oldenburg Brettorf,Niedersachsen,Germany
-2651103,MUCKEL,Ann-Katrin  Oldenburg Brettorf,Oldenburg Brettorf,Niedersachsen,Germany
-2651104,JAZZ84,Jessica  Oldenburg Brettorf,Oldenburg Brettorf,Niedersachsen,Germany
-2651105,GAMER,Jonas  Oldenburg Brettorf,Oldenburg Brettorf,Niedersachsen,Germany
-2651106,BROTDOSE,Jules  Oldenburg Brettorf,Oldenburg Brettorf,Niedersachsen,Germany
-2651107,OPENGD77,Chris  Oldenburg Brettorf,Oldenburg Brettorf,Niedersachsen,Germany
-2651108,BIGBLOCK,Denis  Oldenburg Brettorf,Oldenburg Brettorf,Niedersachsen,Germany
-265111,JO43FA,Relais Oldenburg Brettorf (test),Oldenburg Brettorf,Niedersachsen,Germany
-2651111,13MU101,Manfred  Hamburg,Hamburg,Hamburg,Germany
-2651112,DD6BG,Oliver  Hamburg,Hamburg,Hamburg,Germany
-2651123,MUMBLE,Mumble Tg5x5 Nds - Hb,Nds - Hb,Niedersachsen,Germany
-2651151,AKKI72,Axel  Wildeshausen Altona,Wildeshausen Altona,Niedersachsen,Germany
-2651152,MONI77,Monika  Wildeshausen Altona,Wildeshausen Altona,Niedersachsen,Germany
-2651201,DL1MVSN,Erich  Schwerin,Schwerin,Mecklenburg-Vorpommern,Germany
-2651222,13KB22,Barbara  Hamburg,Hamburg,Hamburg,Germany
-265130,RL2OL,Relais Wildeshausen Altona,Wildeshausen Altona,Niedersachsen,Germany
-2651333,BAKE,Info-Bake Freedmr Digital,Germany,Germany,Germany
-2651388,BROKER88,Andy  Vielank,Vielank,Mecklenburg-Vorpommern,Germany
-2651444,REF091,Analog-Reflector 091,Germany,Germany,Germany
-265150,RL1DEL,Relais Delmenhorst Adelheide,Delmenhorst Adelheide,Niedersachsen,Germany
-2651501,BROESEL59,Rolf  Delmenhorst Annenheide,Delmenhorst Annenheide,Niedersachsen,Germany
-2651510,DOLE64,Andreas  Delmenhorst Adelheide,Delmenhorst Adelheide,Niedersachsen,Germany
-2651571,WOLF81,Wolfgang  Heiligenhafen,Heiligenhafen,Schleswig-Holstein,Germany
-2651623,BAKE,Zeitansage Nds/hb,Bremen,Germany,Germany
-2651628,LA0NEA,Lanea  Aerzen,Aerzen,Niedersachsen,Germany
-2651666,1313TH,Torben  Hassmoor,Hassmoor,Schleswig-Holstein,Germany
-265170,RL1HB,Relais Bremen Kattenturm,Bremen Kattenturm,Bremen,Germany
-2651701,BA0FENG,Leo  Bremen Kattenturm,Bremen Kattenturm,Bremen,Germany
-2651702,DINA01,Irmgard  Bremen Kattenturm,Bremen Kattenturm,Bremen,Germany
-2651703,13HN480,Guenther  Bremen Kattenturm,Bremen Kattenturm,Bremen,Germany
-2651720,MAN,Thorsten  Delmenhorst Schoenemoor,Delmenhorst Schoenemoor,Niedersachsen,Germany
-2651788,FR3PWA,Wolfgang  Jever,Jever,Niedersachsen,Germany
-2651822,13RF882,Markus  Lehrte,Lehrte,Niedersachsen,Germany
-2651901,OHZER1,Benjamin  Osterholz-Scharmbeck,Osterholz-Scharmbeck,Niedersachsen,Germany
-2651902,OHZER2,Bjoern  Osterholz-Scharmbeck,Osterholz-Scharmbeck,Niedersachsen,Germany
-2651903,NOBODY,Kim  Osterholz-Scharmbeck,Osterholz-Scharmbeck,Niedersachsen,Germany
-2651904,DR3HBF,Ronny  Bremen,Bremen,Bremen,Germany
-2651988,FR3FMA,Mirko  Varel,Varel,Niedersachsen,Germany
-2651990,WH3CBA,Benny  Wilhelmshaven,Wilhelmshaven,Niedersachsen,Germany
-2652001,OM1NET,Oli  Remseck,Remseck,Baden-Wuerttemberg,Germany
-2652002,POLYKA1,Vince  Mannheim,Mannheim,Baden-Wuerttemberg,Germany
-2652003,DESPERADO,Sascha  Rheinfelden,Rheinfelden,Baden-Wuerttemberg,Germany
-2652004,COBRA08,Axel  Murg,Murg,Baden-Wuerttemberg,Germany
-2652005,DO1F13,Frank  Albbruck,Albbruck,Baden-Wuerttemberg,Germany
-2652006,RECEP,Kray  Muenchen,Muenchen,Bayern,Germany
-2652007,13MZ75,Mario  Herrngiersdorf,Herrngiersdorf,Bayern,Germany
-2652008,13MZ75,Mario  Herrngiersdorf,Herrngiersdorf,Bayern,Germany
-2652009,13MZ75,Mario  Herrngiersdorf,Herrngiersdorf,Bayern,Germany
-2652010,13MZ75,Mario  Herrngiersdorf,Herrngiersdorf,Bayern,Germany
-2652011,DAVE,Dave  Nuernberg,Nuernberg,Bayern,Germany
-2652012,DF94H1,Andreas  Freyung,Freyung,Bayern,Germany
-2652013,13PD10,Paul  Woelbattendorf,Woelbattendorf,Bayern,Germany
-2652014,13PD10,Paul  Woelbattendorf,Woelbattendorf,Bayern,Germany
-2652044,TJ44,Markus  Sonthofen,Sonthofen,Bayern,Germany
-2652100,JD02,Thomas  Oberstdorf,Oberstdorf,Bayern,Germany
-2652700,13HN267,Wolfgang  Neu-Anspach,Neu-Anspach,Hessen,Germany
-2652793,CB93,Clemens  Sonthofen,Sonthofen,Bayern,Germany
-2652814,13AS25,Andreas  Hof,Hof,Bayern,Germany
-2652907,BANDIT,Markus  Troestau,Troestau,Bayern,Germany
-265300,HS1MH,Relais Muelheim,Muelheim,Nordrhein-Westfalen,Germany
-2653001,GERAU01,Peter  Gross-Gerau,Gross-Gerau,Hessen,Germany
-2653002,13HN1276,Juergen  Montabaur,Montabaur,Rheinland-Pfalz,Germany
-2653003,13CT3379,Daniel  Nieheim,Nieheim,Nordrhein-Westfalen,Germany
-2653004,DAC662,Hans-Juergen  Hoexter,Hoexter,Nordrhein-Westfalen,Germany
-2653005,BLUEDEVIL,Sascha  Herne,Herne,Nordrhein-Westfalen,Germany
-2653006,JAGUAR,Uwe  Bruehl,Bruehl,Nordrhein-Westfalen,Germany
-2653007,AMIGO76,Johannes  Schwerte (ruhr),Schwerte (ruhr),Nordrhein-Westfalen,Germany
-2653008,13HN603,Gregor  Frankfurt,Frankfurt,Hessen,Germany
-2653009,DG2,Bernd  Frankfurt,Frankfurt,Hessen,Germany
-2653011,EPL,Erik  Bad Homburg,Bad Homburg,Hessen,Germany
-2653012,ALPHA01,Stephan  Bad Homburg,Bad Homburg,Hessen,Germany
-2653013,DK2,Stefan  Bad Homburg,Bad Homburg,Hessen,Germany
-2653014,TAUNUSRANGER,Volker  Oberursel,Oberursel,Hessen,Germany
-2653015,13TW226,Michael  Pfungstadt,Pfungstadt,Hessen,Germany
-2653016,13ING0,Ingo  Weiterstadt,Weiterstadt,Hessen,Germany
-2653017,GUENNI,Guenni  Frankfurt,Frankfurt,Hessen,Germany
-2653018,GUENNI,Guenni  Frankfurt,Frankfurt,Hessen,Germany
-2653019,BALUNA,Christian  Buerstadt,Buerstadt,Hessen,Germany
-2653020,RHEIN1,Mario  Jockgrim,Jockgrim,Rheinland-Pfalz,Germany
-2653021,GV1DMR,Uwe  Grevenbroich,Grevenbroich,Nordrhein-Westfalen,Germany
-2653022,GVOLI,Olaf  Grevenbroich,Grevenbroich,Nordrhein-Westfalen,Germany
-2653023,PHANT0M,Oliver  Gelsenkirchen,Gelsenkirchen,Nordrhein-Westfalen,Germany
-2653024,HS1DMR,Ulf  Breberen,Breberen,Nordrhein-Westfalen,Germany
-2653025,KARO503,Klaus  Castrop-Rauxel,Castrop-Rauxel,Nordrhein-Westfalen,Germany
-2653026,OL4AFG,Olaf  Dortmund,Dortmund,Nordrhein-Westfalen,Germany
-265303,RL1HX,Relais Nieheim,Nieheim,Nordrhein-Westfalen,Germany
-265304,DMRSVX,Dmr - Analog  Crosslink Castrop-Rauxel,Castrop-Rauxel,Nordrhein-Westfalen,Germany
-2653077,13FB077,Patrick  Muelheim,Muelheim,Nordrhein-Westfalen,Germany
-2653083,KUGELFISCH,Stephanie  Muelheim,Muelheim,Nordrhein-Westfalen,Germany
-2653112,CRISU76,Michael  Schoenenberg-Kuebelberg,Schoenenberg-Kuebelberg,Rheinland-Pfalz,Germany
-2653150,DW1PBJ,Jens  Hoevelhof (lkw),Hoevelhof,Nordrhein-Westfalen,Germany
-2653151,DW1PBJ,Jens  Hoevelhof (hg),Hoevelhof,Nordrhein-Westfalen,Germany
-2653166,13MAD86,Martin  Hammersbach,Hammersbach,Hessen,Germany
-2653200,STH2707,Sven  Bosen-Eckelhausen,Bosen-Eckelhausen,Saarland,Germany
-2653470,JJ COOL J,Jakob  Muelheim,Muelheim,Nordrhein-Westfalen,Germany
-2653479,BUMBLEBEE,Phillipp  Muelheim,Muelheim,Nordrhein-Westfalen,Germany
-2653701,KANE,Micha  Castrop-Rauxel,Castrop-Rauxel,Nordrhein-Westfalen,Germany
-2653702,KANE,Gd77-2 Leihgeraet  Castrop-Rauxel,Castrop-Rauxel,Nordrhein-Westfalen,Germany
-2653703,KANE,Gd77-3 Leihgeraet  Castrop-Rauxel,Castrop-Rauxel,Nordrhein-Westfalen,Germany
-2653704,KANE,Rt3 Leihgeraet  Castrop-Rauxel,Castrop-Rauxel,Nordrhein-Westfalen,Germany
-2653801,EMS1,Micha  Harsewinkel,Harsewinkel,Nordrhein-Westfalen,Germany
-2653802,EMS2,Ulli  Harsewinkel,Harsewinkel,Nordrhein-Westfalen,Germany
-2654001,13BLN82,Markus  Berlin,Berlin,Berlin,Germany
-2654002,DFO702,Hartmut  Frankfurt (oder),Frankfurt(oder),Brandenburg,Germany
-2654003,13OT702,Hartmut  Frankfurt (oder),Frankfurt(oder),Brandenburg,Germany
-2654004,13HN895,Maik  Zeitz,Zeitz,Sachsen-Anhalt,Germany
-2654005,ROTERFUCHS,Kai  Zeitz,Zeitz,Sachsen-Anhalt,Germany
-2654006,HUGO351,Andre  Jena,Jena,Thueringen,Germany
-2654007,TOM,Thomas  Calau,Calau,Brandenburg,Germany
-2654008,FRECHDACHS,Tilo  Rochlitz,Rochlitz,Sachsen,Germany
-2654009,TTV,Lucas  Freiberg,Freiberg,Sachsen,Germany
-265401,CB0FBG,Crosslink Frn-Mittelsachsen,Mittelsachsen,Sachsen,Germany
-2654010,13RF477,Ruediger  Berlin,Berlin,Berlin,Germany
-2654012,DG3,Daniel  Brand-Erbisdorf,Brand-Erbisdorf,Sachsen,Germany
-2654013,13RF814,Enrico  Hildburghausen,Hildburghausen,Thueringen,Germany
-265403,RL1MTL,Relais Bad Lausick,Bad Lausick,Sachsen,Germany
-2654047,13HN2047,Daniel  Ebeleben,Ebeleben,Thueringen,Germany
-2654103,BEBRA3,Marcel  Sondershausen,Sondershausen,Thueringen,Germany
-2654109,13RF895,Tom  Berlin,Berlin,Berlin,Germany
-2654110,FUERST,Lars  Fuerstenwalde (spree),Fuerstenwalde (spree),Brandenburg,Germany
-2654548,WOLKE01,Kata  Bruenn,Bruenn,Thueringen,Germany
-265456,DMRFRN,Crosslink Frn-Mittelsachsen,Mittelsachsen,Sachsen,Germany
-2654565,AJ1,Andreas  Regis-Breitingen,Regis-Breitingen,Sachsen,Germany
-2654790,U96,Dennis  Bad Lausick,Bad Lausick,Sachsen,Germany
-2654977,13HN640,Silvio  Bruenn,Bruenn,Thueringen,Germany
-2654993,13HN5003,Sebastian  Neuhaus Am Rennweg,Neuhaus Am Rennweg,Thueringen,Germany
-1000271,29CT067,Omci2  Bundoran,Bundoran,Donegal,Ireland
-1000272,29CT067,Omci1  Bundoran,Bundoran,Donegal,Ireland
-1000273,29CT067,Ollie  Bundoran,Bundoran,Donegal,Ireland
-1000301,29ICB120,Brian  Dromahair,Dromahair,Leitrim,Ireland
-1000305,29ICB051,Chris  Carrick-On-Shannon,Carrick-On-Shannon,Leitrim,Ireland
-1000306,29IOP076,Les  Dromahair,Dromahair,Leitrim,Ireland
-1000307,29SD029,Michael  Killybegs,Killybegs,Donegal,Ireland
-1499010,ES99E1,Etienne,Spain,214,Spain
-3099001,ES99J1,Jose,Spain,214,Spain
-1599004,HS99J2,J.Carlos,Switzerland,228,Switzerland
-1599008,HS99C1,Carlos,Switzerland,228,Switzerland
-1599016,HS99S3,Stephane,Switzerland,228,Switzerland
-2000007,ZH007,Tino  Zuerich,Zuerich,Zuerich,Switzerland
-2104500,HBSAX64,Erhard  Bern,Bern,Bern,Switzerland
-2281238,CH22PH,Passah,Switzerland,228,Switzerland
-2652015,LASPEZIA79,Maurizio  Veltheim (ag),5106 Veltheim,228,Switzerland
-7360065,DF99L1,Laurent,Switzerland,228,Switzerland
-7360165,DF99J2,J.Claude,Switzerland,228,Switzerland
-7360199,DF99J1,Joao,Switzerland,228,Switzerland
-7360265,DF99L1,Laurent,Switzerland,228,Switzerland
-7360365,DF99J2,J.Claude,Switzerland,228,Switzerland
-299003,US99L1,Laurent,Usa,310,Usa
-1234567,N0CALL,N0call,Worldwide,Worldwide,Worldwide
 9999999,TEST-ID,Test-Id,Worldwide,Worldwide,Worldwide
