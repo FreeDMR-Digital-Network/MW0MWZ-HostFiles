@@ -36,7 +36,7 @@
     "255": "Ukraine",
     "259": "Moldova",
     "260": "Poland",
-    "262": "Germany",
+    "262": "Deutschland",
     "263": "MultiMode DL",
     "268": "Portugal",
     "270": "Luxembourg",
