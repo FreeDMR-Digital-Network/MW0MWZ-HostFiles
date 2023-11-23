@@ -12,4 +12,5 @@ In the DMRIds.dat file, you will find the list of HamRadio and FreeDMR Amateurs 
 
 In the DMR_Hosts.txt file, you will find the list of German HamRadio + FreeDMR Amateurs Radio servers with the
 setup for connection.
+
 73 FreeDMR Digital
