@@ -5656,6 +5656,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2654109,13RF895,Tom,12109 Berlin,Berlin,Germany
 2654110,FUERST,Lars,15517 Fuerstenwalde,Brandenburg,Germany
 2654111,13OT4664,Norbert,12109 Berlin,Berlin,Germany
+2654112,TEDDYBAER,Frank,99713 Allmenhausen,Thueringen,Germany
 2654255,ST63,Thomas,99706 Sondershausen,Thueringen,Germany
 2654265,HYPER,Johannes,39261 Zerbst,Sachsen-Anhalt,Germany
 2654321,JW1HAL,Jan,06132 Halle,Sachsen-Anhalt,Germany
@@ -5684,6 +5685,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2655013,ZELLO,Zello, Freedmr Digital,Freedmr Digital,Germany
 2655014,TXRXDE,Crosslink Tx-Rx.De,06132 Halle - Saale,Sachsen-Anhalt,Germany
 2161111,HSZENTES,Dmr-Repeater Hungary,6600 Szentes,216,Hungary
+2168022,HA8BKG,Karcsi,6600 Szentes,216,Hungary
 1000270,AR2OMCI,Analog-Reflector2, Bundoran,272,Ireland
 1000271,29CT067,Omci, Bundoran,Donegal,Ireland
 1000272,29CT067,Omci, Bundoran,Donegal,Ireland
