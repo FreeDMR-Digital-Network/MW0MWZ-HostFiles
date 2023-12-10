@@ -5683,6 +5683,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2655012,RL1HB,Relais Bremen Kattenturm,28277 Bremen Kattenturm,Bremen,Germany
 2655013,ZELLO,Zello, Freedmr Digital,Freedmr Digital,Germany
 2655014,TXRXDE,Crosslink Tx-Rx.De,06132 Halle - Saale,Sachsen-Anhalt,Germany
+2161111,HSZENTES,Dmr-Repeater Hungary,6600 Szentes,216,Hungary
 1000270,AR2OMCI,Analog-Reflector2, Bundoran,272,Ireland
 1000271,29CT067,Omci, Bundoran,Donegal,Ireland
 1000272,29CT067,Omci, Bundoran,Donegal,Ireland
@@ -5692,8 +5693,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1000305,29ICB051,Chris, Carrick-On-Shannon,Leitrim,Ireland
 1000306,29IOP076,Les, Dromahair,Leitrim,Ireland
 1000307,29SD029,Michael, Killybegs,Donegal,Ireland
+1000309,68TC370,Stephen, Strabane,272,Ireland
 1000501,29IF29,Keelan, Dublin,100,Ireland
-1000309,68TC370,Stephen, Strabane,272,Nireland
 1499010,ES99E1,Etienne, Spain,214,Spain
 3099001,ES99J1,Jose, Spain,214,Spain
 1599004,HS99J2,J.Carlos, Uk,228,Switzerland
