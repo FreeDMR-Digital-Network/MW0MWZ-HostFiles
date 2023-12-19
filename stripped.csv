@@ -21,6 +21,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 7360320,VE2MKX,Jules, Gard,302,Canada
 9002001,CA02BS,Benoit, Gard,302,Canada
 999002,CS99F1,Frederic, Gard,302,Canada
+2653293,13XXD84,Xiaoxia,200001 Shanghai,Volksrepublik China,China
 1011003,KIMI,Khim, France,99,France
 1011247,FRS1247,Joel, Vitry-Sur-Seine,94,France
 1012006,F11FGU,Michel, Hauts-De-Seine,92,France
@@ -5612,6 +5613,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653031,IVINY,Helga,51063 Koeln,Nordrhein-Westfalen,Germany
 2653032,FR3DDY,Manfred,61267 Neu-Anspach,Hessen,Germany
 2653033,PRINTE78,Juergen,52062 Aachen,Nordrhein-Westfalen,Germany
+2653034,13RF001,Norbert,41564 Kaarst,Nordrhein-Westfalen,Germany
 2653049,DE49UH,Uwe,45359 Essen,Nordrhein-Westfalen,Germany
 2653077,13FB077,Patrick,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653083,KUGELFISCH,Stephanie,45470 Muelheim,Nordrhein-Westfalen,Germany
@@ -5627,6 +5629,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653299,INTRUDER61,Josef,52249 Eschweiler,Nordrhein-Westfalen,Germany
 2653470,JJ COOL J,Jakob,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653479,BUMBLEBEE,Phillipp,45470 Muelheim,Nordrhein-Westfalen,Germany
+2653680,D08FKK,Kai,63584 Gruendau-Hain,Hessen,Germany
 2653701,KANE,Micha,44577 Castrop-Rauxel,Nordrhein-Westfalen,Germany
 2653702,KANE,Micha,44577 Castrop-Rauxel,Nordrhein-Westfalen,Germany
 2653703,KANE,Micha,44577 Castrop-Rauxel,Nordrhein-Westfalen,Germany
@@ -5653,6 +5656,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2654016,NUFFY,Andreas,04329 Leipzig,Sachsen,Germany
 2654017,13TH2411,Andreas,04205 Leipzig,Sachsen,Germany
 2654018,13TH307,Ronny,98529 Suhl,Thueringen,Germany
+2654019,13MHBER1,Mark,10305 Berlin,Berlin,Germany
 2654047,13HN2047,Daniel,99713 Ebeleben,Thueringen,Germany
 2654103,BEBRA3,Marcel,99706 Sondershausen,Thueringen,Germany
 2654109,13RF895,Tom,12109 Berlin,Berlin,Germany
@@ -5686,7 +5690,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2655011,DMRFRN,Crosslink Frn-Mittelsachsen, Mittelsachsen,Sachsen,Germany
 2655012,RL1HB,Relais Bremen Kattenturm,28277 Bremen Kattenturm,Bremen,Germany
 2655013,ZELLO,Zello, Freedmr Digital,Freedmr Digital,Germany
-2655014,TXRXDE,Crosslink Tx-Rx.De,06132 Halle - Saale,Sachsen-Anhalt,Germany
+2655014,RL2HB,Crosslink Bremen City,28195 Bremen,Bremen,Germany
+2655015,TXRXDE,Crosslink Tx-Rx.De,06132 Halle - Saale,Sachsen-Anhalt,Germany
 2161111,HSZENTES,Dmr-Repeater Hungary,6600 Szentes,216,Hungary
 2168022,HA8BKG,Karcsi,6600 Szentes,216,Hungary
 1000270,AR2OMCI,Analog-Reflector2, Bundoran,272,Ireland
