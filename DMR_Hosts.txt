@@ -37,9 +37,6 @@ BM_2622_Germany			2622	2622.master.brandmeister.network	passw0rd	62031
 # Country			DMR-ID	IP/Hostname				Password	Port #
 ######################################################################################################
 FreeDMR_Digital			0000	freedmr.digital				passw0rd	62031
-FreeDMR_Digital_1		0000	freedmr-germany.de			passw0rd	62031
-FreeDMR_Digital_2		0000	freedmr.network				passw0rd	62031
-FreeDMR_Digital_Ersatz	0000	droidstar.de				passw0rd	62031
 FreeDMR_Bayern			0000	dmr446.ddnss.de				passw0rd	62031
 FreeDMR_Ireland			0000	unmsomci.myvnc.com			passw0rd	62031
 FreeDMR_Ungarn			0000	bencsikserver.hu			passw0rd	62031
