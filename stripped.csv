@@ -5521,6 +5521,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651468,SCHNEEFLOCKE,Stephan,38300 Wolfenbuettel,Niedersachsen,Germany
 2651501,BROESEL59,Rolf,27755 Delmenhorst Annenheide,Niedersachsen,Germany
 2651510,DOLE64,Andreas,27755 Delmenhorst Adelheide,Niedersachsen,Germany
+2651538,13RF1538,Martin,29308 Meissendorf,Niedersachsen,Germany
 2651555,13HN048,Manfred,22417 Hamburg,Hamburg,Germany
 2651571,WOLF81,Wolfgang,23774 Heiligenhafen,Schleswig-Holstein,Germany
 2651609,13RF137,Thorsten,31224 Peine,Niedersachsen,Germany
@@ -5614,10 +5615,12 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653032,FR3DDY,Manfred,61267 Neu-Anspach,Hessen,Germany
 2653033,PRINTE78,Juergen,52062 Aachen,Nordrhein-Westfalen,Germany
 2653034,13RF001,Norbert,41564 Kaarst,Nordrhein-Westfalen,Germany
+2653035,11AS02,Andreas,59427 Unna,Nordrhein-Westfalen,Germany
 2653049,DE49UH,Uwe,45359 Essen,Nordrhein-Westfalen,Germany
 2653077,13FB077,Patrick,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653083,KUGELFISCH,Stephanie,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653101,BAMBI,Ria,46446 Emmerich Am Rhein,Nordrhein-Westfalen,Germany
+2653106,13RF1006,Gerhard,58453 Witten,Nordrhein-Westfalen,Germany
 2653112,CRISU76,Michael,66901 Schoenenberg-Kuebelberg,Rheinland-Pfalz,Germany
 2653149,D09FLW,Lea,63517 Rodenbach,Hessen,Germany
 2653150,DW1PBJ,Jens,33161 Hoevelhof,Nordrhein-Westfalen,Germany
