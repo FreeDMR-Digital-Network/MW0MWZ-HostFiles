@@ -5581,6 +5581,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2652814,13AS25,Andreas,95028 Hof,Bayern,Germany
 2652907,BANDIT,Markus,95709 Troestau,Bayern,Germany
 2652983,13RBK83,Peter,93309 Kelheim,Bayern,Germany
+2653000,13HN562,Bernhard,56218 Muelheim-Kaerlich,Rheinland-Pfalz,Germany
 2653001,GERAU01,Peter,64521 Gross-Gerau,Hessen,Germany
 2653002,13HN1276,Juergen,56410 Montabaur,Rheinland-Pfalz,Germany
 2653003,EGGE01,Daniel,33039 Nieheim,Nordrhein-Westfalen,Germany
@@ -5660,6 +5661,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2654017,13TH2411,Andreas,04205 Leipzig,Sachsen,Germany
 2654018,13TH307,Ronny,98529 Suhl,Thueringen,Germany
 2654019,13MHBER1,Mark,10305 Berlin,Berlin,Germany
+2654020,DE2TRF,Torsten,08223 Falkenstein,Sachsen,Germany
 2654047,13HN2047,Daniel,99713 Ebeleben,Thueringen,Germany
 2654103,BEBRA3,Marcel,99706 Sondershausen,Thueringen,Germany
 2654109,13RF895,Tom,12109 Berlin,Berlin,Germany
