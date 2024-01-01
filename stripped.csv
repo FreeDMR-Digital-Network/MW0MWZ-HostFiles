@@ -5555,7 +5555,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2652006,RECEP,Kray,80335 Muenchen,Bayern,Germany
 2652010,13MZ75,Mario,84097 Herrngiersdorf,Bayern,Germany
 2652011,DAVE,Dave,90411 Nuernberg,Bayern,Germany
-2652012,DF94H1,Andreas,94078 Freyung,Bayern,Germany
+2652012,CB0FRG,Andreas,94078 Freyung,Bayern,Germany
 2652013,13PD10,Paul,95030 Woelbattendorf,Bayern,Germany
 2652014,13PD10,Paul,95030 Woelbattendorf,Bayern,Germany
 2652015,13GB75,Gerd,94508 Schoellnach,Bayern,Germany
@@ -5569,6 +5569,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2652023,MIKE ROMEO,Markus,96317 Kronach,Bayern,Germany
 2652024,13RF878,Heinrich,91233 Kersbach,Bayern,Germany
 2652025,HOTEL LIMA,Hansi,97797 Wartmannsroth,Bayern,Germany
+2652026,13RF188,Seddi,91088 Bubenreuth,Bayern,Germany
 2652035,EREMIT,Ralph,90587 Veitsbronn,Bayern,Germany
 2652044,TJ44,Markus,87527 Sonthofen,Bayern,Germany
 2652100,JD02,Thomas,87561 Oberstdorf,Bayern,Germany
@@ -5706,6 +5707,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2655014,RL2HB,Crosslink Bremen City,28195 Bremen,Bremen,Germany
 2655015,TXRXDE,Crosslink Tx-Rx.De,06132 Halle - Saale,Sachsen-Anhalt,Germany
 2161111,HSZENTES,Dmr-Repeater Hungary,6600 Szentes,216,Hungary
+2168001,CSZOLI,Zoli,6600 Szentes,216,Hungary
 2168022,HA8BKG,Karcsi,6600 Szentes,216,Hungary
 1000270,AR2OMCI,Analog-Reflector2, Bundoran,272,Ireland
 1000271,29CT067,Omci, Bundoran,Donegal,Ireland
