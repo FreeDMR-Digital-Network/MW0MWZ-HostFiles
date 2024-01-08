@@ -18,6 +18,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 9004008,BL04DF,Dany, Belgium,206,Belgium
 9007006,BE07FC,Francis, Belgium,206,Belgium
 9062005,BL62GR,Giuseppe, Belgium,206,Belgium
+3020000,BOBFLOOF,Philippe, Quebec,302,Canada
 7360320,VE2MKX,Jules, Gard,302,Canada
 9002001,CA02BS,Benoit, Gard,302,Canada
 999002,CS99F1,Frederic, Gard,302,Canada
@@ -5534,6 +5535,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651701,BA0FENG,Leo,28277 Bremen Kattenturm,Bremen,Germany
 2651702,DINA01,Irmgard,28277 Bremen Kattenturm,Bremen,Germany
 2651703,13HN480,Guenther,28277 Bremen Kattenturm,Bremen,Germany
+2651707,13DT561,Chris,18439 Stralsund,Mecklenburg-Vorpommern,Germany
 2651717,13LU17,Paul,31134 Hildesheim,Niedersachsen,Germany
 2651720,MAN,Thorsten,27777 Delmenhorst Schoenemoor,Niedersachsen,Germany
 2651747,13DPH207,Udo,31174 Schellerten,Niedersachsen,Germany
@@ -5574,6 +5576,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2652024,13RF878,Heinrich,91233 Kersbach,Bayern,Germany
 2652025,HOTEL LIMA,Hansi,97797 Wartmannsroth,Bayern,Germany
 2652026,13RF188,Seddi,91088 Bubenreuth,Bayern,Germany
+2652027,13CT866,Andreas,83435 Bad Reichenhall,Bayern,Germany
 2652035,EREMIT,Ralph,90587 Veitsbronn,Bayern,Germany
 2652044,TJ44,Markus,87527 Sonthofen,Bayern,Germany
 2652100,JD02,Thomas,87561 Oberstdorf,Bayern,Germany
@@ -5711,10 +5714,12 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2655013,ZELLO,Zello, Freedmr Digital,Freedmr Digital,Germany
 2655014,RL2HB,Crosslink Bremen City,28195 Bremen,Bremen,Germany
 2655015,TXRXDE,Crosslink Tx-Rx.De,06132 Halle - Saale,Sachsen-Anhalt,Germany
+2160063,HA8FP,Jozsi,6700 Szeged,216,Hungary
 2161111,HSZENTES,Dmr-Repeater Hungary,6600 Szentes,216,Hungary
 2161112,DVSHUN,Dvswitch,6600 Szentes,216,Hungary
 2161113,HZELLO,Zellolink,6600 Szentes,216,Hungary
 2167001,638-GYURI,Gyuri,3000 Hatvan,216,Hungary
+2167033,HA7WDD,Gyuri,3000 Hatvan,216,Hungary
 2167111,HATVAN,Repeater,3000 Hatvan,216,Hungary
 2168000,93S-KARCSI,Karcsi,6600 Szentes,216,Hungary
 2168001,CSZOLI,Zoli,6600 Szentes,216,Hungary
@@ -5730,6 +5735,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1000307,29SD029,Michael, Killybegs,Donegal,Ireland
 1000309,68TC370,Stephen, Strabane,272,Ireland
 1000501,29IF29,Keelan, Dublin,100,Ireland
+2049000,NAHKATO,Max, Eindhoven,204,Netherlands
 1499010,ES99E1,Etienne, Spain,214,Spain
 3099001,ES99J1,Jose, Spain,214,Spain
 1599004,HS99J2,J.Carlos, Uk,228,Switzerland
