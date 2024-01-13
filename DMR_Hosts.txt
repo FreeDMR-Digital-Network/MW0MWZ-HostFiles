@@ -31,7 +31,7 @@ BM_2621_Germany			2621	2621.master.brandmeister.network	passw0rd	62031
 BM_2622_Germany			2622	2622.master.brandmeister.network	passw0rd	62031
 ######################################################################################################
 #
-#				FreeDMR Network Germany, France, Ireland, UK  DE/F/IE/UK Hosts Below for licenced free
+# FreeDMR Network Germany, France, Ireland, HUngary - UK  DE/F/IE/UK/HU Hosts Below for licenced free
 #
 ######################################################################################################
 # Country			DMR-ID	IP/Hostname				Password	Port #
@@ -39,7 +39,6 @@ BM_2622_Germany			2622	2622.master.brandmeister.network	passw0rd	62031
 FreeDMR_Digital			0000	freedmr.digital				passw0rd	62031
 FreeDMR_Bayern			0000	dmr446.ddnss.de				passw0rd	62031
 FreeDMR_Ireland			0000	unmsomci.myvnc.com			passw0rd	62031
-FreeDMR_Ungarn			0000	bencsikserver.hu			passw0rd	62031
+FreeDMR_Ungarn			0000	freedmr.hu					passw0rd	62031
 FreeDMR_France			0000	serveur-f62dmr.fr			passw0rd	55555
-FreeDMR_UK				0000	test.uk						passw0rd	62031
 ######################################################################################################
