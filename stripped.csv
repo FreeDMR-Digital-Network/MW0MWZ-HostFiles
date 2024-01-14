@@ -5500,6 +5500,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651013,13EK174,Patrick,30966 Hemmingen,Niedersachsen,Germany
 2651014,DP1NMS,Dieter,24563 Neumuenster,Schleswig-Holstein,Germany
 2651015,BLUEDOG,Simon,26131 Oldenburg,Niedersachsen,Germany
+2651016,ALF1957,Ralf,22047 Hamburg,Hamburg,Germany
 2651021,DAX021,Horst,31785 Hameln,Niedersachsen,Germany
 2651100,HUNTE1,Christian,26131 Oldenburg,Niedersachsen,Germany
 2651101,SHORTY71,Jockel,27801 Oldenburg Brettorf,Niedersachsen,Germany
@@ -5523,6 +5524,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651280,INDIAGOLF,Ingo,24214 Gettorf,Schleswig-Holstein,Germany
 2651333,BAKE262,Info-Bake Freedmr Digital,22417 Germany,Germany,Germany
 2651388,BROKER88,Andy,19303 Vielank,Mecklenburg-Vorpommern,Germany
+2651410,13DG80,Dierk,31228 Peine,Niedersachsen,Germany
 2651444,REF091,Analog-Reflector 091,22417 Germany,Germany,Germany
 2651468,SCHNEEFLOCKE,Stephan,38300 Wolfenbuettel,Niedersachsen,Germany
 2651501,BROESEL59,Rolf,27755 Delmenhorst Annenheide,Niedersachsen,Germany
@@ -5631,6 +5633,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653036,13RF228,Marko,32791 Lage,Nordrhein-Westfalen,Germany
 2653037,HS1HB,Holm,52531 Uebach-Palenberg,Nordrhein-Westfalen,Germany
 2653038,DE45OP,Oliver,45899 Gelsenkirchen,Nordrhein-Westfalen,Germany
+2653039,13RF2709,Uwe,58509 Luedenscheid,Nordrhein-Westfalen,Germany
+2653040,DM9DMF,Marcel,32609 Huellhorst,Nordrhein-Westfalen,Germany
 2653049,DE49UH,Uwe,45359 Essen,Nordrhein-Westfalen,Germany
 2653050,13HN308,Christian,58456 Witten,Nordrhein-Westfalen,Germany
 2653077,13FB077,Patrick,45470 Muelheim,Nordrhein-Westfalen,Germany
