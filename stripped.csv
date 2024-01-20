@@ -5501,6 +5501,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651014,DP1NMS,Dieter  Neumuenster,Neumuenster,Schleswig-Holstein,Germany
 2651015,BLUEDOG,Simon  Oldenburg,Oldenburg,Niedersachsen,Germany
 2651016,ALF1957,Ralf  Hamburg,Hamburg,Hamburg,Germany
+2651017,DN2KJ,Lukas  Soltendiek,Soltendiek,Niedersachsen,Germany
 2651021,DAX021,Horst  Hameln,Hameln,Niedersachsen,Germany
 2651100,HUNTE1,Christian  Oldenburg,Oldenburg,Niedersachsen,Germany
 2651101,SHORTY71,Jockel  Oldenburg Brettorf,Oldenburg Brettorf,Niedersachsen,Germany
@@ -5578,7 +5579,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2652022,SPUTNIK,Harry  Schweinfurt,Schweinfurt,Bayern,Germany
 2652023,MIKE ROMEO,Markus  Kronach,Kronach,Bayern,Germany
 2652024,13RF878,Heinrich  Kersbach,Kersbach,Bayern,Germany
-2652025,HOTEL LIMA,Hansi  Wartmannsroth,Wartmannsroth,Bayern,Germany
+2652025,HOTELLIMA,Hansi  Wartmannsroth,Wartmannsroth,Bayern,Germany
 2652026,13RF188,Seddi  Bubenreuth,Bubenreuth,Bayern,Germany
 2652027,13CT866,Andreas  Bad Reichenhall,Bad Reichenhall,Bayern,Germany
 2652035,EREMIT,Ralph  Veitsbronn,Veitsbronn,Bayern,Germany
@@ -5661,10 +5662,12 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653702,KANE,Gd77-2 Leihgeraet  Castrop-Rauxel,Castrop-Rauxel,Nordrhein-Westfalen,Germany
 2653703,KANE,Gd77-3 Leihgeraet  Castrop-Rauxel,Castrop-Rauxel,Nordrhein-Westfalen,Germany
 2653704,KANE,Rt3 Leihgeraet  Castrop-Rauxel,Castrop-Rauxel,Nordrhein-Westfalen,Germany
+2653771,13ML29,Markus  Herne,Herne,Nordrhein-Westfalen,Germany
 2653801,EMS1,Micha  Harsewinkel,Harsewinkel,Nordrhein-Westfalen,Germany
 2653802,EMS2,Ulli  Harsewinkel,Harsewinkel,Nordrhein-Westfalen,Germany
 2653963,D12FCMT,Chris  Bruchkoebel,Bruchkoebel,Hessen,Germany
 2653967,13GS967,Guido  Dueren,Dueren,Nordrhein-Westfalen,Germany
+2653981,NACHTFALKE,Joerg  Offenbach-Bieber,Offenbach-Bieber,Hessen,Germany
 2654001,13BLN82,Markus  Berlin,Berlin,Berlin,Germany
 2654002,DFO702,Hartmut  Frankfurt - Oder,Frankfurt,Brandenburg,Germany
 2654003,13OT702,Hartmut  Frankfurt - Oder,Frankfurt,Brandenburg,Germany
@@ -5730,10 +5733,10 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2161111,HSZENTES,Dmr-Repeater Hungary,Szentes,216,Hungary
 2161112,DVSHUN,Dvshun  Szentes,Szentes,216,Hungary
 2161113,HZELLO,Hzello  Szentes,Szentes,216,Hungary
-2167001,638-GYURI,Gyuri  Hatvan,Hatvan,216,Hungary
+2167001,638GYURI,Gyuri  Hatvan,Hatvan,216,Hungary
 2167033,HA7WDD,Gyuri  Hatvan,Hatvan,216,Hungary
 2167111,HATVAN,Dmr-Repeater Freedmr Hungary,Hatvan,216,Hungary
-2168000,93S-KARCSI,Karcsi  Szentes,Szentes,216,Hungary
+2168000,93SKARCSI,Karcsi  Szentes,Szentes,216,Hungary
 2168001,CSZOLI,Zoli  Szentes,Szentes,216,Hungary
 2168022,HA8BKG,Karcsi  Szentes,Szentes,216,Hungary
 1000270,AR2OMCI,Analog-Reflector2 Freedmr Ireland,Bundoran,272,Ireland
