@@ -5577,9 +5577,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2652020,13TH562,Sven  Stuttgart,Stuttgart,Baden-Wuerttemberg,Germany
 2652021,FLATLINE,Andreas  Stuttgart,Stuttgart,Baden-Wuerttemberg,Germany
 2652022,SPUTNIK,Harry  Schweinfurt,Schweinfurt,Bayern,Germany
-2652023,MIKE ROMEO,Markus  Kronach,Kronach,Bayern,Germany
+2652023,MIKEROMEO,Markus  Kronach,Kronach,Bayern,Germany
 2652024,13RF878,Heinrich  Kersbach,Kersbach,Bayern,Germany
-2652025,HOTELLI,Hansi  Wartmannsroth,Wartmannsroth,Bayern,Germany
+2652025,HOTELLIMA,Hansi  Wartmannsroth,Wartmannsroth,Bayern,Germany
 2652026,13RF188,Seddi  Bubenreuth,Bubenreuth,Bayern,Germany
 2652027,13CT866,Andreas  Bad Reichenhall,Bad Reichenhall,Bayern,Germany
 2652035,EREMIT,Ralph  Veitsbronn,Veitsbronn,Bayern,Germany
@@ -5605,7 +5605,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653007,AMIGO76,Johannes  Schwerte - Ruhr,Schwerte,Nordrhein-Westfalen,Germany
 2653008,13HN603,Gregor  Frankfurt,Frankfurt,Hessen,Germany
 2653009,DG2,Bernd  Frankfurt,Frankfurt,Hessen,Germany
-2653010,PAPA BAER,Claus  Herford,Herford,Nordrhein-Westfalen,Germany
+2653010,PAPABAER,Claus  Herford,Herford,Nordrhein-Westfalen,Germany
 2653011,EPL,Erik  Bad Homburg,Bad Homburg,Hessen,Germany
 2653012,ALPHA01,Stephan  Bad Homburg,Bad Homburg,Hessen,Germany
 2653013,DK2,Stefan  Bad Homburg,Bad Homburg,Hessen,Germany
@@ -5654,7 +5654,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653200,STH2707,Sven  Bosen-Eckelhausen,Bosen-Eckelhausen,Saarland,Germany
 2653299,INTRUDER61,Josef  Eschweiler,Eschweiler,Nordrhein-Westfalen,Germany
 2653399,13DH9,Udo  Verl,Verl,Nordrhein-Westfalen,Germany
-2653470,JJ COOL J,Jakob  Muelheim,Muelheim,Nordrhein-Westfalen,Germany
+2653470,JJ_COOL_J,Jakob  Muelheim,Muelheim,Nordrhein-Westfalen,Germany
 2653479,BUMBLEBEE,Phillipp  Muelheim,Muelheim,Nordrhein-Westfalen,Germany
 2653523,D02FSH,Stephan  Rodenbach,Rodenbach,Hessen,Germany
 2653680,D08FKK,Kai  Gruendau-Hain,Gruendau-Hain,Hessen,Germany
