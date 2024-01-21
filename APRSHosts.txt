@@ -7,5 +7,4 @@ euro.aprs2.net:14580;Universal connection for servers in Europe and Africa
 asia.aprs2.net:14580;Universal connection for servers in Asia
 aunz.aprs2.net:14580;Universal connection for servers in Oceania
 aprs.hc.r1.ampr.org:14580:Universal Connection for Global Hamnet Loadbalance 
-cbaprs.dyndns.org:14580;CPAPRS DynDNS
-cbaprs.de:27235;CBAPRS Germany
+daprs.de:14580;APRS FreeDNR Digital
