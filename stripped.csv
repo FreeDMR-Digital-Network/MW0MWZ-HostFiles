@@ -5501,7 +5501,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651014,DP1NMS,Dieter  Neumuenster,Neumuenster,Schleswig-Holstein,Germany
 2651015,BLUEDOG,Simon  Oldenburg,Oldenburg,Niedersachsen,Germany
 2651016,ALF1957,Ralf  Hamburg,Hamburg,Hamburg,Germany
-2651017,13LE011,Lukas  Soltendiek,Soltendiek,Niedersachsen,Germany
+2651017,13LE011,Lukas  Soltendieck,Soltendieck,Niedersachsen,Germany
 2651021,DAX021,Horst  Hameln,Hameln,Niedersachsen,Germany
 2651100,HUNTE1,Christian  Oldenburg,Oldenburg,Niedersachsen,Germany
 2651101,SHORTY71,Jockel  Oldenburg Brettorf,Oldenburg Brettorf,Niedersachsen,Germany
@@ -5552,8 +5552,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651903,NOBODY,Kim  Osterholz-Scharmbeck,Osterholz-Scharmbeck,Niedersachsen,Germany
 2651904,DR3HBF,Ronny  Bremen,Bremen,Bremen,Germany
 2651905,CB37OHZ,Sven  Osterholz-Scharmbeck,Osterholz-Scharmbeck,Niedersachsen,Germany
+2651973,13CH04,Carsten  Soltendieck,Soltendieck,Niedersachsen,Germany
 2651948,13ABZ48,Peter  Peine,Peine,Niedersachsen,Germany
-2651955,13ME011,Matthias  Soltendiek,Soltendiek,Niedersachsen,Germany
+2651955,13ME011,Matthias  Soltendieck,Soltendieck,Niedersachsen,Germany
 2651988,FR3FMA,Mirko  Varel,Varel,Niedersachsen,Germany
 2651990,WH3CBA,Benny  Wilhelmshaven,Wilhelmshaven,Niedersachsen,Germany
 2651998,13BE998,Thomas  Hildesheim,Hildesheim,Niedersachsen,Germany
@@ -5582,6 +5583,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2652025,HOTELLIMA,Hansi  Wartmannsroth,Wartmannsroth,Bayern,Germany
 2652026,13RF188,Seddi  Bubenreuth,Bubenreuth,Bayern,Germany
 2652027,13CT866,Andreas  Bad Reichenhall,Bad Reichenhall,Bayern,Germany
+2652028,DN7MG,Peter  Kirchenlamitz,Kirchenlamitz,Bayern,Germany
 2652035,EREMIT,Ralph  Veitsbronn,Veitsbronn,Bayern,Germany
 2652044,TJ44,Markus  Sonthofen,Sonthofen,Bayern,Germany
 2652100,JD02,Thomas  Oberstdorf,Oberstdorf,Bayern,Germany
