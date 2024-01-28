@@ -5643,6 +5643,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653040,DM9DMF,Marcel,32609 Huellhorst,Nordrhein-Westfalen,Germany
 2653041,AF53506,Andreas,53506 Kesseling,Rheinland-Pfalz,Germany
 2653042,EGGE02,Tim,33039 Nieheim,Nordrhein-Westfalen,Germany
+2653043,OTTSCHO74,Stefan,35619 Braunfels,Nordrhein-Westfalen,Germany
+2653044,NASENBAER01,David,35619 Braunfels,Nordrhein-Westfalen,Germany
 2653049,DE49UH,Uwe,45359 Essen,Nordrhein-Westfalen,Germany
 2653050,13HN308,Christian,58456 Witten,Nordrhein-Westfalen,Germany
 2653077,13FB077,Patrick,45470 Muelheim,Nordrhein-Westfalen,Germany
@@ -5744,7 +5746,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2161113,HZELLO,Zellolink,6600 Szentes,216,Hungary
 2167001,638GYURI,Gyuri,3000 Hatvan,216,Hungary
 2167033,HA7WDD,Gyuri,3000 Hatvan,216,Hungary
-2167111,HATVAN,Repeater,3000 Hatvan,216,Hungary
+2167111,HATVAN,Repeater Szentes,3000 Hatvan,216,Hungary
+216800,DXSZENTES,Repeater Szentes,6600 Szentes,216,Hungary
 2168000,93SKARCSI,Karcsi,6600 Szentes,216,Hungary
 2168001,CSZOLI,Zoli,6600 Szentes,216,Hungary
 2168022,HA8BKG,Karcsi,6600 Szentes,216,Hungary
