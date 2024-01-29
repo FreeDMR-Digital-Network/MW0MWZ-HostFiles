@@ -18,11 +18,69 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 9004008,BL04DF,Dany, Belgium,206,Belgium
 9007006,BE07FC,Francis, Belgium,206,Belgium
 9062005,BL62GR,Giuseppe, Belgium,206,Belgium
+999002,CS99F1,Frederic, Gard,302,Canada
 3020000,BOBFLOOF,Philippe, Quebec,302,Canada
 7360320,VE2MKX,Jules, Gard,302,Canada
 9002001,CA02BS,Benoit, Gard,302,Canada
-999002,CS99F1,Frederic, Gard,302,Canada
 4553293,13XXD84,Xiaoxia,200001 Shanghai,Volksrepublik China,China
+4553294,BY4GRL,Crosslink Shanghai,200001 Shanghai,Volksrepublik China,China
+173,MUMBLE974,974dmr,974 La Reunion,La Reunion,France
+9998,RELAIS25,C4fm 25, Doubs,25,France
+44001,RELAIS44,44dmr, Loire-Atlantique,44,France
+44101,RELAIS44,44dmr, Loire-Atlantique,44,France
+44144,DMR03F,Philippe, Loire-Atlantique,44,France
+44150,RELAIS44,44dmr, Loire-Atlantique,44,France
+44151,RELAIS44,44dmr, Loire-Atlantique,44,France
+44152,RELAIS44,44dmr, Loire-Atlantique,44,France
+44160,RELAIS44,44dmr, Loire-Atlantique,44,France
+44270,RELAIS44,44dmr, Loire-Atlantique,44,France
+44340,DRM02F,Fabrice, Loire-Atlantique,44,France
+44342,DMR02F,Fabrice, Loire-Atlantique,44,France
+44345,RELAIS44,44dmr, Loire-Atlantique,44,France
+44371,44DRM,Philippe, Loire-Atlantique,44,France
+44400,44DMR,Benjamin, Loire-Atlantique,44,France
+44450,44DMR,Hspot_nantes, Loire-Atlantique,44,France
+44521,RELAIS44,44dmr, Loire-Atlantique,44,France
+44522,RELAIS44,Sud44000, Loire-Atlantique,44,France
+44523,DMR07F,Fabrice, Loire-Atlantique,44,France
+44544,44DMR,Hspot_nantes, Loire-Atlantique,44,France
+44642,FALCON44,Philippe, Loire-Atlantique,44,France
+44644,RELAIS44,44dmr, Loire-Atlantique,44,France
+44646,RELAIS44,44dmr, Loire-Atlantique,44,France
+44741,44DRM,Philippe, Loire-Atlantique,44,France
+44760,RELAIS44,44dmr, Loire-Atlantique,44,France
+66000,RELAIS44,44dmr, Loire-Atlantique,44,France
+85130,DMR85F,Fred, Vendee,85,France
+97491,14NC205,Sergio, Essonne,91,France
+103770,FRS3770,Francois, Charente-Maritime,17,France
+114245,FRS2450,Ludo, Hauts-De-Seine,92,France
+141507,FRS1507,Fabien, Nord,59,France
+141907,FRS1907,J.Pierre, Isere,38,France
+149200,ISPT_1,Server, Hauts-De-Seine,92,France
+173975,173975,Marc, La Reunion,974,France
+208269,F1ZQR,Relais, Rhone,69,France
+302911,RADIO1_ID,Radioid, Vienne,86,France
+441501,RELAIS44,44dmr, Loire-Atlantique,44,France
+444000,44DMR,Benjamin, Loire-Atlantique,44,France
+444210,44DMR,Benjamin, Loire-Atlantique,44,France
+446400,FRS7900,Fabrice, Loire-Atlantique,44,France
+446401,44DMR,Hspot_nantes, Loire-Atlantique,44,France
+446403,44DMR,Fabrice, Loire-Atlantique,44,France
+953301,DVI33,Dvi33, Gironde,33,France
+971001,971DMR,Bruno, Guadeloupe,971,France
+971002,971DMR,Bruno, Guadeloupe,971,France
+971003,971DMR,Bruno, Guadeloupe,971,France
+971004,971DMR,Bruno, Guadeloupe,971,France
+971005,971DMR,Bruno, Guadeloupe,971,France
+971006,971DMR,Bruno, Guadeloupe,971,France
+971007,971DMR,Bruno, Guadeloupe,971,France
+971008,971DMR,Bruno, Guadeloupe,971,France
+971009,971DMR,Bruno, Guadeloupe,971,France
+971011,971DMR,R.Club 971, Guadeloupe,971,France
+974000,BALISE9X,Tg974, La Reunion,974,France
+974173,BALISE9X,Tg974, La Reunion,974,France
+974410,971DMR,R.Club 971, Guadeloupe,971,France
+984020,DVSHT40,Tel40, Landes,40,France
 1011003,KIMI,Khim, France,99,France
 1011247,FRS1247,Joel, Vitry-Sur-Seine,94,France
 1012006,F11FGU,Michel, Hauts-De-Seine,92,France
@@ -30,7 +88,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1013757,FRS3757,Emmanuel, Youx,Puy-De-Dome (63),France
 1014394,FRS3936,Camille, Aveyron,12,France
 1014974,173MR01,Maurice, Cilaos Reunion,974,France
-103770,FRS3770,Francois, Charente-Maritime,17,France
 1042008,CORSE2B,Relais De Furiani, ,2b,France
 1106399,KW5X,Hugh, Guadeloupe,971,France
 1140001,FRS0001,Dominique, Seine-Et-Marne,77,France
@@ -2478,7 +2535,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1142447,FRS2447,Anthony, Paris,75,France
 1142448,FRS2448,Pierre, Deux-Sevres,79,France
 1142449,FRS2449,Marcel, Aisne,2,France
-114245,FRS2450,Ludo, Hauts-De-Seine,92,France
 1142450,FRS2450,Ludovic, Hauts-De-Seine,92,France
 1142451,FRS2451,Philippe, Cote-d Or,21,France
 1142452,FRS2452,Patrick, Isere,38,France
@@ -4846,9 +4902,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1414001,FS14L1,Laurent, Calvados,14,France
 1414281,F14PL28,Pierre, Eure-Et-Loir,28,France
 1414450,FRS1445,Joel, Tarn,81,France
-141507,FRS1507,Fabien, Nord,59,France
 1415590,FS92P1,Patrice, Hauts-De-Seine,92,France
-14155900,PAT_ERM01,Patrice, Hauts-De-Seine,92,France
 1415591,FS92P1,Patrice, Hauts-De-Seine,92,France
 1415592,FS92P1,Patrice, Hauts-De-Seine,92,France
 1415593,FS92P1,Patrice, Hauts-De-Seine,92,France
@@ -4858,7 +4912,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1417002,FS17C1,Claudy, Charente-Maritime,17,France
 1417003,FS17G1,Gilbert, Charente-Maritime,17,France
 1418001,FS18G1,Gilbert, Cher,18,France
-141907,FRS1907,J.Pierre, Isere,38,France
 1421001,14PAT21,Robert, ,,France
 1422870,FRS2870,Corentin, Loire,42,France
 1425001,FS25H1,Herve, Doubs,25,France
@@ -5003,7 +5056,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1491004,FS91E1,Emmanuel, Essonne,91,France
 1491005,FS91S2,Stephane, Essonne,91,France
 1491006,FS91J2,J.Pierre, Essonne,91,France
-149200,ISPT_1,Server, Hauts-De-Seine,92,France
 1492000,BALISE38,Nabilla, Hauts-De-Seine,92,France
 1492001,FS92F1,Francois, Hauts-De-Seine,92,France
 1492002,FS92P1,Patrice, Hauts-De-Seine,92,France
@@ -5042,7 +5094,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1614108,OWNER2,Invite, Hauts-De-Seine,92,France
 1614201,FS92F1,Francois, Hauts-De-Seine,92,France
 1677641,971DMR,Christophe, Guadeloupe,971,France
-173,MUMBLE974,974dmr,974 La Reunion,La Reunion,France
 1730001,173FRS016,Frederic, La Reunion,974,France
 1730002,173FRS023,Stephane, La Reunion,974,France
 1730003,174FRS049,Steeve, La Reunion,974,France
@@ -5056,14 +5107,12 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1739001,173FRS016,Fred, Saint-Paul,974,France
 1739702,173RP970,, Cedric - Reunion,974,France
 1739740,MAHE,Balise Mumble, ,,France
-173975,173975,Marc, La Reunion,974,France
 1799740,173FRS023,Stephane, Saint-Paul,974,France
 2000008,BALISE7,Tg7&tg38, Hauts-De-Seine,92,France
 2080000,BALISE38,Nabilla, Hauts-De-Seine,92,France
 2080810,FS92F1,Francois, ,,France
 2081033,FRS4218,Paul, Nice,06,France
 2082600,F2K6,Franck, Taaf,984,France
-208269,F1ZQR,Relais, Rhone,69,France
 2085923,F59-R01,Relais  F59ro1, ,59,France
 2087099,FS11Y1,Yannick, ,,France
 2089409,14PS62,Philippe, Lens,62,France
@@ -5071,7 +5120,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2312059,FRS2312,Freddy, Nord,59,France
 2712978,FR38WIZ,Nicolas, Isere,38,France
 2909740,FRS9740,Nicolas, Lannilis,29,France
-302911,RADIO1_ID,Radioid, Vienne,86,France
 3300294,RJ294,Jean-Claude, Lormont,,France
 3301896,FRS1896,Eric, Villenave-Dornon,,France
 3302090,FRS090,Jean, Bordeaux,33,France
@@ -5094,38 +5142,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 4000704,FRS704,David, St-Vincent-De-Tyrosse,,France
 4242420,BALISE42,Tg42, Loire,42,France
 4400000,RELAIS44,44dmr, Loire-Atlantique,44,France
-44001,RELAIS44,44dmr, Loire-Atlantique,44,France
-44101,RELAIS44,44dmr, Loire-Atlantique,44,France
-44144,DMR03F,Philippe, Loire-Atlantique,44,France
-44150,RELAIS44,44dmr, Loire-Atlantique,44,France
-441501,RELAIS44,44dmr, Loire-Atlantique,44,France
-44151,RELAIS44,44dmr, Loire-Atlantique,44,France
-44152,RELAIS44,44dmr, Loire-Atlantique,44,France
-44160,RELAIS44,44dmr, Loire-Atlantique,44,France
-44270,RELAIS44,44dmr, Loire-Atlantique,44,France
-44340,DRM02F,Fabrice, Loire-Atlantique,44,France
-44342,DMR02F,Fabrice, Loire-Atlantique,44,France
-44345,RELAIS44,44dmr, Loire-Atlantique,44,France
-44371,44DRM,Philippe, Loire-Atlantique,44,France
-44400,44DMR,Benjamin, Loire-Atlantique,44,France
-444000,44DMR,Benjamin, Loire-Atlantique,44,France
 4440000,RELAIS44,44dmr, Loire-Atlantique,44,France
-444210,44DMR,Benjamin, Loire-Atlantique,44,France
 4444000,RELAIS44,44dmr, Loire-Atlantique,44,France
 4444116,DMR44F,Nicolas, Loire-Atlantique,44,France
-44450,44DMR,Hspot_nantes, Loire-Atlantique,44,France
-44521,RELAIS44,44dmr, Loire-Atlantique,44,France
-44522,RELAIS44,Sud44000, Loire-Atlantique,44,France
-44523,DMR07F,Fabrice, Loire-Atlantique,44,France
-44544,44DMR,Hspot_nantes, Loire-Atlantique,44,France
-446400,FRS7900,Fabrice, Loire-Atlantique,44,France
-446401,44DMR,Hspot_nantes, Loire-Atlantique,44,France
-446403,44DMR,Fabrice, Loire-Atlantique,44,France
-44642,FALCON44,Philippe, Loire-Atlantique,44,France
-44644,RELAIS44,44dmr, Loire-Atlantique,44,France
-44646,RELAIS44,44dmr, Loire-Atlantique,44,France
-44741,44DRM,Philippe, Loire-Atlantique,44,France
-44760,RELAIS44,44dmr, Loire-Atlantique,44,France
 5900130,FRS3772,Stephane, Nord,59,France
 5923000,F59178N,Relais Hasnon, ,59,France
 5959000,F59DMR,F59dmr, ,,France
@@ -5139,7 +5158,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 6262840,MOTOROLA,Relais Local Rf-Dmr, ,,France
 6535244,971DMR,Bruno, Guadeloupe,971,France
 6535246,971DMR,Bruno, Guadeloupe,971,France
-66000,RELAIS44,44dmr, Loire-Atlantique,44,France
 6703175,FRS3175,Olivier, Strasbourg,67,France
 6712415,FRS2415,Bernard, Oberna,67,France
 6714480,FRS2278,Thierry, Rountzenheim,,France
@@ -5288,7 +5306,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 8029001,SV29M0,Mumble, Somme,80,France
 8035001,SV35Z0,Zello, Somme,80,France
 8059002,SV59F1,Francis, Nord,59,France
-85130,DMR85F,Fred, Vendee,85,France
 9005404,FR_DMR1,Bridge, Vienne,86,France
 9008888,RFR_NODE1,Node, Vienne,86,France
 9008889,BALISE99,Germaine, Vienne,86,France
@@ -5407,7 +5424,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 9533007,FR33YD,Yannick, Gironde,33,France
 9533008,FR33CB,Claude, Gironde,33,France
 9533009,FR33MC,Michel, Gironde,33,France
-953301,DVI33,Dvi33, Gironde,33,France
 9533010,FR33EV,Eric, Gironde,33,France
 9533011,FR33RR,Richard, Gironde,33,France
 9533012,FR33PB,Patrick, Gironde,33,France
@@ -5425,31 +5441,16 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 9586001,FR86FB,Frederic, Vienne,86,France
 9586002,FR86FB,Frederic, Vienne,86,France
 9586003,FR86JB,Jerome, Vienne,86,France
-971001,971DMR,Bruno, Guadeloupe,971,France
-971002,971DMR,Bruno, Guadeloupe,971,France
-971003,971DMR,Bruno, Guadeloupe,971,France
-971004,971DMR,Bruno, Guadeloupe,971,France
-971005,971DMR,Bruno, Guadeloupe,971,France
-971006,971DMR,Bruno, Guadeloupe,971,France
-971007,971DMR,Bruno, Guadeloupe,971,France
-971008,971DMR,Bruno, Guadeloupe,971,France
-971009,971DMR,Bruno, Guadeloupe,971,France
-971011,971DMR,R.Club 971, Guadeloupe,971,France
-974000,BALISE9X,Tg974, La Reunion,974,France
 9740000,F974DMR,, ,,France
 9740001,F974DMR,, ,,France
 9740173,F974DMR,, ,,France
-974173,BALISE9X,Tg974, La Reunion,974,France
-974410,971DMR,R.Club 971, Guadeloupe,971,France
 9745963,971DMR,Bruno, Guadeloupe,971,France
-97491,14NC205,Sergio, Essonne,91,France
 9786100,YSFDMR,Ysfdmr, Vienne,86,France
 9800001,DVLINK1,Dvlink, Vienne,86,France
 9800861,DVI86C,Dvi86c, Vienne,86,France
 9800999,DVLINK3,Dvlink, Vienne,86,France
 9840020,FT40AA,Ts3, Landes,40,France
 9840021,FT40AB,Mumble, Landes,40,France
-984020,DVSHT40,Tel40, Landes,40,France
 9886012,DVSWH86,Tel86, Vienne,86,France
 9886013,DVSWH86B,Tel86, Vienne,86,France
 9886020,FT86AA,Bridge, Vienne,86,France
@@ -5483,7 +5484,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 9974004,FR974LA,Luciano, La Reunion,974,France
 9974005,FR974BF,Bryan, La Reunion,974,France
 9994100,FR94DD,Didier, Val-De-Marne,94,France
-9998,RELAIS25,C4fm 25, Doubs,25,France
 2629084,DO1ABZ,Andreas,07751 Zoellnitz,Thueringen,Germany
 2651001,DLRB01,Rene,22159 Hamburg,Hamburg,Germany
 2651002,KARO500,Wolfgang,21147 Hamburg,Hamburg,Germany
@@ -5740,21 +5740,18 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2655013,ZELLO,Zello, Freedmr Digital,Freedmr Digital,Germany
 2655014,RL2HB,Crosslink Bremen City,28195 Bremen,Bremen,Germany
 2655015,TXRXDE,Crosslink Tx-Rx.De,06132 Halle - Saale,Sachsen-Anhalt,Germany
-2160063,HA8FP,Jozsi,6700 Szeged,216,Hungary
-2160151,HA7HI,Istvan,2730 Albertirsa,216,Hungary
+216701,HG7WDD,Dmr-Repeater Hatvan,3000 Hatvan,216,Hungary
+216702,ALBIRSA1,Dmr-Repeater Albertirsa,2730 Albertirsa,216,Hungary
+216800,DXSZENTES,Repeater Szentes,6600 Szentes,216,Hungary
 2161111,HSZENTES,Dmr-Repeater Hungary,6600 Szentes,216,Hungary
 2161112,DVSHUN,Dvswitch,6600 Szentes,216,Hungary
 2161113,HZELLO,Zellolink,6600 Szentes,216,Hungary
-2167001,638GYURI,Gyuri,3000 Hatvan,216,Hungary
-2167003,PEPE,Tibor,5000 Szolnok,216,Hungary
-216701,HG7WDD,Dmr-Repeater Hatvan,3000 Hatvan,216,Hungary
-216702,ALBIRSA1,Dmr-Repeater Albertirsa,2730 Albertirsa,216,Hungary
-2167033,HA7WDD,Gyuri,3000 Hatvan,216,Hungary
-2167111,HATVAN,Repeater Szentes,3000 Hatvan,216,Hungary
-216800,DXSZENTES,Repeater Szentes,6600 Szentes,216,Hungary
 2168000,93SKARCSI,Karcsi,6600 Szentes,216,Hungary
-2168001,CSZOLI,Zoli,6600 Szentes,216,Hungary
-2168022,HA8BKG,Karcsi,6600 Szentes,216,Hungary
+2169000,HA8BKG,Karcsi,6600 Szentes,216,Hungary
+2169001,638GYURI,Gyuri,3000 Hatvan,216,Hungary
+2169003,PEPE,Tibor,5000 Szolnok,216,Hungary
+2169100,HATVAN,Repeater Szentes,3000 Hatvan,216,Hungary
+2169151,ISTVAN,Istvan,2730 Albertirsa,216,Hungary
 1000270,AR2OMCI,Analog-Reflector2, Bundoran,272,Ireland
 1000271,29CT067,Omci, Bundoran,Donegal,Ireland
 1000272,29CT067,Omci, Bundoran,Donegal,Ireland
