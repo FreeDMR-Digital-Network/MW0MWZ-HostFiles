@@ -5553,9 +5553,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651903,NOBODY,Kim,27711 Osterholz-Scharmbeck,Niedersachsen,Germany
 2651904,DR3HBF,Ronny,28215 Bremen,Bremen,Germany
 2651905,CB37OHZ,Sven,27711 Osterholz-Scharmbeck,Niedersachsen,Germany
-2651973,13CH04,Carsten,29594 Soltendieck,Niedersachsen,Germany
 2651948,13ABZ48,Peter,31224 Peine,Niedersachsen,Germany
 2651955,13ME011,Matthias,29594 Soltendieck,Niedersachsen,Germany
+2651973,13CH04,Carsten,29594 Soltendieck,Niedersachsen,Germany
 2651988,FR3FMA,Mirko,26316 Varel,Niedersachsen,Germany
 2651990,WH3CBA,Benny,26382 Wilhelmshaven,Niedersachsen,Germany
 2651998,13BE998,Thomas,31134 Hildesheim,Niedersachsen,Germany
@@ -5741,10 +5741,14 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2655014,RL2HB,Crosslink Bremen City,28195 Bremen,Bremen,Germany
 2655015,TXRXDE,Crosslink Tx-Rx.De,06132 Halle - Saale,Sachsen-Anhalt,Germany
 2160063,HA8FP,Jozsi,6700 Szeged,216,Hungary
+2160151,HA7HI,Istvan,2730 Albertirsa,216,Hungary
 2161111,HSZENTES,Dmr-Repeater Hungary,6600 Szentes,216,Hungary
 2161112,DVSHUN,Dvswitch,6600 Szentes,216,Hungary
 2161113,HZELLO,Zellolink,6600 Szentes,216,Hungary
 2167001,638GYURI,Gyuri,3000 Hatvan,216,Hungary
+2167003,PEPE,Tibor,5000 Szolnok,216,Hungary
+216701,HG7WDD,Dmr-Repeater Hatvan,3000 Hatvan,216,Hungary
+216702,ALBIRSA1,Dmr-Repeater Albertirsa,2730 Albertirsa,216,Hungary
 2167033,HA7WDD,Gyuri,3000 Hatvan,216,Hungary
 2167111,HATVAN,Repeater Szentes,3000 Hatvan,216,Hungary
 216800,DXSZENTES,Repeater Szentes,6600 Szentes,216,Hungary
