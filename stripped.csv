@@ -5502,6 +5502,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651015,BLUEDOG,Simon,26131 Oldenburg,Niedersachsen,Germany
 2651016,ALF1957,Ralf,22047 Hamburg,Hamburg,Germany
 2651017,13LE011,Lukas,29594 Soltendieck,Niedersachsen,Germany
+2651018,HP01,Dennis,49362 Melle,Niedersachsen,Germany
 2651021,DAX021,Horst,31785 Hameln,Niedersachsen,Germany
 2651100,HUNTE1,Christian,26131 Oldenburg,Niedersachsen,Germany
 2651101,SHORTY71,Jockel,27801 Oldenburg Brettorf,Niedersachsen,Germany
@@ -5645,6 +5646,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653042,EGGE02,Tim,33039 Nieheim,Nordrhein-Westfalen,Germany
 2653043,OTTSCHO74,Stefan,35619 Braunfels,Nordrhein-Westfalen,Germany
 2653044,NASENBAER01,David,35619 Braunfels,Nordrhein-Westfalen,Germany
+2653045,TL3AMG,Peter,44649 Herne,Nordrhein-Westfalen,Germany
+2653046,PITBULL,Roman,33829 Borgholzhausen,Nordrhein-Westfalen,Germany
 2653049,DE49UH,Uwe,45359 Essen,Nordrhein-Westfalen,Germany
 2653050,13HN308,Christian,58456 Witten,Nordrhein-Westfalen,Germany
 2653077,13FB077,Patrick,45470 Muelheim,Nordrhein-Westfalen,Germany
@@ -5740,9 +5743,10 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2655013,ZELLO,Zello, Freedmr Digital,Freedmr Digital,Germany
 2655014,RL2HB,Crosslink Bremen City,28195 Bremen,Bremen,Germany
 2655015,TXRXDE,Crosslink Tx-Rx.De,06132 Halle - Saale,Sachsen-Anhalt,Germany
+2655016,RL1GT,Relais Bergholzhausen,33829 Bremen Kattenturm,Bremen,Germany
 216701,HG7WDD,Dmr-Repeater Hatvan,3000 Hatvan,216,Hungary
 216702,ALBIRSA1,Dmr-Repeater Albertirsa,2730 Albertirsa,216,Hungary
-216800,DXSZENTES,Repeater Szentes,6600 Szentes,216,Hungary
+216800,HSZ8RPT,Repeater Szentes,6600 Szentes,216,Hungary
 2161111,HSZENTES,Dmr-Repeater Hungary,6600 Szentes,216,Hungary
 2161112,DVSHUN,Dvswitch,6600 Szentes,216,Hungary
 2161113,HZELLO,Zellolink,6600 Szentes,216,Hungary
