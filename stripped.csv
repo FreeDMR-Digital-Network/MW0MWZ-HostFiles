@@ -5504,6 +5504,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651017,13LE011,Lukas,29594 Soltendieck,Niedersachsen,Germany
 2651018,HP01,Dennis,49362 Melle,Niedersachsen,Germany
 2651021,DAX021,Horst,31785 Hameln,Niedersachsen,Germany
+2651022,13HN1999,Marco,28309 Bremen,Bremen,Germany
 2651100,HUNTE1,Christian,26131 Oldenburg,Niedersachsen,Germany
 2651101,SHORTY71,Jockel,27801 Oldenburg Brettorf,Niedersachsen,Germany
 2651102,SHORTY71,Jockel,27801 Oldenburg Brettorf,Niedersachsen,Germany
@@ -5743,7 +5744,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2655013,ZELLO,Zello, Freedmr Digital,Freedmr Digital,Germany
 2655014,RL2HB,Crosslink Bremen City,28195 Bremen,Bremen,Germany
 2655015,TXRXDE,Crosslink Tx-Rx.De,06132 Halle - Saale,Sachsen-Anhalt,Germany
-2655016,RL1GT,Relais Bergholzhausen,33829 Bremen Kattenturm,Bremen,Germany
+2655016,RL1GT,Relais Borgholzhausen,33829 Borgholzhausen,Bremen,Germany
 216701,HG7WDD,Dmr-Repeater Hatvan,3000 Hatvan,216,Hungary
 216702,ALBIRSA1,Dmr-Repeater Albertirsa,2730 Albertirsa,216,Hungary
 216800,HSZ8RPT,Repeater Szentes,6600 Szentes,216,Hungary
