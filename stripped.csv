@@ -5652,6 +5652,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653044,NASENBAER01,David,35619 Braunfels,Nordrhein-Westfalen,Germany
 2653045,TL3AMG,Peter,44649 Herne,Nordrhein-Westfalen,Germany
 2653046,PITBULL,Roman,33829 Borgholzhausen,Nordrhein-Westfalen,Germany
+2653047,13HN1307,Michael,57319 Bad Berleburg,Nordrhein-Westfalen,Germany
 2653049,DE49UH,Uwe,45359 Essen,Nordrhein-Westfalen,Germany
 2653050,13HN308,Christian,58456 Witten,Nordrhein-Westfalen,Germany
 2653077,13FB077,Patrick,45470 Muelheim,Nordrhein-Westfalen,Germany
@@ -5677,6 +5678,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653504,EINHORN,Sandra,56218 Muelheim-Kaerlich,Rheinland-Pfalz,Germany
 2653523,D02FSH,Stephan,63517 Rodenbach,Hessen,Germany
 2653680,D08FKK,Kai,63584 Gruendau-Hain,Hessen,Germany
+2653645,X30,Lothar,63697 Hirzenhain,Hessen,Germany
 2653701,KANE,Micha,44577 Castrop-Rauxel,Nordrhein-Westfalen,Germany
 2653702,KANE,Micha,44577 Castrop-Rauxel,Nordrhein-Westfalen,Germany
 2653703,KANE,Micha,44577 Castrop-Rauxel,Nordrhein-Westfalen,Germany
@@ -5749,6 +5751,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2655014,RL2HB,Crosslink Bremen City,28195 Bremen,Bremen,Germany
 2655015,TXRXDE,Crosslink Tx-Rx.De,06132 Halle - Saale,Sachsen-Anhalt,Germany
 2655016,RL1GT,Relais Borgholzhausen,33829 Borgholzhausen,Bremen,Germany
+2655017,RL0RHN,Crosslink Kissinger Huette,97657 Sandberg,Sachsen-Anhalt,Germany
 216701,HG7WDD,Dmr-Repeater Hatvan,3000 Hatvan,216,Hungary
 216702,ALBIRSA1,Dmr-Repeater Albertirsa,2730 Albertirsa,216,Hungary
 216800,HSZ8RPT,Repeater Szentes,6600 Szentes,216,Hungary
