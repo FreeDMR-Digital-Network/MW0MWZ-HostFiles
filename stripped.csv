@@ -33,7 +33,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 44151,RELAIS44,44dmr, Loire-Atlantique,44,France
 44152,RELAIS44,44dmr, Loire-Atlantique,44,France
 44160,RELAIS44,44dmr, Loire-Atlantique,44,France
-1402268,FS08C1,Christophe, Ardennes,8,France
 44270,RELAIS44,44dmr, Loire-Atlantique,44,France
 44340,DRM02F,Fabrice, Loire-Atlantique,44,France
 44342,DMR02F,Fabrice, Loire-Atlantique,44,France
@@ -4865,6 +4864,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1401002,FS01G1,Gaston, Ain,1,France
 1401853,FRS1853,Laurent, Anet,28,France
 1402013,FRS2013,Xavier, Antibes,06,France
+1402268,FS08C1,Christophe, Ardennes,8,France
 1402686,FRS2686,Gilles, Saint-Yrieix-La-Perche,87,France
 1402961,FRS2961,Joric, Nice,06,France
 1403276,FRS3276,Gilles, Perpignan,66,France
@@ -5504,6 +5504,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651016,ALF1957,Ralf,22047 Hamburg,Hamburg,Germany
 2651017,13LE011,Lukas,29594 Soltendieck,Niedersachsen,Germany
 2651018,HP01,Dennis,49362 Melle,Niedersachsen,Germany
+2651019,13RS001,Kevin,25569 Kremperheide,Schleswig-Holstein,Germany
+2651020,13GOLF46,Torsten,25569 Elmshorn,Schleswig-Holstein,Germany
 2651021,DAX021,Horst,31785 Hameln,Niedersachsen,Germany
 2651100,HUNTE1,Christian,26131 Oldenburg,Niedersachsen,Germany
 2651101,SHORTY71,Jockel,27801 Oldenburg Brettorf,Niedersachsen,Germany
@@ -5519,9 +5521,11 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651123,MUMBLE,Mumble Tg5x5 Nds - Hb,27801 Nds - Hb,Niedersachsen,Germany
 2651151,AKKI72,Axel,27801 Wildeshausen Altona,Niedersachsen,Germany
 2651152,MONI77,Monika,27801 Wildeshausen Altona,Niedersachsen,Germany
+2651155,DW1HBW,Werner,28195 Bremen,Bremen,Germany
 2651166,DC1HBC,Dieter,28195 Bremen,Bremen,Germany
 2651181,FRANK1223,Frank,31134 Hildesheim,Niedersachsen,Germany
 2651201,DL1MVSN,Erich,19057 Schwerin,Mecklenburg-Vorpommern,Germany
+2651218,DK1HBW,Karen,28195 Bremen,Bremen,Germany
 2651221,13RF883,Katrin,31275 Lehrte,Niedersachsen,Germany
 2651222,13KB22,Barbara,22417 Hamburg,Hamburg,Germany
 2651280,INDIAGOLF,Ingo,24214 Gettorf,Schleswig-Holstein,Germany
@@ -5572,6 +5576,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2652006,RECEP,Kray,80335 Muenchen,Bayern,Germany
 2652007,13DBF57,Jochen,74731 Wallduern,Baden-Wuerttemberg,Germany
 2652008,AA9ZKR,Zekeriya,85055 Ingolstadt,Bayern,Germany
+2652009,13HN245,Frank,79112 Freiburg Im Breisgau,Baden-Wuerttemberg,Germany
 2652010,13MZ75,Mario,84097 Herrngiersdorf,Bayern,Germany
 2652011,DAVE,Dave,90411 Nuernberg,Bayern,Germany
 2652012,CB0FRG,Andreas,94078 Freyung,Bayern,Germany
@@ -5678,8 +5683,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653503,CATWOMAN,Julia,56218 Muelheim-Kaerlich,Rheinland-Pfalz,Germany
 2653504,EINHORN,Sandra,56218 Muelheim-Kaerlich,Rheinland-Pfalz,Germany
 2653523,D02FSH,Stephan,63517 Rodenbach,Hessen,Germany
-2653680,D08FKK,Kai,63584 Gruendau-Hain,Hessen,Germany
 2653645,X30,Lothar,63697 Hirzenhain,Hessen,Germany
+2653680,D08FKK,Kai,63584 Gruendau-Hain,Hessen,Germany
 2653701,KANE,Micha,44577 Castrop-Rauxel,Nordrhein-Westfalen,Germany
 2653702,KANE,Micha,44577 Castrop-Rauxel,Nordrhein-Westfalen,Germany
 2653703,KANE,Micha,44577 Castrop-Rauxel,Nordrhein-Westfalen,Germany
@@ -5710,7 +5715,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2654018,13TH307,Ronny,98529 Suhl,Thueringen,Germany
 2654019,13MHBER1,Mark,10305 Berlin,Berlin,Germany
 2654020,DE2TRF,Torsten,08223 Falkenstein,Sachsen,Germany
-2654023,HEXE33,Katrin,04207 Leipzig,Sachsen,Germany
 2654047,13HN2047,Daniel,99713 Ebeleben,Thueringen,Germany
 2654051,BETA13,Lars,13051 Berlin,Berlin,Germany
 2654103,BEBRA3,Marcel,99706 Sondershausen,Thueringen,Germany
@@ -5718,7 +5722,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2654110,FUERST,Lars,15517 Fuerstenwalde,Brandenburg,Germany
 2654111,13OT4664,Norbert,12109 Berlin,Berlin,Germany
 2654112,TEDDYBAER,Frank,99713 Allmenhausen,Thueringen,Germany
-2654221,EMIL01,Gerd,04209 Leipzig,Sachsen,Germany
 2654255,ST63,Thomas,99706 Sondershausen,Thueringen,Germany
 2654265,HYPER,Johannes,39261 Zerbst,Sachsen-Anhalt,Germany
 2654321,JW1HAL,Jan,06132 Halle,Sachsen-Anhalt,Germany
@@ -5756,6 +5759,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 216701,HG7WDD,Dmr-Repeater Hatvan,3000 Hatvan,216,Hungary
 216702,ALBIRSA1,Dmr-Repeater Albertirsa,2730 Albertirsa,216,Hungary
 216800,HSZ8RPT,Repeater Szentes,6600 Szentes,216,Hungary
+2169020,ALBIRS2,Albirs2,2730 Albertirsa,216,Hungary
 2161111,HSZENTES,Dmr-Repeater Hungary,6600 Szentes,216,Hungary
 2161112,DVSHUN,Dvswitch,6600 Szentes,216,Hungary
 2161113,HZELLO,Zellolink,6600 Szentes,216,Hungary
@@ -5765,6 +5769,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2169003,PEPE,Tibor,5000 Szolnok,216,Hungary
 2169005,HB500,Hotspot Gd-77,1055 Budapest,216,Hungary
 2169006,6OSTIBI,Tibor,1055 Budapest,216,Hungary
+2169020,ALBIRS2,Albirs2,2730 Albertirsa,216,Hungary
 2169100,HATVAN,Repeater Szentes,3000 Hatvan,216,Hungary
 2169151,ISTVAN,Istvan,2730 Albertirsa,216,Hungary
 1000270,AR2OMCI,Analog-Reflector2, Bundoran,272,Ireland
@@ -5797,8 +5802,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 299003,US99L1,Laurent, Usa,310,Usa
 1050401,26TD29,Daniella, North Yorkshire,105,United Kingdom
 1234567,N0CALL,N0call, Worldwide,Worldwide,Worldwide
-9999995,TEST-ID,Test-Id User, Worldwide,Worldwide,Worldwide
-9999996,TEST-ID,Test-Id User, Worldwide,Worldwide,Worldwide
-9999997,TEST-ID,Test-Id User, Worldwide,Worldwide,Worldwide
-9999998,TEST-ID,Test-Id User, Worldwide,Worldwide,Worldwide
-9999999,TEST-ID,Test-Id Image,22417 Worldwide,Worldwide,Worldwide
+2655995,TEST-ID,Test-Id User, Worldwide,Worldwide,Worldwide
+2655996,TEST-ID,Test-Id User, Worldwide,Worldwide,Worldwide
+2655997,TEST-ID,Test-Id User, Worldwide,Worldwide,Worldwide
+2655998,TEST-ID,Test-Id User, Worldwide,Worldwide,Worldwide
+2655999,TEST-ID,Test-Id Image,22417 Worldwide,Worldwide,Worldwide
