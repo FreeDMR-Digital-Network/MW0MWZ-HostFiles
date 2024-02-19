@@ -5757,6 +5757,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2655015,TXRXDE,Crosslink Tx-Rx.De,06132 Halle - Saale,Sachsen-Anhalt,Germany
 2655016,RL1GT,Relais Borgholzhausen,33829 Borgholzhausen,Bremen,Germany
 2655017,RL0RHN,Crosslink Kissinger Huette,97657 Sandberg,Sachsen-Anhalt,Germany
+2655018,RL0RHN,Relais Kissinger Huette,97657 Sandberg,Sachsen-Anhalt,Germany
 216701,HG7WDD,Dmr-Repeater Hatvan,3000 Hatvan,216,Hungary
 216702,ALBIRSA1,Dmr-Repeater Albertirsa,2730 Albertirsa,216,Hungary
 216800,HSZ8RPT,Repeater Szentes,6600 Szentes,216,Hungary
