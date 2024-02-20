@@ -5662,6 +5662,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653049,DE49UH,Uwe,45359 Essen,Nordrhein-Westfalen,Germany
 2653050,13HN308,Christian,58456 Witten,Nordrhein-Westfalen,Germany
 2653051,AS83RE,Andreas,45665 Recklinghausen,Nordrhein-Westfalen,Germany
+2653052,13DL01,Rudi,66450 Bexbach,Saarland,Germany
 2653077,13FB077,Patrick,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653083,KUGELFISCH,Stephanie,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653101,BAMBI,Ria,46446 Emmerich Am Rhein,Nordrhein-Westfalen,Germany
@@ -5686,6 +5687,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653523,D02FSH,Stephan,63517 Rodenbach,Hessen,Germany
 2653645,X30,Lothar,63697 Hirzenhain,Hessen,Germany
 2653680,D08FKK,Kai,63584 Gruendau-Hain,Hessen,Germany
+2653687,FH10SN,Volker,32051 Herford,Nordrhein-Westfalen,Germany
 2653701,KANE,Micha,44577 Castrop-Rauxel,Nordrhein-Westfalen,Germany
 2653702,KANE,Micha,44577 Castrop-Rauxel,Nordrhein-Westfalen,Germany
 2653703,KANE,Micha,44577 Castrop-Rauxel,Nordrhein-Westfalen,Germany
@@ -5716,6 +5718,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2654018,13TH307,Ronny,98529 Suhl,Thueringen,Germany
 2654019,13MHBER1,Mark,10305 Berlin,Berlin,Germany
 2654020,DE2TRF,Torsten,08223 Falkenstein,Sachsen,Germany
+2654021,13RF441,Sven,15913 Straupitz,Brandenburg,Germany
 2654026,MICKYMAUS,Carmen,04329 Leipzig,Sachsen,Germany
 2654047,13HN2047,Daniel,99713 Ebeleben,Thueringen,Germany
 2654051,BETA13,Lars,13051 Berlin,Berlin,Germany
