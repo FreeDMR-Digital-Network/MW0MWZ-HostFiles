@@ -5508,6 +5508,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651020,13GOLF46,Torsten,25569 Elmshorn,Schleswig-Holstein,Germany
 2651021,DAX021,Horst,31785 Hameln,Niedersachsen,Germany
 2651022,13DF753,Jens,24376 Hasselberg,Schleswig-Holstein,Germany
+2651023,13AT162,Peter,17498 Greifswald,Mecklenburg-Vorpommern,Germany
 2651100,HUNTE1,Christian,26131 Oldenburg,Niedersachsen,Germany
 2651101,SHORTY71,Jockel,27801 Oldenburg Brettorf,Niedersachsen,Germany
 2651102,SHORTY71,Jockel,27801 Oldenburg Brettorf,Niedersachsen,Germany
@@ -5664,6 +5665,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653050,13HN308,Christian,58456 Witten,Nordrhein-Westfalen,Germany
 2653051,AS83RE,Andreas,45665 Recklinghausen,Nordrhein-Westfalen,Germany
 2653052,13DL01,Rudi,66450 Bexbach,Saarland,Germany
+2653053,13RF315,Bjoern,33605 Bielefeld,Nordrhein-Westfalen,Germany
+2653054,HE53SS,Sascha,53773 Hennef,Nordrhein-Westfalen,Germany
 2653077,13FB077,Patrick,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653083,KUGELFISCH,Stephanie,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653101,BAMBI,Ria,46446 Emmerich Am Rhein,Nordrhein-Westfalen,Germany
@@ -5696,6 +5699,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653771,13ML29,Markus,44651 Herne,Nordrhein-Westfalen,Germany
 2653801,EMS1,Micha,33428 Harsewinkel,Nordrhein-Westfalen,Germany
 2653802,EMS2,Ulli,33428 Harsewinkel,Nordrhein-Westfalen,Germany
+2653961,DL25,Michael,44328 Dortmun,Nordrhein-Westfalen,Germany
 2653963,D12FCMT,Chris,63486 Bruchkoebel,Hessen,Germany
 2653967,13GS967,Guido,52349 Dueren,Nordrhein-Westfalen,Germany
 2653981,NACHTFALKE,Joerg,63073 Offenbach-Bieber,Hessen,Germany
@@ -5730,7 +5734,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2654112,TEDDYBAER,Frank,99713 Allmenhausen,Thueringen,Germany
 2654255,ST63,Thomas,99706 Sondershausen,Thueringen,Germany
 2654265,HYPER,Johannes,39261 Zerbst,Sachsen-Anhalt,Germany
-2654321,JW1HAL,Jan,06132 Halle,Sachsen-Anhalt,Germany
+2654322,JW1HAL,Jan,06132 Halle,Sachsen-Anhalt,Germany
 2654333,MARLIN,Marc,16556 Hohen Neuendorf,Brandenburg,Germany
 2654476,DAC476,Siegmar,01796 Pirna,Sachsen,Germany
 2654548,WOLKE01,Kata,98673 Bruenn,Thueringen,Germany
@@ -5759,7 +5763,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2655012,RL1HB,Relais Bremen Kattenturm,28277 Bremen Kattenturm,Bremen,Germany
 2655013,ZELLO,Zello, Freedmr Digital,Freedmr Digital,Germany
 2655014,RL2HB,Crosslink Bremen City,28195 Bremen,Bremen,Germany
-2655015,TXRXDE,Crosslink Tx-Rx.De,06132 Halle - Saale,Sachsen-Anhalt,Germany
+2655015,TX-RX.DE,Crosslink Tx-Rx.De,06132 Halle - Saale,Sachsen-Anhalt,Germany
 2655016,RL1GT,Relais Borgholzhausen,33829 Borgholzhausen,Bremen,Germany
 2655017,RL0RHN,Crosslink Kissinger Huette,97657 Sandberg,Sachsen-Anhalt,Germany
 2655018,RL0RHN,Relais Kissinger Huette,97657 Sandberg,Sachsen-Anhalt,Germany
