@@ -5511,7 +5511,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651023,13AT162,Peter,17498 Greifswald,Mecklenburg-Vorpommern,Germany
 2651100,HUNTE1,Christian,26131 Oldenburg,Niedersachsen,Germany
 2651101,SHORTY71,Jockel,27801 Oldenburg Brettorf,Niedersachsen,Germany
-2651102,SHORTY71,Jockel,27801 Oldenburg Brettorf,Niedersachsen,Germany
 2651103,MUCKEL,Ann-Katrin,27801 Oldenburg Brettorf,Niedersachsen,Germany
 2651104,JAZZ84,Jessica,27801 Oldenburg Brettorf,Niedersachsen,Germany
 2651105,GAMER,Jonas,27801 Oldenburg Brettorf,Niedersachsen,Germany
@@ -5534,6 +5533,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651313,13HN313,Tim,31311 Obershagen,Niedersachsen,Germany
 2651315,BB7XY,Bernd,23898 Sandesneben,Schleswig-Holstein,Germany
 2651333,BAKE262,Info-Bake Freedmr Digital,22417 Germany,Germany,Germany
+2651334,BAKE131313,Info-Bake Tg131313, Germany,Germany,Germany
+2651335,BAKE2651990,Info-Bake Tg2651990, Germany,Germany,Germany
 2651388,BROKER88,Andy,19303 Vielank,Mecklenburg-Vorpommern,Germany
 2651410,13DG80,Dierk,31228 Peine,Niedersachsen,Germany
 2651444,REF091,Analog-Reflector 091,22417 Germany,Germany,Germany
@@ -5582,7 +5583,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2652011,DAVE,Dave,90411 Nuernberg,Bayern,Germany
 2652012,CB0FRG,Andreas,94078 Freyung,Bayern,Germany
 2652013,13PD10,Paul,95030 Woelbattendorf,Bayern,Germany
-2652014,13PD10,Paul,95030 Woelbattendorf,Bayern,Germany
 2652015,13GB75,Gerd,94508 Schoellnach,Bayern,Germany
 2652016,USI01,Rainer,61250 Usingen,Hessen,Germany
 2652017,13HH676,Marcel,68159 Mannheim,Baden-Wuerttemberg,Germany
@@ -5630,7 +5630,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653015,13TW226,Michael,64319 Pfungstadt,Hessen,Germany
 2653016,13ING0,Ingo,64331 Weiterstadt,Hessen,Germany
 2653017,GUENNI,Guenni,65929 Frankfurt,Hessen,Germany
-2653018,GUENNI,Guenni,65929 Frankfurt,Hessen,Germany
 2653019,BALUNA,Christian,68642 Buerstadt,Hessen,Germany
 2653020,RHEIN1,Mario,76751 Jockgrim,Rheinland-Pfalz,Germany
 2653021,GV1DMR,Uwe,41515 Grevenbroich,Nordrhein-Westfalen,Germany
@@ -5693,9 +5692,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653680,D08FKK,Kai,63584 Gruendau-Hain,Hessen,Germany
 2653687,FH10SN,Volker,32051 Herford,Nordrhein-Westfalen,Germany
 2653701,KANE,Micha,44577 Castrop-Rauxel,Nordrhein-Westfalen,Germany
-2653702,KANE,Micha,44577 Castrop-Rauxel,Nordrhein-Westfalen,Germany
-2653703,KANE,Micha,44577 Castrop-Rauxel,Nordrhein-Westfalen,Germany
-2653704,KANE,Micha,44577 Castrop-Rauxel,Nordrhein-Westfalen,Germany
 2653771,13ML29,Markus,44651 Herne,Nordrhein-Westfalen,Germany
 2653801,EMS1,Micha,33428 Harsewinkel,Nordrhein-Westfalen,Germany
 2653802,EMS2,Ulli,33428 Harsewinkel,Nordrhein-Westfalen,Germany
@@ -5812,6 +5808,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 7360365,DF99J2,J.Claude, Switzerland,228,Switzerland
 299003,US99L1,Laurent, Usa,310,Usa
 1050401,26TD29,Daniella, North Yorkshire,105,United Kingdom
+1050402,26RST554,Robert,  Morecambe Lancashire,105,United Kingdom
 1234567,N0CALL,N0call, Worldwide,Worldwide,Worldwide
 2655995,TEST-ID,Test-Id User, Worldwide,Worldwide,Worldwide
 2655996,TEST-ID,Test-Id User, Worldwide,Worldwide,Worldwide
