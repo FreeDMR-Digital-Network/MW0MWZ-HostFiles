@@ -5610,6 +5610,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2652700,13HN267,Wolfgang,61267 Neu-Anspach,Hessen,Germany
 2652793,CB93,Clemens,87527 Sonthofen,Bayern,Germany
 2652814,13AS25,Andreas,95028 Hof,Bayern,Germany
+2652852,13RF852,Felix,86157 Augsburg,Bayern,Germany
 2652907,BANDIT,Markus,95709 Troestau,Bayern,Germany
 2652983,13RBK83,Peter,93309 Kelheim,Bayern,Germany
 2653000,13HN562,Bernhard,56218 Muelheim-Kaerlich,Rheinland-Pfalz,Germany
@@ -5679,6 +5680,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653190,D06FTH,Tobi,63517 Rodenbach,Hessen,Germany
 2653200,STH2707,Sven,66625 Bosen-Eckelhausen,Saarland,Germany
 2653226,13HN7338,Eddi,40668 Meerbusch,Nordrhein-Westfalen,Germany
+2653279,13HN2709,Andre,48165 Muenster,Nordrhein-Westfalen,Germany
 2653299,INTRUDER61,Josef,52249 Eschweiler,Nordrhein-Westfalen,Germany
 2653399,13DH9,Udo,33415 Verl,Nordrhein-Westfalen,Germany
 2653470,JJ_COOL_J,Jakob,45470 Muelheim,Nordrhein-Westfalen,Germany
@@ -5699,6 +5701,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653963,D12FCMT,Chris,63486 Bruchkoebel,Hessen,Germany
 2653967,13GS967,Guido,52349 Dueren,Nordrhein-Westfalen,Germany
 2653981,NACHTFALKE,Joerg,63073 Offenbach-Bieber,Hessen,Germany
+2654000,13RF840,Patrick,13587 Berlin,Berlin,Germany
 2654001,13BLN82,Markus,12103 Berlin,Berlin,Germany
 2654002,DFO702,Hartmut,15234 Frankfurt,Brandenburg,Germany
 2654003,13OT702,Hartmut,14234 Frankfurt,Brandenburg,Germany
@@ -5728,6 +5731,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2654110,FUERST,Lars,15517 Fuerstenwalde,Brandenburg,Germany
 2654111,13OT4664,Norbert,12109 Berlin,Berlin,Germany
 2654112,TEDDYBAER,Frank,99713 Allmenhausen,Thueringen,Germany
+2654120,FUERSTIN,Nicole,15517 Fuerstenwalde,Brandenburg,Germany
 2654255,ST63,Thomas,99706 Sondershausen,Thueringen,Germany
 2654265,HYPER,Johannes,39261 Zerbst,Sachsen-Anhalt,Germany
 2654322,JW1HAL,Jan,06132 Halle,Sachsen-Anhalt,Germany
@@ -5762,22 +5766,25 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2655015,TX-RX.DE,Crosslink Tx-Rx.De,06132 Halle - Saale,Sachsen-Anhalt,Germany
 2655016,RL1GT,Relais Borgholzhausen,33829 Borgholzhausen,Bremen,Germany
 2655017,RL0RHN,Crosslink Kissinger Huette,97657 Sandberg,Sachsen-Anhalt,Germany
-2655018,RL0RHN,Relais Kissinger Huette,97657 Sandberg,Sachsen-Anhalt,Germany
-216701,HG7WDD,Dmr-Repeater Hatvan,3000 Hatvan,216,Hungary
+2655018,RL1RHN,Relais Kissinger Huette,97657 Sandberg,Sachsen-Anhalt,Germany
+216701,HATVAN,Dmr-Repeater Hatvan,3000 Hatvan,216,Hungary
 216702,ALBIRSA1,Dmr-Repeater Albertirsa,2730 Albertirsa,216,Hungary
 216800,HSZ8RPT,Repeater Szentes,6600 Szentes,216,Hungary
 2169020,ALBIRS2,Albirs2,2730 Albertirsa,216,Hungary
 2161111,HSZENTES,Dmr-Repeater Hungary,6600 Szentes,216,Hungary
 2161112,DVSHUN,Dvswitch,6600 Szentes,216,Hungary
 2161113,HZELLO,Zellolink,6600 Szentes,216,Hungary
+2161114,YSFHU,Ysf Reflector,6600 Szentes,216,Hungary
 2168000,93SKARCSI,Karcsi,6600 Szentes,216,Hungary
 2169000,HA8BKG,Karcsi,6600 Szentes,216,Hungary
 2169001,638GYURI,Gyuri,3000 Hatvan,216,Hungary
 2169003,PEPE,Tibor,5000 Szolnok,216,Hungary
 2169005,HB500,Hotspot Gd-77,1055 Budapest,216,Hungary
 2169006,6OSTIBI,Tibor,1055 Budapest,216,Hungary
+2169007,BALU56,Toth Bela,6098 Tass,216,Hungary
+2169008,HT800,Hotspot Tass,6098 Tass,216,Hungary
 2169020,ALBIRS2,Albirs2,2730 Albertirsa,216,Hungary
-2169100,HATVAN,Repeater Szentes,3000 Hatvan,216,Hungary
+2169100,HG7WDD,Repeater Hatvan,3000 Hatvan,216,Hungary
 2169151,ISTVAN,Istvan,2730 Albertirsa,216,Hungary
 1000270,AR2OMCI,Analog-Reflector2, Bundoran,272,Ireland
 1000271,29CT067,Omci, Bundoran,Donegal,Ireland
