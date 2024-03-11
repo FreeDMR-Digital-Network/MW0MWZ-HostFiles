@@ -5517,6 +5517,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651555,13HN048,Manfred,22417 Hamburg,Hamburg,Germany
 2651571,WOLF81,Wolfgang,23774 Heiligenhafen,Schleswig-Holstein,Germany
 2651609,13RF137,Thorsten,31224 Peine,Niedersachsen,Germany
+2651611,13RF927,Marc,29379 Wittingen,Niedersachsen,Germany
 2651623,BAKE2623,Zeitansage Nds-Hb,27801 Bremen,Germany,Germany
 2651628,LA0NEA,Lanea,31855 Aerzen,Niedersachsen,Germany
 2651666,1313TH,Torben,24790 Hassmoor,Schleswig-Holstein,Germany
@@ -5775,6 +5776,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1000307,29SD029,Michael, Killybegs,Donegal,Ireland
 1000309,68TC370,Stephen, Strabane,272,Ireland
 1000501,29IF29,Keelan, Dublin,100,Ireland
+1000502,29PK01,Paul, Dublin,100,Ireland
 2049000,NAHKATO,Max, Eindhoven,204,Netherlands
 1499010,ES99E1,Etienne, Spain,214,Spain
 2149500,13DB03,Gerhard,03710 Calpe,Valencia,Spain
