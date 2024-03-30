@@ -5648,7 +5648,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653054,HE53SS,Sascha,53773 Hennef,Nordrhein-Westfalen,Germany
 2653055,13RF204,Ulli,45141 Essen,Nordrhein-Westfalen,Germany
 2653056,WT8IF,Mike,64285 Darmstadt,Hessen,Germany
-2653057,13RF1206,Peter,59505 Sassendorf,Nordrhein-Westfalen,Germany
+2653057,13RF1206,Peter,59505 Bad Sassendorf,Nordrhein-Westfalen,Germany
 2653058,13RF2003,Heiko,66126 Saarbruecken,Saarland,Germany
 2653077,13FB077,Patrick,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653083,KUGELFISCH,Stephanie,45470 Muelheim,Nordrhein-Westfalen,Germany
@@ -5680,6 +5680,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653771,13ML29,Markus,44651 Herne,Nordrhein-Westfalen,Germany
 2653801,EMS1,Micha,33428 Harsewinkel,Nordrhein-Westfalen,Germany
 2653802,EMS2,Ulli,33428 Harsewinkel,Nordrhein-Westfalen,Germany
+2653861,13FB861,Edgar,48346 Ostbevern,Nordrhein-Westfalen,Germany
 2653961,DL25,Michael,44328 Dortmun,Nordrhein-Westfalen,Germany
 2653963,D12FCMT,Chris,63486 Bruchkoebel,Hessen,Germany
 2653967,13GS967,Guido,52349 Dueren,Nordrhein-Westfalen,Germany
