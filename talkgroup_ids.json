@@ -11,9 +11,19 @@
       "tgid": "TG2"
    },
    {
+      "id": 3,
+      "callsign": "N/A",
+      "tgid": "TG3"
+   },
+   {
       "id": 4,
       "callsign": "TECH-TALK LOCAL",
       "tgid": "TG4"
+   },
+   {
+      "id": 5,
+      "callsign": "CROSSLINK TX-RX.de",
+      "tgid": "TG5"
    },
    {
       "id": 6,
@@ -21,9 +31,104 @@
       "tgid": "TG6"
    },
    {
+      "id": 7,
+      "callsign": "N/A",
+      "tgid": "TG7"
+   },
+   {
+      "id": 8,
+      "callsign": "N/A",
+      "tgid": "TG8"
+   },
+   {
       "id": 9,
       "callsign": "DIAL-a-TG",
       "tgid": "TG9"
+   },
+   {
+      "id": 10,
+      "callsign": "N/A",
+      "tgid": "TG10"
+   },
+   {
+      "id": 11,
+      "callsign": "N/A",
+      "tgid": "TG11"
+   },
+   {
+      "id": 12,
+      "callsign": "N/A",
+      "tgid": "TG12"
+   },
+   {
+      "id": 13,
+      "callsign": "N/A",
+      "tgid": "TG13"
+   },
+   {
+      "id": 14,
+      "callsign": "N/A",
+      "tgid": "TG14"
+   },
+   {
+      "id": 15,
+      "callsign": "N/A",
+      "tgid": "TG15"
+   },
+   {
+      "id": 16,
+      "callsign": "N/A",
+      "tgid": "TG16"
+   },
+   {
+      "id": 17,
+      "callsign": "N/A",
+      "tgid": "TG17"
+   },
+   {
+      "id": 18,
+      "callsign": "N/A",
+      "tgid": "TG18"
+   },
+   {
+      "id": 19,
+      "callsign": "N/A",
+      "tgid": "TG19"
+   },
+   {
+      "id": 20,
+      "callsign": "N/A",
+      "tgid": "TG20"
+   },
+   {
+      "id": 21,
+      "callsign": "N/A",
+      "tgid": "TG21"
+   },
+   {
+      "id": 22,
+      "callsign": "N/A",
+      "tgid": "TG22"
+   },
+   {
+      "id": 23,
+      "callsign": "N/A",
+      "tgid": "TG23"
+   },
+   {
+      "id": 24,
+      "callsign": "N/A",
+      "tgid": "TG24"
+   },
+   {
+      "id": 25,
+      "callsign": "N/A",
+      "tgid": "TG25"
+   },
+   {
+      "id": 26,
+      "callsign": "N/A",
+      "tgid": "TG26"
    },
    {
       "id": 91,
@@ -37,17 +142,17 @@
    },
    {
       "id": 93,
-      "callsign": "NORTH AMERICA",
+      "callsign": "NORTH AMERICA NATIONAL",
       "tgid": "TG93"
    },
    {
       "id": 94,
-      "callsign": "ASIA MIDDLE EAST",
+      "callsign": "ASIA MIDDLE EAST NATIONAL",
       "tgid": "TG94"
    },
    {
       "id": 95,
-      "callsign": "AUSTRALIA NEW ZELAND",
+      "callsign": "AUSTRALIA NEW ZELAND NATIONAL",
       "tgid": "TG95"
    },
    {
@@ -57,22 +162,22 @@
    },
    {
       "id": 204,
-      "callsign": "NEDERLAND",
+      "callsign": "NEDERLAND NATIONAL",
       "tgid": "TG204"
    },
    {
       "id": 206,
-      "callsign": "BELGIUM",
+      "callsign": "BELGIUM NATIONAL",
       "tgid": "TG206"
    },
    {
       "id": 208,
-      "callsign": "FRANCE",
+      "callsign": "FRANCE NATIONAL",
       "tgid": "TG208"
    },
    {
       "id": 214,
-      "callsign": "SPAIN",
+      "callsign": "SPAIN NATIONAL",
       "tgid": "TG214"
    },
    {
@@ -82,47 +187,47 @@
    },
    {
       "id": 218,
-      "callsign": "BOSNIA AND HERZEGOVINA",
+      "callsign": "BOSNIA AND HERZEGOVINA NATIONAL",
       "tgid": "TG218"
    },
    {
       "id": 219,
-      "callsign": "CROATIA",
+      "callsign": "CROATIA NATIONAL",
       "tgid": "TG219"
    },
    {
       "id": 220,
-      "callsign": "SERBIA",
+      "callsign": "SERBIA NATIONAL",
       "tgid": "TG220"
    },
    {
       "id": 222,
-      "callsign": "ITALIA",
+      "callsign": "ITALIA NATIONAL",
       "tgid": "TG222"
    },
    {
       "id": 226,
-      "callsign": "ROMANIA",
+      "callsign": "ROMANIA NATIONAL",
       "tgid": "TG226"
    },
    {
       "id": 228,
-      "callsign": "SWITZERLAND",
+      "callsign": "SWITZERLAND NATIONAL",
       "tgid": "TG228"
    },
    {
       "id": 230,
-      "callsign": "CZECH REPUBLIC",
+      "callsign": "CZECH REPUBLIC NATIONAL",
       "tgid": "TG230"
    },
    {
       "id": 231,
-      "callsign": "SLOVAK",
+      "callsign": "SLOVAK NATIONAL",
       "tgid": "TG231"
    },
    {
       "id": 232,
-      "callsign": "AUSTRIA",
+      "callsign": "AUSTRIA NATIONAL",
       "tgid": "TG232"
    },
    {
@@ -622,62 +727,62 @@
    },
    {
       "id": 2044,
-      "callsign": "OOST NEDERLAND TG2044",
+      "callsign": "OOST NEDERLAND",
       "tgid": "TG2044"
    },
    {
       "id": 2045,
-      "callsign": "NEDERLAND TECHTALK TG2045",
+      "callsign": "NEDERLAND TECHTALK",
       "tgid": "TG2045"
    },
    {
       "id": 2061,
-      "callsign": "BELGIUM NORTH TG2061",
+      "callsign": "BELGIUM NORTH",
       "tgid": "TG2061"
    },
    {
       "id": 2062,
-      "callsign": "BELGIUM SOUTH TG2062",
+      "callsign": "BELGIUM SOUTH",
       "tgid": "TG2062"
    },
    {
       "id": 2063,
-      "callsign": "BELGIUM EAST TG2063",
+      "callsign": "BELGIUM EAST",
       "tgid": "TG2063"
    },
    {
       "id": 2064,
-      "callsign": "BELGIUM ONDEMAND 4 TG2064",
+      "callsign": "BELGIUM ONDEMAND 4",
       "tgid": "TG2064"
    },
    {
       "id": 2065,
-      "callsign": "BELGIUM ONDEMAND 5 TG2065",
+      "callsign": "BELGIUM ONDEMAND 5",
       "tgid": "TG2065"
    },
    {
       "id": 2066,
-      "callsign": "BELGIUM ONDEMAND 6 TG2066",
+      "callsign": "BELGIUM ONDEMAND 6",
       "tgid": "TG2066"
    },
    {
       "id": 2067,
-      "callsign": "BELGIUM ONDEMAND 7 TG2067",
+      "callsign": "BELGIUM ONDEMAND 7",
       "tgid": "TG2067"
    },
    {
       "id": 2068,
-      "callsign": "BELGIUM ONDEMAND 8 TG2068",
+      "callsign": "BELGIUM ONDEMAND 8",
       "tgid": "TG2068"
    },
    {
       "id": 2069,
-      "callsign": "BELGIUM ONDEMAND 9 TG2069",
+      "callsign": "BELGIUM ONDEMAND 9",
       "tgid": "TG2069"
    },
    {
       "id": 2080,
-      "callsign": "URGENCES FR TG2080",
+      "callsign": "URGENCES FR",
       "tgid": "TG2080"
    },
    {
@@ -707,52 +812,52 @@
    },
    {
       "id": 2089,
-      "callsign": "FRANCE DOM-TOM TG2089",
+      "callsign": "FRANCE DOM-TOM",
       "tgid": "TG2089"
    },
    {
       "id": 2141,
-      "callsign": "REGIONAL EA1 TG2141",
+      "callsign": "REGIONAL EA1",
       "tgid": "TG2141"
    },
    {
       "id": 2142,
-      "callsign": "REGIONAL EA2 TG2142",
+      "callsign": "REGIONAL EA2",
       "tgid": "TG2142"
    },
    {
       "id": 2143,
-      "callsign": "REGIONAL EA3 TG2143",
+      "callsign": "REGIONAL EA3",
       "tgid": "TG2143"
    },
    {
       "id": 2144,
-      "callsign": "REGIONAL EA4 TG2144",
+      "callsign": "REGIONAL EA4",
       "tgid": "TG2144"
    },
    {
       "id": 2145,
-      "callsign": "REGIONAL EA5 TG2145",
+      "callsign": "REGIONAL EA5",
       "tgid": "TG2145"
    },
    {
       "id": 2146,
-      "callsign": "REGIONAL EA6 TG2146",
+      "callsign": "REGIONAL EA6",
       "tgid": "TG2146"
    },
    {
       "id": 2147,
-      "callsign": "REGIONAL EA7 TG2147",
+      "callsign": "REGIONAL EA7",
       "tgid": "TG2147"
    },
    {
       "id": 2148,
-      "callsign": "REGIONAL EA8 TG2148",
+      "callsign": "REGIONAL EA8",
       "tgid": "TG2148"
    },
    {
       "id": 2149,
-      "callsign": "REGIONAL EA9 TG2149",
+      "callsign": "REGIONAL EA9",
       "tgid": "TG2149"
    },
    {
@@ -782,87 +887,87 @@
    },
    {
       "id": 2169,
-      "callsign": "LOCAL REPEATER TG2169",
+      "callsign": "LOCAL REPEATER",
       "tgid": "TG2169"
    },
    {
       "id": 2260,
-      "callsign": "OZN AREA TG2260",
+      "callsign": "OZN AREA",
       "tgid": "TG2260"
    },
    {
       "id": 2262,
-      "callsign": "DISTRICT YO2 TG2262",
+      "callsign": "DISTRICT YO2",
       "tgid": "TG2262"
    },
    {
       "id": 2263,
-      "callsign": "DISTRICT YO3 TG2263",
+      "callsign": "DISTRICT YO3",
       "tgid": "TG2263"
    },
    {
       "id": 2264,
-      "callsign": "DISTRICT YO4 TG2264",
+      "callsign": "DISTRICT YO4",
       "tgid": "TG2264"
    },
    {
       "id": 2265,
-      "callsign": "DISTRICT YO5 TG2265",
+      "callsign": "DISTRICT YO5",
       "tgid": "TG2265"
    },
    {
       "id": 2266,
-      "callsign": "DISTRICT YO6 TG2266",
+      "callsign": "DISTRICT YO6",
       "tgid": "TG2266"
    },
    {
       "id": 2267,
-      "callsign": "DISTRICT YO7 TG2267",
+      "callsign": "DISTRICT YO7",
       "tgid": "TG2267"
    },
    {
       "id": 2268,
-      "callsign": "DISTRICT YO8 TG2268",
+      "callsign": "DISTRICT YO8",
       "tgid": "TG2268"
    },
    {
       "id": 2269,
-      "callsign": "DISTRICT YO9 TG2269",
+      "callsign": "DISTRICT YO9",
       "tgid": "TG2269"
    },
    {
       "id": 2280,
-      "callsign": "SCHWEIZ DEUTSCH TG2280",
+      "callsign": "SCHWEIZ DEUTSCH",
       "tgid": "TG2280"
    },
    {
       "id": 2281,
-      "callsign": "SUISSE ROMANDE TG2281",
+      "callsign": "SUISSE ROMANDE",
       "tgid": "TG2281"
    },
    {
       "id": 2282,
-      "callsign": "VALAIS / WALLIS TG2282",
+      "callsign": "VALAIS / WALLIS",
       "tgid": "TG2282"
    },
    {
       "id": 2283,
-      "callsign": "BERN / SOLOTHURN TG2283",
+      "callsign": "BERN / SOLOTHURN",
       "tgid": "TG2283"
    },
    {
       "id": 2284,
-      "callsign": "BASEL TG2284",
+      "callsign": "BASEL",
       "tgid": "TG2284"
    },
    {
       "id": 2285,
-      "callsign": "AARGAU / ZENTRALSCHWEIZ TG2285",
+      "callsign": "AARGAU / ZENTRALSCHWEIZ",
       "tgid": "TG2285"
    },
    {
       "id": 2286,
-      "callsign": "TICINO TG2286",
+      "callsign": "TICINO",
       "tgid": "TG2286"
    },
    {
@@ -877,77 +982,77 @@
    },
    {
       "id": 2289,
-      "callsign": "OSTSCHWEIZ TG2289",
+      "callsign": "OSTSCHWEIZ",
       "tgid": "TG2289"
    },
    {
       "id": 2300,
-      "callsign": "CZECH CROSSCONECT TG2300",
+      "callsign": "CZECH CROSSCONECT",
       "tgid": "TG2300"
    },
    {
       "id": 2301,
-      "callsign": "BOHEMIA TG2301",
+      "callsign": "BOHEMIA",
       "tgid": "TG2301"
    },
    {
       "id": 2302,
-      "callsign": "MORAVIA TG2302",
+      "callsign": "MORAVIA",
       "tgid": "TG2302"
    },
    {
       "id": 2311,
-      "callsign": "SLOVAKIA TG2311",
+      "callsign": "SLOVAKIA",
       "tgid": "TG2311"
    },
    {
       "id": 2320,
-      "callsign": "OE-MASTER TG2320",
+      "callsign": "OE-MASTER",
       "tgid": "TG2320"
    },
    {
       "id": 2321,
-      "callsign": "WIEN TG2321",
+      "callsign": "WIEN",
       "tgid": "TG2321"
    },
    {
       "id": 2322,
-      "callsign": "SALZBURG TG2322",
+      "callsign": "SALZBURG",
       "tgid": "TG2322"
    },
    {
       "id": 2323,
-      "callsign": "NIEDEROESTERREICH TG2323",
+      "callsign": "NIEDERÖSTERREICH",
       "tgid": "TG2323"
    },
    {
       "id": 2324,
-      "callsign": "BURGENLAND TG2324",
+      "callsign": "BURGENLAND",
       "tgid": "TG2324"
    },
    {
       "id": 2325,
-      "callsign": "OBEROESTERREICH TG2325",
+      "callsign": "OBERÖSTERREICH",
       "tgid": "TG2325"
    },
    {
       "id": 2326,
-      "callsign": "STEIERMARK TG2326",
+      "callsign": "STEIERMARK",
       "tgid": "TG2326"
    },
    {
       "id": 2327,
-      "callsign": "TIROL TG2327",
+      "callsign": "TIROL",
       "tgid": "TG2327"
    },
    {
       "id": 2328,
-      "callsign": "KAERNTEN TG2328",
+      "callsign": "KÄRNTEN",
       "tgid": "TG2328"
    },
    {
       "id": 2329,
-      "callsign": "VORARLBERG TG2329",
+      "callsign": "VORARLBERG",
       "tgid": "TG2329"
    },
    {
@@ -957,17 +1062,17 @@
    },
    {
       "id": 2351,
-      "callsign": "CHAT TG2351",
+      "callsign": "UNITED KINGDOM CHAT",
       "tgid": "TG2351"
    },
    {
       "id": 2352,
-      "callsign": "CHAT TG2352",
+      "callsign": "UNITED KINGDOM CHAT",
       "tgid": "TG2352"
    },
    {
       "id": 2353,
-      "callsign": "CHAT TG2353",
+      "callsign": "UNITED KINGDOM CHAT",
       "tgid": "TG2353"
    },
    {
@@ -992,172 +1097,172 @@
    },
    {
       "id": 2382,
-      "callsign": "DENMARK MIDTJYLLAND TG2382",
+      "callsign": "DENMARK MIDTJYLLAND",
       "tgid": "TG2382"
    },
    {
       "id": 2383,
-      "callsign": "DENMARK SYDDANMARK TG2383",
+      "callsign": "DENMARK SYDDANMARK",
       "tgid": "TG2383"
    },
    {
       "id": 2384,
-      "callsign": "DENMARK COPENHAGEN TG2384",
+      "callsign": "DENMARK COPENHAGEN",
       "tgid": "TG2384"
    },
    {
       "id": 2385,
-      "callsign": "DENMARK SJAELLAND TG2385",
+      "callsign": "DENMARK SJAELLAND",
       "tgid": "TG2385"
    },
    {
       "id": 2386,
-      "callsign": "QSY1 CHAT TG2386",
+      "callsign": "QSY1 CHAT",
       "tgid": "TG2386"
    },
    {
       "id": 2387,
-      "callsign": "QSY2 CHAT TG2387",
+      "callsign": "QSY2 CHAT",
       "tgid": "TG2387"
    },
    {
       "id": 2388,
-      "callsign": "D-STAR DCS699B TG2388",
+      "callsign": "D-STAR DCS699B",
       "tgid": "TG2388"
    },
    {
       "id": 2389,
-      "callsign": "XLX238 INTERLINK TG2389",
+      "callsign": "XLX238 INTERLINK",
       "tgid": "TG2389"
    },
    {
       "id": 2400,
-      "callsign": "REGIONAL SM0 TG2400",
+      "callsign": "REGIONAL SM0",
       "tgid": "TG2400"
    },
    {
       "id": 2401,
-      "callsign": "REGIONAL SM1 TG2401",
+      "callsign": "REGIONAL SM1",
       "tgid": "TG2401"
    },
    {
       "id": 2402,
-      "callsign": "REGIONAL SM2 TG2402",
+      "callsign": "REGIONAL SM2",
       "tgid": "TG2402"
    },
    {
       "id": 2403,
-      "callsign": "REGIONAL SM3 TG2403",
+      "callsign": "REGIONAL SM3",
       "tgid": "TG2403"
    },
    {
       "id": 2404,
-      "callsign": "REGIONAL SM4 TG2404",
+      "callsign": "REGIONAL SM4",
       "tgid": "TG2404"
    },
    {
       "id": 2405,
-      "callsign": "REGIONAL SM5 TG2405",
+      "callsign": "REGIONAL SM5",
       "tgid": "TG2405"
    },
    {
       "id": 2406,
-      "callsign": "REGIONAL SM6 TG2406",
+      "callsign": "REGIONAL SM6",
       "tgid": "TG2406"
    },
    {
       "id": 2407,
-      "callsign": "REGIONAL SM7 TG2407",
+      "callsign": "REGIONAL SM7",
       "tgid": "TG2407"
    },
    {
       "id": 2410,
-      "callsign": "DCS010D TG2410",
+      "callsign": "DCS010D",
       "tgid": "TG2410"
    },
    {
       "id": 2411,
-      "callsign": "SM TACTICAL TG2411",
+      "callsign": "SM TACTICAL",
       "tgid": "TG2411"
    },
    {
       "id": 2415,
-      "callsign": "DCS010V TG2415",
+      "callsign": "DCS010V",
       "tgid": "TG2415"
    },
    {
       "id": 2440,
-      "callsign": "REGIONAL OH0 TG2440",
+      "callsign": "REGIONAL OH0",
       "tgid": "TG2440"
    },
    {
       "id": 2441,
-      "callsign": "REGIONAL OH1 TG2441",
+      "callsign": "REGIONAL OH1",
       "tgid": "TG2441"
    },
    {
       "id": 2442,
-      "callsign": "REGIONAL OH2 TG2442",
+      "callsign": "REGIONAL OH2",
       "tgid": "TG2442"
    },
    {
       "id": 2443,
-      "callsign": "REGIONAL OH3 TG2443",
+      "callsign": "REGIONAL OH3",
       "tgid": "TG2443"
    },
    {
       "id": 2444,
-      "callsign": "REGIONAL OH4 TG2444",
+      "callsign": "REGIONAL OH4",
       "tgid": "TG2444"
    },
    {
       "id": 2445,
-      "callsign": "REGIONAL OH5 TG2445",
+      "callsign": "REGIONAL OH5",
       "tgid": "TG2445"
    },
    {
       "id": 2446,
-      "callsign": "REGIONAL OH6 TG2446",
+      "callsign": "REGIONAL OH6",
       "tgid": "TG2446"
    },
    {
       "id": 2447,
-      "callsign": "REGIONAL OH7 TG2447",
+      "callsign": "REGIONAL OH7",
       "tgid": "TG2447"
    },
    {
       "id": 2448,
-      "callsign": "REGIONAL OH8 TG2448",
+      "callsign": "REGIONAL OH8",
       "tgid": "TG2448"
    },
    {
       "id": 2449,
-      "callsign": "REGIONAL OH9 TG2449",
+      "callsign": "REGIONAL OH9",
       "tgid": "TG2449"
    },
    {
       "id": 2501,
-      "callsign": "RUSSIA GLOBAL TG2501",
+      "callsign": "RUSSIA GLOBAL",
       "tgid": "TG2501"
    },
    {
       "id": 2502,
-      "callsign": "XRF250A BRIDGE TG2502",
+      "callsign": "XRF250A BRIDGE",
       "tgid": "TG2502"
    },
    {
       "id": 2503,
-      "callsign": "DSTAR-SU / 24009 WIRES-X TG2503",
+      "callsign": "DSTAR-SU / 24009 WIRES-X",
       "tgid": "TG2503"
    },
    {
       "id": 2555,
-      "callsign": "UKRAINE BRIDGE DMR D-STAR YSF TG2555",
+      "callsign": "UKRAINE BRIDGE DMR D-STAR YSF",
       "tgid": "TG2555"
    },
    {
       "id": 2559,
-      "callsign": "EMERGENCY UKRAINE TG2559",
+      "callsign": "EMERGENCY UKRAINE",
       "tgid": "TG2559"
    },
    {
@@ -1212,57 +1317,57 @@
    },
    {
       "id": 2681,
-      "callsign": "NORTH TG2681",
+      "callsign": "NORTH",
       "tgid": "TG2681"
    },
    {
       "id": 2682,
-      "callsign": "CENTER TG2682",
+      "callsign": "CENTER",
       "tgid": "TG2682"
    },
    {
       "id": 2683,
-      "callsign": "CAPITAL TG2683",
+      "callsign": "CAPITAL",
       "tgid": "TG2683"
    },
    {
       "id": 2684,
-      "callsign": "ALENTEJO TG2684",
+      "callsign": "ALENTEJO",
       "tgid": "TG2684"
    },
    {
       "id": 2685,
-      "callsign": "ALGARVE TG2685",
+      "callsign": "ALGARVE",
       "tgid": "TG2685"
    },
    {
       "id": 2686,
-      "callsign": "AZORES TG2686",
+      "callsign": "AZORES",
       "tgid": "TG2686"
    },
    {
       "id": 2687,
-      "callsign": "MADEIRA IS TG2687",
+      "callsign": "MADEIRA IS",
       "tgid": "TG2687"
    },
    {
       "id": 2701,
-      "callsign": "XLX270 A TG2701",
+      "callsign": "XLX270 A",
       "tgid": "TG2701"
    },
    {
       "id": 2705,
-      "callsign": "LX ADRAD TG2705",
+      "callsign": "LX ADRAD",
       "tgid": "TG2705"
    },
    {
       "id": 2706,
-      "callsign": "LX RLX TG2706",
+      "callsign": "LX RLX",
       "tgid": "TG2706"
    },
    {
       "id": 2707,
-      "callsign": "LX LARU TG2707",
+      "callsign": "LX LARU",
       "tgid": "TG2707"
    },
    {
@@ -1287,472 +1392,472 @@
    },
    {
       "id": 2724,
-      "callsign": "BRIDGE TO YSF-IE TG2724",
+      "callsign": "BRIDGE TO YSF-IE",
       "tgid": "TG2724"
    },
    {
       "id": 2729,
-      "callsign": "AREN LOGISTICS TG2729",
+      "callsign": "AREN LOGISTICS",
       "tgid": "TG2729"
    },
    {
       "id": 2802,
-      "callsign": "NICOSIA TG2802",
+      "callsign": "NICOSIA",
       "tgid": "TG2802"
    },
    {
       "id": 2803,
-      "callsign": "FAMAGUSTA TG2803",
+      "callsign": "FAMAGUSTA",
       "tgid": "TG2803"
    },
    {
       "id": 2804,
-      "callsign": "LARNACA TG2804",
+      "callsign": "LARNACA",
       "tgid": "TG2804"
    },
    {
       "id": 2805,
-      "callsign": "LIMASSOL TG2805",
+      "callsign": "LIMASSOL",
       "tgid": "TG2805"
    },
    {
       "id": 2806,
-      "callsign": "PAPHOS TG2806",
+      "callsign": "PAPHOS",
       "tgid": "TG2806"
    },
    {
       "id": 2807,
-      "callsign": "KYRENIA TG2807",
+      "callsign": "KYRENIA",
       "tgid": "TG2807"
    },
    {
       "id": 2842,
-      "callsign": "SOFIA TG2842",
+      "callsign": "SOFIA",
       "tgid": "TG2842"
    },
    {
       "id": 2843,
-      "callsign": "PLOVDIV TG2843",
+      "callsign": "PLOVDIV",
       "tgid": "TG2843"
    },
    {
       "id": 2844,
-      "callsign": "BURGAS TG2844",
+      "callsign": "BURGAS",
       "tgid": "TG2844"
    },
    {
       "id": 2847,
-      "callsign": "HASKOVO TG2847",
+      "callsign": "HASKOVO",
       "tgid": "TG2847"
    },
    {
       "id": 2849,
-      "callsign": "VARNA TG2849",
+      "callsign": "VARNA",
       "tgid": "TG2849"
    },
    {
       "id": 2860,
-      "callsign": "TURKEY ISTANBUL TG2860",
+      "callsign": "TURKEY ISTANBUL",
       "tgid": "TG2860"
    },
    {
       "id": 3023,
-      "callsign": "ONTARIO CROSS-LINK TG3023",
+      "callsign": "ONTARIO CROSS-LINK",
       "tgid": "TG3023"
    },
    {
       "id": 3026,
-      "callsign": "CANADA ENGLISH 4326 TG3026",
+      "callsign": "CANADA ENGLISH 4326",
       "tgid": "TG3026"
    },
    {
       "id": 3027,
-      "callsign": "CANADA FRANCAIS 4327 TG3027",
+      "callsign": "CANADA FRANCAIS 4327",
       "tgid": "TG3027"
    },
    {
       "id": 3100,
-      "callsign": "USA-NATIONWIDE BRIDGE TG3100",
+      "callsign": "USA-NATIONWIDE BRIDGE",
       "tgid": "TG3100"
    },
    {
       "id": 3101,
-      "callsign": "ALABAMA TG3101",
+      "callsign": "ALABAMA",
       "tgid": "TG3101"
    },
    {
       "id": 3102,
-      "callsign": "ALASKA TG3102",
+      "callsign": "ALASKA",
       "tgid": "TG3102"
    },
    {
       "id": 3104,
-      "callsign": "ARIZONA TG3104",
+      "callsign": "ARIZONA",
       "tgid": "TG3104"
    },
    {
       "id": 3105,
-      "callsign": "ARKANSAS TG3105",
+      "callsign": "ARKANSAS",
       "tgid": "TG3105"
    },
    {
       "id": 3106,
-      "callsign": "CALIFORNIA TG3106",
+      "callsign": "CALIFORNIA",
       "tgid": "TG3106"
    },
    {
       "id": 3108,
-      "callsign": "COLORADO TG3108",
+      "callsign": "COLORADO",
       "tgid": "TG3108"
    },
    {
       "id": 3109,
-      "callsign": "CONNECTICUT TG3109",
+      "callsign": "CONNECTICUT",
       "tgid": "TG3109"
    },
    {
       "id": 3110,
-      "callsign": "DELAWARE TG3110",
+      "callsign": "DELAWARE",
       "tgid": "TG3110"
    },
    {
       "id": 3111,
-      "callsign": "DC TG3111",
+      "callsign": "DC",
       "tgid": "TG3111"
    },
    {
       "id": 3112,
-      "callsign": "FLORIDA TG3112",
+      "callsign": "FLORIDA",
       "tgid": "TG3112"
    },
    {
       "id": 3113,
-      "callsign": "GEORGIA TG3113",
+      "callsign": "GEORGIA",
       "tgid": "TG3113"
    },
    {
       "id": 3115,
-      "callsign": "HAWAII TG3115",
+      "callsign": "HAWAII",
       "tgid": "TG3115"
    },
    {
       "id": 3116,
-      "callsign": "IDAHO TG3116",
+      "callsign": "IDAHO",
       "tgid": "TG3116"
    },
    {
       "id": 3117,
-      "callsign": "ILLINOIS TG3117",
+      "callsign": "ILLINOIS",
       "tgid": "TG3117"
    },
    {
       "id": 3118,
-      "callsign": "INDIANA TG3118",
+      "callsign": "INDIANA",
       "tgid": "TG3118"
    },
    {
       "id": 3119,
-      "callsign": "IOWA TG3119",
+      "callsign": "IOWA",
       "tgid": "TG3119"
    },
    {
       "id": 3120,
-      "callsign": "KANSAS TG3120",
+      "callsign": "KANSAS",
       "tgid": "TG3120"
    },
    {
       "id": 3121,
-      "callsign": "KENTUCKY TG3121",
+      "callsign": "KENTUCKY",
       "tgid": "TG3121"
    },
    {
       "id": 3122,
-      "callsign": "LOUISIANA TG3122",
+      "callsign": "LOUISIANA",
       "tgid": "TG3122"
    },
    {
       "id": 3123,
-      "callsign": "MAINE TG3123",
+      "callsign": "MAINE",
       "tgid": "TG3123"
    },
    {
       "id": 3124,
-      "callsign": "MARYLAND TG3124",
+      "callsign": "MARYLAND",
       "tgid": "TG3124"
    },
    {
       "id": 3125,
-      "callsign": "MASSACHUSETTS TG3125",
+      "callsign": "MASSACHUSETTS",
       "tgid": "TG3125"
    },
    {
       "id": 3126,
-      "callsign": "MICHIGAN TG3126",
+      "callsign": "MICHIGAN",
       "tgid": "TG3126"
    },
    {
       "id": 3127,
-      "callsign": "MINNESOTA TG3127",
+      "callsign": "MINNESOTA",
       "tgid": "TG3127"
    },
    {
       "id": 3128,
-      "callsign": "MISSISSIPPI TG3128",
+      "callsign": "MISSISSIPPI",
       "tgid": "TG3128"
    },
    {
       "id": 3129,
-      "callsign": "MISSOURI TG3129",
+      "callsign": "MISSOURI",
       "tgid": "TG3129"
    },
    {
       "id": 3130,
-      "callsign": "MONTANA TG3130",
+      "callsign": "MONTANA",
       "tgid": "TG3130"
    },
    {
       "id": 3131,
-      "callsign": "NEBRASKA TG3131",
+      "callsign": "NEBRASKA",
       "tgid": "TG3131"
    },
    {
       "id": 3132,
-      "callsign": "NEVADA TG3132",
+      "callsign": "NEVADA",
       "tgid": "TG3132"
    },
    {
       "id": 3133,
-      "callsign": "NEW HAMPSHIRE TG3133",
+      "callsign": "NEW HAMPSHIRE",
       "tgid": "TG3133"
    },
    {
       "id": 3134,
-      "callsign": "NEW JERSEY TG3134",
+      "callsign": "NEW JERSEY",
       "tgid": "TG3134"
    },
    {
       "id": 3135,
-      "callsign": "NEW MEXICO TG3135",
+      "callsign": "NEW MEXICO",
       "tgid": "TG3135"
    },
    {
       "id": 3136,
-      "callsign": "NEW YORK TG3136",
+      "callsign": "NEW YORK",
       "tgid": "TG3136"
    },
    {
       "id": 3137,
-      "callsign": "NORTH CAROLINA TG3137",
+      "callsign": "NORTH CAROLINA",
       "tgid": "TG3137"
    },
    {
       "id": 3138,
-      "callsign": "NORTH DAKOTA TG3138",
+      "callsign": "NORTH DAKOTA",
       "tgid": "TG3138"
    },
    {
       "id": 3139,
-      "callsign": "OHIO TG3139",
+      "callsign": "OHIO",
       "tgid": "TG3139"
    },
    {
       "id": 3140,
-      "callsign": "OKLAHOMA TG3140",
+      "callsign": "OKLAHOMA",
       "tgid": "TG3140"
    },
    {
       "id": 3141,
-      "callsign": "OREGON TG3141",
+      "callsign": "OREGON",
       "tgid": "TG3141"
    },
    {
       "id": 3142,
-      "callsign": "PENNSYLVANIA TG3142",
+      "callsign": "PENNSYLVANIA",
       "tgid": "TG3142"
    },
    {
       "id": 3144,
-      "callsign": "RHODE ISLAND TG3144",
+      "callsign": "RHODE ISLAND",
       "tgid": "TG3144"
    },
    {
       "id": 3145,
-      "callsign": "SOUTH CAROLINA TG3145",
+      "callsign": "SOUTH CAROLINA",
       "tgid": "TG3145"
    },
    {
       "id": 3146,
-      "callsign": "SOUTH DAKOTA TG3146",
+      "callsign": "SOUTH DAKOTA",
       "tgid": "TG3146"
    },
    {
       "id": 3147,
-      "callsign": "TENNESSEE TG3147",
+      "callsign": "TENNESSEE",
       "tgid": "TG3147"
    },
    {
       "id": 3148,
-      "callsign": "TEXAS TG3148",
+      "callsign": "TEXAS",
       "tgid": "TG3148"
    },
    {
       "id": 3149,
-      "callsign": "UTAH TG3149",
+      "callsign": "UTAH",
       "tgid": "TG3149"
    },
    {
       "id": 3150,
-      "callsign": "VERMONT TG3150",
+      "callsign": "VERMONT",
       "tgid": "TG3150"
    },
    {
       "id": 3151,
-      "callsign": "VIRGINIA TG3151",
+      "callsign": "VIRGINIA",
       "tgid": "TG3151"
    },
    {
       "id": 3153,
-      "callsign": "WASHINGTON TG3153",
+      "callsign": "WASHINGTON",
       "tgid": "TG3153"
    },
    {
       "id": 3154,
-      "callsign": "WEST VIRGINIA TG3154",
+      "callsign": "WEST VIRGINIA",
       "tgid": "TG3154"
    },
    {
       "id": 3155,
-      "callsign": "WISCONSIN TG3155",
+      "callsign": "WISCONSIN",
       "tgid": "TG3155"
    },
    {
       "id": 3156,
-      "callsign": "WYOMING TG3156",
+      "callsign": "WYOMING",
       "tgid": "TG3156"
    },
    {
       "id": 3166,
-      "callsign": "DVSWITCH TG3166",
+      "callsign": "DVSWITCH",
       "tgid": "TG3166"
    },
    {
       "id": 3167,
-      "callsign": "ALLSTAR TG3167",
+      "callsign": "ALLSTAR",
       "tgid": "TG3167"
    },
    {
       "id": 3169,
-      "callsign": "MIDWEST TG3169",
+      "callsign": "MIDWEST",
       "tgid": "TG3169"
    },
    {
       "id": 3171,
-      "callsign": "NOCO TG3171",
+      "callsign": "NOCO",
       "tgid": "TG3171"
    },
    {
       "id": 3172,
-      "callsign": "NORTHEAST TG3172",
+      "callsign": "NORTHEAST",
       "tgid": "TG3172"
    },
    {
       "id": 3173,
-      "callsign": "MID-ATLANTIC TG3173",
+      "callsign": "MID-ATLANTIC",
       "tgid": "TG3173"
    },
    {
       "id": 3174,
-      "callsign": "SOUTHEAST TG3174",
+      "callsign": "SOUTHEAST",
       "tgid": "TG3174"
    },
    {
       "id": 3175,
-      "callsign": "SOUTHERN PLAINS TG3175",
+      "callsign": "SOUTHERN PLAINS",
       "tgid": "TG3175"
    },
    {
       "id": 3176,
-      "callsign": "SOUTHWEST TG3176",
+      "callsign": "SOUTHWEST",
       "tgid": "TG3176"
    },
    {
       "id": 3177,
-      "callsign": "MOUNTAIN TG3177",
+      "callsign": "MOUNTAIN",
       "tgid": "TG3177"
    },
    {
       "id": 3180,
-      "callsign": "MISSOURI LAKES TG3180",
+      "callsign": "MISSOURI LAKES",
       "tgid": "TG3180"
    },
    {
       "id": 3190,
-      "callsign": "NORTHCENTRAL PA SOUTHERNTIER NY TG3190",
+      "callsign": "NORTHCENTRAL PA SOUTHERNTIER NY",
       "tgid": "TG3190"
    },
    {
       "id": 3195,
-      "callsign": "CHEMUNG STORM CHASERS TG3195",
+      "callsign": "CHEMUNG STORM CHASERS",
       "tgid": "TG3195"
    },
    {
       "id": 3199,
-      "callsign": "HURRICANE NET TG3199",
+      "callsign": "HURRICANE NET",
       "tgid": "TG3199"
    },
    {
       "id": 3300,
-      "callsign": "PRADISE REPEATER TG3300",
+      "callsign": "PRADISE REPEATER",
       "tgid": "TG3300"
    },
    {
       "id": 3341,
-      "callsign": "XE 1 TG3341",
+      "callsign": "XE 1",
       "tgid": "TG3341"
    },
    {
       "id": 3342,
-      "callsign": "XE 2 TG3342",
+      "callsign": "XE 2",
       "tgid": "TG3342"
    },
    {
       "id": 3343,
-      "callsign": "XE 3 TG3343",
+      "callsign": "XE 3",
       "tgid": "TG3343"
    },
    {
       "id": 3581,
-      "callsign": "CASTRIES TG3581",
+      "callsign": "CASTRIES",
       "tgid": "TG3581"
    },
    {
       "id": 3582,
-      "callsign": "VIEUX FORT TG3582",
+      "callsign": "VIEUX FORT",
       "tgid": "TG3582"
    },
    {
       "id": 3740,
-      "callsign": "REACT TG3740",
+      "callsign": "REACT",
       "tgid": "TG3740"
    },
    {
       "id": 3741,
-      "callsign": "WOODBROOK TG3741",
+      "callsign": "WOODBROOK",
       "tgid": "TG3741"
    },
    {
       "id": 3742,
-      "callsign": "PORT OF SPAIN TG3742",
+      "callsign": "PORT OF SPAIN",
       "tgid": "TG3742"
    },
    {
       "id": 3743,
-      "callsign": "SAN FERNANDO TG3743",
+      "callsign": "SAN FERNANDO",
       "tgid": "TG3743"
    },
    {
       "id": 3744,
-      "callsign": "TOBAGO TG3744",
+      "callsign": "TOBAGO",
       "tgid": "TG3744"
    },
    {
@@ -2227,77 +2332,77 @@
    },
    {
       "id": 5021,
-      "callsign": "WEST MALAYSIA TG5021",
+      "callsign": "WEST MALAYSIA",
       "tgid": "TG5021"
    },
    {
       "id": 5022,
-      "callsign": "EAST MALAYSIA TG5022",
+      "callsign": "EAST MALAYSIA",
       "tgid": "TG5022"
    },
    {
       "id": 5050,
-      "callsign": "XLX500 G TG5050",
+      "callsign": "XLX500 G",
       "tgid": "TG5050"
    },
    {
       "id": 5051,
-      "callsign": "AUSTRALIAN CAPITAL TERRITORY TG5051",
+      "callsign": "AUSTRALIAN CAPITAL TERRITORY",
       "tgid": "TG5051"
    },
    {
       "id": 5052,
-      "callsign": "AUSTRALIA NEW SOUTH WALES TG5052",
+      "callsign": "AUSTRALIA NEW SOUTH WALES",
       "tgid": "TG5052"
    },
    {
       "id": 5053,
-      "callsign": "AUSTRALIA VICTORIA TG5053",
+      "callsign": "AUSTRALIA VICTORIA",
       "tgid": "TG5053"
    },
    {
       "id": 5054,
-      "callsign": "AUSTRALIA QUEENSLAND TG5054",
+      "callsign": "AUSTRALIA QUEENSLAND",
       "tgid": "TG5054"
    },
    {
       "id": 5055,
-      "callsign": "SOUTH AUSTRALIA TG5055",
+      "callsign": "SOUTH AUSTRALIA",
       "tgid": "TG5055"
    },
    {
       "id": 5056,
-      "callsign": "WESTERN AUSTRALIA TG5056",
+      "callsign": "WESTERN AUSTRALIA",
       "tgid": "TG5056"
    },
    {
       "id": 5058,
-      "callsign": "AUSTRALIA NORTHERN TERRITORY TG5058",
+      "callsign": "AUSTRALIA NORTHERN TERRITORY",
       "tgid": "TG5058"
    },
    {
       "id": 5059,
-      "callsign": "YSF001 WIRES-X TG5059",
+      "callsign": "YSF001 WIRES-X",
       "tgid": "TG5059"
    },
    {
       "id": 5151,
-      "callsign": "NCR TG5151",
+      "callsign": "NCR",
       "tgid": "TG5151"
    },
    {
       "id": 5152,
-      "callsign": "CRIRCV  TG5152",
+      "callsign": "CRIRCV",
       "tgid": "TG5152"
    },
    {
       "id": 5153,
-      "callsign": "CLUZON TG5153",
+      "callsign": "CLUZON",
       "tgid": "TG5153"
    },
    {
       "id": 5154,
-      "callsign": "BICOLR TG5154",
+      "callsign": "BICOLR",
       "tgid": "TG5154"
    },
    {
@@ -3341,6 +3446,11 @@
       "tgid": "TG23529"
    },
    {
+      "id": 23530,
+      "callsign": "YORKSHIRE LINK",
+      "tgid": "TG23530"
+   },
+   {
       "id": 23540,
       "callsign": "IRELAND CHAT",
       "tgid": "TG23540"
@@ -3742,17 +3852,17 @@
    },
    {
       "id": 26234,
-      "callsign": "NI-SÜD",
+      "callsign": "NIEDERSACHSEN-SÜD",
       "tgid": "TG26234"
    },
    {
       "id": 26235,
-      "callsign": "NI-SÜDHEIDE",
+      "callsign": "NIEDERSACHSEN-SÜDHEIDE",
       "tgid": "TG26235"
    },
    {
       "id": 26236,
-      "callsign": "NI-NORD",
+      "callsign": "NIEDERSACHSEN-NORD",
       "tgid": "TG26236"
    },
    {
@@ -3996,6 +4106,11 @@
       "tgid": "TG26291"
    },
    {
+      "id": 26292,
+      "callsign": "CROSSLINK KISSINGER HÜTTE",
+      "tgid": "TG26292"
+   },
+   {
       "id": 26296,
       "callsign": "WEIMAR",
       "tgid": "TG26296"
@@ -4174,6 +4289,11 @@
       "id": 26447,
       "callsign": "OWL-TALK",
       "tgid": "TG26447"
+   },
+   {
+      "id": 26448,
+      "callsign": "TRUCKER / BF3-4 DRIVER",
+      "tgid": "TG26448"
    },
    {
       "id": 26538,
@@ -6402,7 +6522,7 @@
    },
    {
       "id": 98002,
-      "callsign": "HAMFURS TG98002",
+      "callsign": "HAMFURS",
       "tgid": "TG98002"
    },
    {
@@ -7096,94 +7216,134 @@
       "tgid": "TG2709112"
    },
    {
+      "id": 2651388,
+      "callsign": "USER-TG BROKER88",
+      "tgid": "TG2651388"
+   },
+   {
       "id": 2651717,
-      "callsign": "PRIVAT-TG 13LU017",
+      "callsign": "USER-TG 13LU017",
       "tgid": "TG2651717"
    }, 
    {
+      "id": 2651904,
+      "callsign": "USER-TG DR3HBF",
+      "tgid": "TG2651904"
+   }, 
+   {
       "id": 3020000,
-      "callsign": "ALDIAGAMING1 PRIVAT-TG BOBFLOOF",
+      "callsign": "ALDIAGAMING1 USER-TG BOBFLOOF",
       "tgid": "TG3020000"
    },
    {
       "id": 2049000,
-      "callsign": "ALDIAGAMING2 PRIVAT-TG NAHKATO",
+      "callsign": "ALDIAGAMING2 USER-TG NAHKATO",
       "tgid": "TG2049000"
    },
    {
       "id": 2654265,
-      "callsign": "FURCOM2 PRIVAT-TG HYPER",
+      "callsign": "FURCOM2 USER-TG HYPER",
       "tgid": "TG2654265"
    },
    {
       "id": 2651990,
-      "callsign": "WILHELMSHAVEN PRIVAT-TG WH3CBA",
+      "callsign": "WILHELMSHAVEN USER-TG WH3CBA",
       "tgid": "TG2651990"
    },
    {
+      "id": 2653050,
+      "callsign": "Cato B. USER-TG 13HN308",
+      "tgid": "TG2653050"
+   },
+   {
       "id": 2655001,
-      "callsign": "RL1HH - RELAIS HAMBURG",
+      "callsign": "RELAIS HAMBURG",
       "tgid": "TG2655001"
    },
    {
       "id": 2655002,
-      "callsign": "CB0FBG - CROSSLINK FRN-MITTELSACHSEN",
+      "callsign": "CROSSLINK FRN-MITTELSACHSEN",
       "tgid": "TG2655002"
    },
    {
       "id": 2655003,
-      "callsign": "RL1HX - RELAIS NIEHEIM",
+      "callsign": "RELAIS NIEHEIM",
       "tgid": "TG2655003"
    },
    {
       "id": 2655005,
-      "callsign": "RL1MTL - RELAIS BAD LAUSICK",
+      "callsign": "RELAIS BAD LAUSICK",
       "tgid": "TG2655005"
    },
    {
       "id": 2655006,
-      "callsign": "RL2MTL - RELAIS BAD LAUSICK",
+      "callsign": "RELAIS BAD LAUSICK",
       "tgid": "TG2655006"
    },
    {
       "id": 2655011,
-      "callsign": "DMRFRN - CROSSLINK FRN-MITTELSACHSEN",
+      "callsign": "CROSSLINK FRN-MITTELSACHSEN",
       "tgid": "TG2655011"
    },
    {
       "id": 2655013,
-      "callsign": "ZELLO - FREEDMR DIGITAL",
+      "callsign": "ZELLO FREEDMR DIGITAL",
       "tgid": "TG2655013"
    },
    {
       "id": 2655016,
-      "callsign": "RL1GT - RELAIS BORGHOLZHAUSEN",
+      "callsign": "RELAIS BORGHOLZHAUSEN",
       "tgid": "TG2655016"
    },
    {
+      "id": 2655017,
+      "callsign": "CROSSLINK KISSINGER HÜTTE",
+      "tgid": "TG2655017"
+   },
+   {
+      "id": 2655018,
+      "callsign": "RELAIS KISSINGER HÜTTE",
+      "tgid": "TG2655018"
+   },
+   {
+      "id": 2655130,
+      "callsign": "RELAIS FREENET FÜRSTENWALDE",
+      "tgid": "TG2655130"
+   },
+   {
+      "id": 2655140,
+      "callsign": "RELAIS PMR446 FÜRSTENWALDE",
+      "tgid": "TG2655140"
+   },
+   {
       "id": 2654103,
-      "callsign": "KYFFHÄUSERKREIS PRIVAT-TG BEBRA3",
+      "callsign": "KYFFHÄUSERKREIS USER-TG BEBRA3",
       "tgid": "TG2654103"
    },
    {
       "id": 2653150,
-      "callsign": "PRIVAT-TG DW1PBJ",
+      "callsign": "USER-TG DW1PBJ",
       "tgid": "TG2653150"
    },
    {
       "id": 2654790,
-      "callsign": "PRIVAT-TG U96",
+      "callsign": "USER-TG U96",
       "tgid": "TG2654790"
    },
    {
       "id": 2654565,
-      "callsign": "PRIVAT-TG AJ1",
+      "callsign": "USER-TG AJ1",
       "tgid": "TG2654565"
    },
    {
       "id": 2654991,
-      "callsign": "EICHSFELDKREIS PRIVAT-TG FUNKLEITZENTRUM",
+      "callsign": "EICHSFELDKREIS USER-TG FUNKLEITZENTRUM",
       "tgid": "TG2654991"
+   },
+   {
+      "id": 2621218,
+      "callsign": "USER-TG DB0JSF",
+      "tgid": "TG2621218"
    },
    {
       "id": 5059742,
