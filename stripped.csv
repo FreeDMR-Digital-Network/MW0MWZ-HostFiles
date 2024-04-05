@@ -5118,6 +5118,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 4440000,RELAIS44,44dmr, Loire-Atlantique,44,France
 4444000,RELAIS44,44dmr, Loire-Atlantique,44,France
 4444116,DMR44F,Nicolas, Loire-Atlantique,44,France
+5103500,FCF,Reseaux Sidev, Reseaux Sidev,,France
 5900130,FRS3772,Stephane, Nord,59,France
 5923000,F59178N,Relais Hasnon, ,59,France
 5959000,F59DMR,F59dmr, ,,France
@@ -5482,6 +5483,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651021,DAX021,Horst,31785 Hameln,Niedersachsen,Germany
 2651022,13DF753,Jens,24376 Hasselberg,Schleswig-Holstein,Germany
 2651023,13AT162,Peter,17498 Greifswald,Mecklenburg-Vorpommern,Germany
+2651024,HITOWER33,Jan,24782 Buedelsdorf,Schleswig-Holstein,Germany
 2651040,GATOR,Daniel,26384 Wilhelmshaven,Niedersachsen,Germany
 2651100,HUNTE1,Christian,26131 Oldenburg,Niedersachsen,Germany
 2651101,SHORTY71,Jockel,27801 Oldenburg Brettorf,Niedersachsen,Germany
@@ -5587,6 +5589,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2652117,TIER592,Kleineinsatzfahrzeug 2,78112 Schwarzwald-Baar,Baden-Wuerttemberg,Germany
 2652158,13OP25,Jochen,75417 Muehlacker,Baden-Wuerttemberg,Germany
 2652222,DE0BEN,Ben,80937 Muenchen,Bayern,Germany
+2652265,13JM91,Juergen,91177 Thalmaessing,Bayern,Germany
 2652700,13HN267,Wolfgang,61267 Neu-Anspach,Hessen,Germany
 2652756,13RD07,Robert,94505 Bernried,Bayern,Germany
 2652793,CB93,Clemens,87527 Sonthofen,Bayern,Germany
@@ -5723,6 +5726,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2654111,13OT4664,Norbert,12109 Berlin,Berlin,Germany
 2654112,TEDDYBAER,Frank,99713 Allmenhausen,Thueringen,Germany
 2654120,FUERSTIN,Nicole,15517 Fuerstenwalde,Brandenburg,Germany
+2654228,13OT228,Jean,15299 Muellrose,Brandenburg,Germany
 2654255,ST63,Thomas,99706 Sondershausen,Thueringen,Germany
 2654265,HYPER,Johannes,39261 Zerbst,Sachsen-Anhalt,Germany
 2654322,JW1HAL,Jan,06132 Halle,Sachsen-Anhalt,Germany
