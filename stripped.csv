@@ -4848,7 +4848,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1403900,FRS3900,Stephane, Dax,40,France
 1403902,FRS3902,Jean Marc, Neoules,83,France
 1403916,FRS3916,Alain, ,06,France
-1403968,FRS3968,Fred, Somain,59,France
+1403968,FRS3968,Fred, Nord,59,France
 1403969,FRS3969,Jerome, Montigny En Gohelle,62,France
 1404001,FMC40,Marco, Landes,40,France
 1404002,FMC40M,Marco, Landes,40,France
@@ -5118,12 +5118,12 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 4440000,RELAIS44,44dmr, Loire-Atlantique,44,France
 4444000,RELAIS44,44dmr, Loire-Atlantique,44,France
 4444116,DMR44F,Nicolas, Loire-Atlantique,44,France
-5103500,FCF,Reseaux Sidev, Reseaux Sidev,,France
+5103500,FCF,Frequence Citoyenne Francaise, Loire,59,France
 5900130,FRS3772,Stephane, Nord,59,France
 5923000,F59178N,Relais Hasnon, ,59,France
 5959000,F59DMR,F59dmr, ,,France
 5959077,FRS077,Romuald, Nord,59,France
-5962621,REF62,Analog-Reflector, Nord,62,France
+5962621,REF62,Analog-Reflector 062, Nord,62,France
 5959480,FRS3494,David, Nord,59,France
 5959666,FRS2581,Steven, Dechy,59,France
 5962840,ADIXIA,Balise Du Nord, Nord,59,France
@@ -5657,6 +5657,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653057,13RF1206,Peter,59505 Bad Sassendorf,Nordrhein-Westfalen,Germany
 2653058,13RF2003,Heiko,66126 Saarbruecken,Saarland,Germany
 2653059,FW0SW,Steffen,66955 Pirmasens,Rheinland-Pfalz,Germany
+2653060,SZY77,Sebastian,36214 Nentershausen,Hessen,Germany
 2653077,13FB077,Patrick,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653083,KUGELFISCH,Stephanie,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653101,BAMBI,Ria,46446 Emmerich Am Rhein,Nordrhein-Westfalen,Germany
