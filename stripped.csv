@@ -5484,6 +5484,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651022,13DF753,Jens,24376 Hasselberg,Schleswig-Holstein,Germany
 2651023,13AT162,Peter,17498 Greifswald,Mecklenburg-Vorpommern,Germany
 2651024,HITOWER33,Jan,24782 Buedelsdorf,Schleswig-Holstein,Germany
+2651025,MADDY,Martin,25436 Uetersen,Schleswig-Holstein,Germany
 2651040,GATOR,Daniel,26384 Wilhelmshaven,Niedersachsen,Germany
 2651100,HUNTE1,Christian,26131 Oldenburg,Niedersachsen,Germany
 2651101,SHORTY71,Jockel,27801 Oldenburg Brettorf,Niedersachsen,Germany
@@ -5721,6 +5722,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2654024,13MG87,Martin,06429 Nienburg,Sachsen-Anhalt,Germany
 2654025,SCHUETZE,Anita,15517 Fuerstenwalde,Brandenburg,Germany
 2654026,MICKYMAUS,Carmen,04329 Leipzig,Sachsen,Germany
+2654027,FLO81,Florian,15517 Fuerstenwalde,Brandenburg,Germany
 2654047,13HN2047,Daniel,99713 Ebeleben,Thueringen,Germany
 2654051,BETA13,Lars,13051 Berlin,Berlin,Germany
 2654103,BEBRA3,Marcel,99706 Sondershausen,Thueringen,Germany
