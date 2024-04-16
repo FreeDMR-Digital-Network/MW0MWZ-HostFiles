@@ -37,7 +37,7 @@
    },
    {
       "id": 8,
-      "callsign": "N/A",
+      "callsign": "CROSSLINK FRN AUF DER N8SCHICHT",
       "tgid": "TG8"
    },
    {
@@ -2424,6 +2424,11 @@
       "id": 5304,
       "callsign": "ZL4 REGIONAL TG5304",
       "tgid": "TG5304"
+   },
+   {
+      "id": 5959,
+      "callsign": "CROSS MODE DMR - ANALOGIQUE TG59",
+      "tgid": "TG5959"
    },
    {
       "id": 5962,
@@ -6274,6 +6279,11 @@
       "id": 50599,
       "callsign": "YSF001XLX389DNXDN505 TG50599",
       "tgid": "TG50599"
+   },
+   {
+      "id": 51035,
+      "callsign": "GROUPE FCF - SIDEV",
+      "tgid": "TG51035"
    },
    {
       "id": 51525,
