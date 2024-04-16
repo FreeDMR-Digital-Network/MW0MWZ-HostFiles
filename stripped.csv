@@ -5119,6 +5119,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 4444000,RELAIS44,44dmr, Loire-Atlantique,44,France
 4444116,DMR44F,Nicolas, Loire-Atlantique,44,France
 5103500,FCF,Frequence Citoyenne Francaise, Loire,59,France
+5103503,SIDEV,Frequence Citoyenne Francaise, Loire,59,France
 5900130,FRS3772,Stephane, Nord,59,France
 5923000,F59178N,Relais Hasnon, ,59,France
 5959000,F59DMR,F59dmr, ,,France
