@@ -5486,6 +5486,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651023,13AT162,Peter,17498 Greifswald,Mecklenburg-Vorpommern,Germany
 2651024,HITOWER33,Jan,24782 Buedelsdorf,Schleswig-Holstein,Germany
 2651025,MADDY,Martin,25436 Uetersen,Schleswig-Holstein,Germany
+2651026,HE17RW,Ralf,38350 Helmstedt,Niedersachsen,Germany
 2651040,GATOR,Daniel,26384 Wilhelmshaven,Niedersachsen,Germany
 2651100,HUNTE1,Christian,26131 Oldenburg,Niedersachsen,Germany
 2651101,SHORTY71,Jockel,27801 Oldenburg Brettorf,Niedersachsen,Germany
@@ -5546,6 +5547,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651948,13ABZ48,Peter,31224 Peine,Niedersachsen,Germany
 2651955,13ME011,Matthias,29594 Soltendieck,Niedersachsen,Germany
 2651973,13CH04,Carsten,29594 Soltendieck,Niedersachsen,Germany
+2651982,13RF1042,Sebastian,38350 Helmstedt,Niedersachsen,Germany
 2651988,FR3FMA,Mirko,26316 Varel,Niedersachsen,Germany
 2651990,WH3CBA,Benny,26382 Wilhelmshaven,Niedersachsen,Germany
 2651998,13BE998,Thomas,31134 Hildesheim,Niedersachsen,Germany
@@ -5777,6 +5779,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 216702,ALBIRSA1,Dmr-Repeater Albertirsa,2730 Albertirsa,216,Hungary
 216800,HSZ8RPT,Repeater Szentes,6600 Szentes,216,Hungary
 2169020,ALBIRS2,Albirs2,2730 Albertirsa,216,Hungary
+2169085,JOZSI85,Jozsi,4766 Patyod,216,Hungary
 2161111,HSZENTES,Dmr-Repeater Hungary,6600 Szentes,216,Hungary
 2161112,DVSHUN,Dvswitch,6600 Szentes,216,Hungary
 2161113,HZELLO,Zellolink,6600 Szentes,216,Hungary
