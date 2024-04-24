@@ -19,7 +19,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 9007006,BE07FC,Francis, Belgium,206,Belgium
 9062005,BL62GR,Giuseppe, Belgium,206,Belgium
 999002,CS99F1,Frederic, Gard,302,Canada
-3020000,BOBFLOOF,Philippe, Quebec,302,Canada
+3020000,BOBFLOOF,Philippe, Quebec,Quebec,Canada
+3029999,CALIMER0,Charles,J0K2M0 Charles  Saint-Felix-De-Valois,Quebec,Canada
 7360320,VE2MKX,Jules, Gard,302,Canada
 9002001,CA02BS,Benoit, Gard,302,Canada
 4553293,13XXD84,Xiaoxia,200001 Shanghai,Volksrepublik China,China
@@ -5487,6 +5488,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651024,HITOWER33,Jan,24782 Buedelsdorf,Schleswig-Holstein,Germany
 2651025,MADDY,Martin,25436 Uetersen,Schleswig-Holstein,Germany
 2651026,HE17RW,Ralf,38350 Helmstedt,Niedersachsen,Germany
+2651027,MADDY,Martin,23769 Fehmarn,Schleswig-Holstein,Germany
 2651040,GATOR,Daniel,26384 Wilhelmshaven,Niedersachsen,Germany
 2651100,HUNTE1,Christian,26131 Oldenburg,Niedersachsen,Germany
 2651101,SHORTY71,Jockel,27801 Oldenburg Brettorf,Niedersachsen,Germany
@@ -5502,6 +5504,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651151,AKKI72,Axel,27801 Wildeshausen Altona,Niedersachsen,Germany
 2651152,MONI77,Monika,27801 Wildeshausen Altona,Niedersachsen,Germany
 2651155,DW1HBW,Werner,28195 Bremen,Bremen,Germany
+2651160,13RF1160,Maik,21493 Schwarzenbek,Schleswig-Holstein,Germany
 2651166,DC1HBC,Dieter,28195 Bremen,Bremen,Germany
 2651181,FRANK1223,Frank,31134 Hildesheim,Niedersachsen,Germany
 2651201,DL1MVSN,Erich,19057 Schwerin,Mecklenburg-Vorpommern,Germany
@@ -5584,6 +5587,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2652029,13RF788,Steffen,72218 Wildberg,Baden-Wuerttemberg,Germany
 2652030,DH11MCB,Hemut,83487 Marktscheltenberg,Bayern,Germany
 2652031,13AF19,Alex,94330 Salching,Bayern,Germany
+2652032,DFS241,Bruno,95478 Kemnath,Bayern,Germany
+2652033,DFS235,Albert,84166 Adlkofen,Bayern,Germany
+2652034,RO5ZE,Ronald,90518 Altdorf,Bayern,Germany
 2652035,EREMIT,Ralph,90587 Veitsbronn,Bayern,Germany
 2652044,TJ44,Markus,87527 Sonthofen,Bayern,Germany
 2652091,13RW09,Roland,91257 Pegnitz,Bayern,Germany
@@ -5663,6 +5669,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653059,FW0SW,Steffen,66955 Pirmasens,Rheinland-Pfalz,Germany
 2653060,SZY77,Sebastian,36214 Nentershausen,Hessen,Germany
 2653061,13CDS67,Claus-Dieter,41836 Hueckelhoven,Nordrhein-Westfalen,Germany
+2653062,PITBULL,Andy,32351 Stemwede,Nordrhein-Westfalen,Germany
+2653063,GIFTZWERG,Tim,32130 Enger,Nordrhein-Westfalen,Germany
 2653077,13FB077,Patrick,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653083,KUGELFISCH,Stephanie,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653101,BAMBI,Ria,46446 Emmerich Am Rhein,Nordrhein-Westfalen,Germany
