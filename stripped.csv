@@ -4903,6 +4903,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 1433004,FS33R2,Roger, Gironde,33,France
 1433005,FS33P1,Pierre, Gironde,33,France
 1433006,FS33R3,Regis, Gironde,33,France
+1434001,FCF3401,Yvan, Herault,34,France
 1437001,FS37S1,Stephen, Indre-Et-Loire,37,France
 1438001,FS38D1,Didier, Isere,38,France
 1438002,FS38C1,Christophe, Isere,38,France
@@ -5434,6 +5435,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 9886999,DVLINK86M,Dvlink, Vienne,86,France
 9889020,ZELLO99,Zello99, Vienne,86,France
 9895001,971DMR,Christophe, Guadeloupe,971,France
+9909301,DF40M1,Marco, Landes,40,France
+9909302,DF40M1,Marco, Landes,40,France
 9942000,14CEM42,Emmanuel, Loire,42,France
 9942001,FRS065,Frederic, Loire,42,France
 9942002,14MV42,Madgid, Loire,42,France
@@ -5742,6 +5745,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2654110,FUERST,Lars,15517 Fuerstenwalde,Brandenburg,Germany
 2654111,13OT4664,Norbert,12109 Berlin,Berlin,Germany
 2654112,TEDDYBAER,Frank,99713 Allmenhausen,Thueringen,Germany
+2654113,TULPE01,Thomas,15517 Fuerstenwalde,Brandenburg,Germany
 2654120,FUERSTIN,Nicole,15517 Fuerstenwalde,Brandenburg,Germany
 2654228,13OT228,Jean,15299 Muellrose,Brandenburg,Germany
 2654255,ST63,Thomas,99706 Sondershausen,Thueringen,Germany
@@ -5777,7 +5781,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2655013,ZELLO,Zello, Freedmr Digital,Freedmr Digital,Germany
 2655014,RL2HB,Crosslink Bremen City,28195 Bremen,Bremen,Germany
 2655015,TX-RX.DE,Crosslink Tx-Rx.De,06132 Halle - Saale,Sachsen-Anhalt,Germany
-2655016,RL1GT,Relais Borgholzhausen,33829 Borgholzhausen,Bremen,Germany
+2655016,RL1GT,Relais Borgholzhausen,33829 Borgholzhausen,Nordrhein-Westfalen,Germany
 2655017,RL0RHN,Crosslink Kissinger Huette,97657 Sandberg,Sachsen-Anhalt,Germany
 2655018,RL1RHN,Relais Kissinger Huette,97657 Sandberg,Sachsen-Anhalt,Germany
 2655019,XL0DIGI,Crosslink Auf Der N8schicht,33039 Nieheim,Nordrhein-Westfalen,Germany
