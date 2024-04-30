@@ -5594,6 +5594,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2652033,DFS235,Albert,84166 Adlkofen,Bayern,Germany
 2652034,RO5ZE,Ronald,90518 Altdorf,Bayern,Germany
 2652035,EREMIT,Ralph,90587 Veitsbronn,Bayern,Germany
+2652036,CHUCKY,Marcos,95126 Schwarzenbach,Bayern,Germany
 2652044,TJ44,Markus,87527 Sonthofen,Bayern,Germany
 2652091,13RW09,Roland,91257 Pegnitz,Bayern,Germany
 2652100,JD02,Thomas,87561 Oberstdorf,Bayern,Germany
@@ -5674,6 +5675,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653061,13CDS67,Claus-Dieter,41836 Hueckelhoven,Nordrhein-Westfalen,Germany
 2653062,PITBULL,Andy,32351 Stemwede,Nordrhein-Westfalen,Germany
 2653063,GIFTZWERG,Tim,32130 Enger,Nordrhein-Westfalen,Germany
+2653064,NIKLAS23,Niklas,40721 Hilden,Nordrhein-Westfalen,Germany
 2653077,13FB077,Patrick,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653083,KUGELFISCH,Stephanie,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653101,BAMBI,Ria,46446 Emmerich Am Rhein,Nordrhein-Westfalen,Germany
@@ -5746,6 +5748,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2654111,13OT4664,Norbert,12109 Berlin,Berlin,Germany
 2654112,TEDDYBAER,Frank,99713 Allmenhausen,Thueringen,Germany
 2654113,TULPE01,Thomas,15517 Fuerstenwalde,Brandenburg,Germany
+2654114,CB1HC,Christian,09456 Annaberg-Buchholz,Sachsen,Germany
 2654120,FUERSTIN,Nicole,15517 Fuerstenwalde,Brandenburg,Germany
 2654228,13OT228,Jean,15299 Muellrose,Brandenburg,Germany
 2654255,ST63,Thomas,99706 Sondershausen,Thueringen,Germany
