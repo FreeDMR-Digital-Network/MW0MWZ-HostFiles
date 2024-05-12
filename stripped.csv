@@ -5493,7 +5493,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651026,HE17RW,Ralf,38350 Helmstedt,Niedersachsen,Germany
 2651027,MADDY,Martin,23769 Fehmarn,Schleswig-Holstein,Germany
 2651040,GATOR,Daniel,26384 Wilhelmshaven,Niedersachsen,Germany
-2651100,HUNTE1,Christian,26131 Oldenburg,Niedersachsen,Germany
+2651100,D1911CL,Christian,49429 Visbek,Niedersachsen,Germany
 2651101,SHORTY71,Jockel,27801 Oldenburg Brettorf,Niedersachsen,Germany
 2651103,MUCKEL,Ann-Katrin,27801 Oldenburg Brettorf,Niedersachsen,Germany
 2651104,JAZZ84,Jessica,27801 Oldenburg Brettorf,Niedersachsen,Germany
@@ -5521,6 +5521,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651333,BAKE262,Info-Bake Freedmr Digital,22417 Germany,Germany,Germany
 2651334,BAKE131313,Info-Bake Tg131313, Germany,Germany,Germany
 2651335,BAKE2651990,Info-Bake Tg2651990, Germany,Germany,Germany
+2651366,DB4366,Jens,17398 Bargischow,Mecklenburg-Vorpommern,Germany
 2651388,13HN1177,Andy,19303 Vielank,Mecklenburg-Vorpommern,Germany
 2651410,13DG80,Dierk,31228 Peine,Niedersachsen,Germany
 2651444,REF091,Analog-Reflector 091,22417 Germany,Germany,Germany
@@ -5603,10 +5604,12 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2652116,TIER591,Kleineinsatzfahrzeug 1,78112 Schwarzwald-Baar,Baden-Wuerttemberg,Germany
 2652117,TIER592,Kleineinsatzfahrzeug 2,78112 Schwarzwald-Baar,Baden-Wuerttemberg,Germany
 2652158,13OP25,Jochen,75417 Muehlacker,Baden-Wuerttemberg,Germany
+2652200,STH2707,Sven,94032 Passau,Bayern,Germany
 2652222,DE0BEN,Ben,80937 Muenchen,Bayern,Germany
 2652265,13JM91,Juergen,91177 Thalmaessing,Bayern,Germany
 2652700,13HN267,Wolfgang,61267 Neu-Anspach,Hessen,Germany
 2652756,13RD07,Robert,94505 Bernried,Bayern,Germany
+2652774,13HN1981,Andreas,91282 Betzenstein,Bayern,Germany
 2652793,CB93,Clemens,87527 Sonthofen,Bayern,Germany
 2652814,13AS25,Andreas,95028 Hof,Bayern,Germany
 2652852,13RF852,Felix,86157 Augsburg,Bayern,Germany
@@ -5687,7 +5690,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653166,13MAD86,Martin,63546 Hammersbach,Hessen,Germany
 2653187,FALKE1,Fabian,42857 Remscheid,Nordrhein-Westfalen,Germany
 2653190,D06FTH,Tobi,63517 Rodenbach,Hessen,Germany
-2653200,STH2707,Sven,66625 Bosen-Eckelhausen,Saarland,Germany
 2653226,13HN7338,Eddi,40668 Meerbusch,Nordrhein-Westfalen,Germany
 2653279,13HN2709,Andre,48165 Muenster,Nordrhein-Westfalen,Germany
 2653299,INTRUDER61,Josef,52249 Eschweiler,Nordrhein-Westfalen,Germany
@@ -5749,6 +5751,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2654112,TEDDYBAER,Frank,99713 Allmenhausen,Thueringen,Germany
 2654113,TULPE01,Thomas,15517 Fuerstenwalde,Brandenburg,Germany
 2654114,CB1HC,Christian,09456 Annaberg-Buchholz,Sachsen,Germany
+2654115,BABBEL,Christian,15517 Fuerstenwalde,Brandenburg,Germany
 2654120,FUERSTIN,Nicole,15517 Fuerstenwalde,Brandenburg,Germany
 2654228,13OT228,Jean,15299 Muellrose,Brandenburg,Germany
 2654255,ST63,Thomas,99706 Sondershausen,Thueringen,Germany
