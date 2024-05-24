@@ -5493,7 +5493,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651026,HE17RW,Ralf,38350 Helmstedt,Niedersachsen,Germany
 2651027,MADDY,Martin,23769 Fehmarn,Schleswig-Holstein,Germany
 2651040,GATOR,Daniel,26384 Wilhelmshaven,Niedersachsen,Germany
-2651100,D1911CL,Christian,49429 Visbek,Niedersachsen,Germany
+2651100,CL1911,Christian,49429 Visbek,Niedersachsen,Germany
 2651101,SHORTY71,Jockel,27801 Oldenburg Brettorf,Niedersachsen,Germany
 2651103,MUCKEL,Ann-Katrin,27801 Oldenburg Brettorf,Niedersachsen,Germany
 2651104,JAZZ84,Jessica,27801 Oldenburg Brettorf,Niedersachsen,Germany
@@ -5516,6 +5516,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651222,13KB22,Barbara,22417 Hamburg,Hamburg,Germany
 2651234,PAUL01,Paul,18546 Sassnitz,Mecklenburg-Vorpommern,Germany
 2651280,INDIAGOLF,Ingo,24214 Gettorf,Schleswig-Holstein,Germany
+2651304,DAA808,Sebastian,25348 Glueckstadt,Schleswig-Holstein,Germany
 2651313,13HN313,Tim,31311 Obershagen,Niedersachsen,Germany
 2651315,BB7XY,Bernd,23898 Sandesneben,Schleswig-Holstein,Germany
 2651333,BAKE262,Info-Bake Freedmr Digital,22417 Germany,Germany,Germany
@@ -5597,6 +5598,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2652034,RO5ZE,Ronald,90518 Altdorf,Bayern,Germany
 2652035,EREMIT,Ralph,90587 Veitsbronn,Bayern,Germany
 2652036,CHUCKY,Marcos,95126 Schwarzenbach,Bayern,Germany
+2652037,TR20029,Tom,86911 Diessen Am Ammersee,Bayern,Germany
 2652044,TJ44,Markus,87527 Sonthofen,Bayern,Germany
 2652091,13RW09,Roland,91257 Pegnitz,Bayern,Germany
 2652100,JD02,Thomas,87561 Oberstdorf,Bayern,Germany
@@ -5680,6 +5682,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653062,PITBULL,Andy,32351 Stemwede,Nordrhein-Westfalen,Germany
 2653063,GIFTZWERG,Tim,32130 Enger,Nordrhein-Westfalen,Germany
 2653064,NIKLAS23,Niklas,40721 Hilden,Nordrhein-Westfalen,Germany
+2653065,RB0BUS,Ralf,47139 Duisburg,Nordrhein-Westfalen,Germany
 2653077,13FB077,Patrick,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653083,KUGELFISCH,Stephanie,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653101,BAMBI,Ria,46446 Emmerich Am Rhein,Nordrhein-Westfalen,Germany
