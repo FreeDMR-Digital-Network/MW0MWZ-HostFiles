@@ -5684,6 +5684,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653063,GIFTZWERG,Tim,32130 Enger,Nordrhein-Westfalen,Germany
 2653064,NIKLAS23,Niklas,40721 Hilden,Nordrhein-Westfalen,Germany
 2653065,RB0BUS,Ralf,47139 Duisburg,Nordrhein-Westfalen,Germany
+2653066,DE2RVK,Matthias,51061 Koeln,Nordrhein-Westfalen,Germany
 2653077,13FB077,Patrick,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653083,KUGELFISCH,Stephanie,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653101,BAMBI,Ria,46446 Emmerich Am Rhein,Nordrhein-Westfalen,Germany
@@ -5747,6 +5748,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2654025,SCHUETZE,Anita,15517 Fuerstenwalde,Brandenburg,Germany
 2654026,MICKYMAUS,Carmen,04329 Leipzig,Sachsen,Germany
 2654027,FLO81,Florian,15517 Fuerstenwalde,Brandenburg,Germany
+2654028,13EK905,Benjamin,16225 Eberswalde,Brandenburg,Germany
+2654029,13RF1048,Ralf,08371 Glauchau,Sachsen,Germany
 2654047,13HN2047,Daniel,99713 Ebeleben,Thueringen,Germany
 2654051,BETA13,Lars,13051 Berlin,Berlin,Germany
 2654103,BEBRA3,Marcel,99706 Sondershausen,Thueringen,Germany
