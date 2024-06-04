@@ -5493,6 +5493,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651025,MADDY,Martin,25436 Uetersen,Schleswig-Holstein,Germany
 2651026,HE17RW,Ralf,38350 Helmstedt,Niedersachsen,Germany
 2651027,MADDY,Martin,23769 Fehmarn,Schleswig-Holstein,Germany
+2651028,13BFF001,Denny,27628 Hagen,Niedersachsen,Germany
 2651040,GATOR,Daniel,26384 Wilhelmshaven,Niedersachsen,Germany
 2651100,CL1911,Christian,49429 Visbek,Niedersachsen,Germany
 2651101,SHORTY71,Jockel,27801 Oldenburg Brettorf,Niedersachsen,Germany
@@ -5608,6 +5609,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2652116,TIER591,Kleineinsatzfahrzeug 1,78112 Schwarzwald-Baar,Baden-Wuerttemberg,Germany
 2652117,TIER592,Kleineinsatzfahrzeug 2,78112 Schwarzwald-Baar,Baden-Wuerttemberg,Germany
 2652158,13OP25,Jochen,75417 Muehlacker,Baden-Wuerttemberg,Germany
+2652197,13HA108,Holger,89547 Gerstetten,Baden-Wuerttemberg,Germany
 2652200,STH2707,Sven,94032 Passau,Bayern,Germany
 2652222,DE0BEN,Ben,80937 Muenchen,Bayern,Germany
 2652265,13JM91,Juergen,91177 Thalmaessing,Bayern,Germany
@@ -5765,7 +5767,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2654255,ST63,Thomas,99706 Sondershausen,Thueringen,Germany
 2654265,HYPER,Johannes,39261 Zerbst,Sachsen-Anhalt,Germany
 2654318,13HN318,Thomas,15518 Langewahl,Brandenburg,Germany
-2654322,JW1HAL,Jan,06132 Halle,Sachsen-Anhalt,Germany
+2654322,SPATZ,Jan,06132 Halle,Sachsen-Anhalt,Germany
 2654333,MARLIN,Marc,16556 Hohen Neuendorf,Brandenburg,Germany
 2654467,PEGASUS,Rene,15517 Fuerstenwalde,Brandenburg,Germany
 2654476,DAC476,Siegmar,01796 Pirna,Sachsen,Germany
