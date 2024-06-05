@@ -37,7 +37,7 @@
    },
    {
       "id": 8,
-      "callsign": "CROSSLINK FRN AUF DER N8SCHICHT",
+      "callsign": "GEÄNDERT IN TG88888",
       "tgid": "TG8"
    },
    {
@@ -3491,6 +3491,11 @@
       "tgid": "TG23590"
    },
    {
+      "id": 23769,
+      "callsign": "BALTIC ISLAND FEHMARN",
+      "tgid": "TG23769"
+   },
+   {
       "id": 23810,
       "callsign": "YSF238 YSF DENMARK",
       "tgid": "TG23810"
@@ -6337,7 +6342,7 @@
    },
    {
       "id": 55555,
-      "callsign": "MUMBLE TG5x5 NDS / HB",
+      "callsign": "TESTGROUP TG5x5",
       "tgid": "TG55555"
    },
    {
@@ -6514,6 +6519,11 @@
       "id": 77777,
       "callsign": "ZELLO - FREEDMR DIGITAL",
       "tgid": "TG77777"
+   },
+   {
+      "id": 88888,
+      "callsign": "CROSSLINK FRN AUF DER N8SCHICHT",
+      "tgid": "TG88888"
    },
    {
       "id": 91665,
