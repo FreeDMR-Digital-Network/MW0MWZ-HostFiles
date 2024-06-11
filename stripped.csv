@@ -5494,6 +5494,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651026,HE17RW,Ralf,38350 Helmstedt,Niedersachsen,Germany
 2651027,MADDY,Martin,23769 Fehmarn,Schleswig-Holstein,Germany
 2651028,13BFF001,Denny,27628 Hagen,Niedersachsen,Germany
+2651029,CB5NG,Constantin,27628 Hagen,Niedersachsen,Germany
+2651030,13HN1710,Tom,25337 Elmshorn,Schleswig-Holstein,Germany
+2651031,13RF679,Andy,49808 Lingen,Niedersachsen,Germany
 2651040,GATOR,Daniel,26384 Wilhelmshaven,Niedersachsen,Germany
 2651100,CL1911,Christian,49429 Visbek,Niedersachsen,Germany
 2651101,SHORTY71,Jockel,27801 Oldenburg Brettorf,Niedersachsen,Germany
@@ -5687,6 +5690,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653064,NIKLAS23,Niklas,40721 Hilden,Nordrhein-Westfalen,Germany
 2653065,RB0BUS,Ralf,47139 Duisburg,Nordrhein-Westfalen,Germany
 2653066,DE2RVK,Matthias,51061 Koeln,Nordrhein-Westfalen,Germany
+2653067,GUMMIENTE,Thomas,61194 Niddatal,Hessen,Germany
+2653068,13RF1043,Holger,46399 Bocholt,Nordrhein-Westfalen,Germany
 2653077,13FB077,Patrick,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653083,KUGELFISCH,Stephanie,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653101,BAMBI,Ria,46446 Emmerich Am Rhein,Nordrhein-Westfalen,Germany
@@ -5752,6 +5757,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2654027,FLO81,Florian,15517 Fuerstenwalde,Brandenburg,Germany
 2654028,13EK905,Benjamin,16225 Eberswalde,Brandenburg,Germany
 2654029,13RF1048,Ralf,08371 Glauchau,Sachsen,Germany
+2654030,13RF846,Fabian,98646 Hildburghausen,Thueringen,Germany
+2654031,13OT155,Maik,12619 Berlin,Berlin,Germany
+2654032,DAC605,Jens,04552 Borna,Sachsen,Germany
 2654047,13HN2047,Daniel,99713 Ebeleben,Thueringen,Germany
 2654051,BETA13,Lars,13051 Berlin,Berlin,Germany
 2654103,BEBRA3,Marcel,99706 Sondershausen,Thueringen,Germany
