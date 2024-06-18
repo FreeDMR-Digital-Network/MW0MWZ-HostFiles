@@ -5473,7 +5473,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651005,HERKULES4,Andreas,31558 Hagenburg,Niedersachsen,Germany
 2651006,13DW366,Jaro,38100 Braunschweig,Niedersachsen,Germany
 2651007,ECHO1,Norbert,23769 Fehmarn,Schleswig-Holstein,Germany
-2651008,MUMBLE TG8 NDS - HB,Mumble Tg8 Nds - Hb,27801 Nds - Hb,Niedersachsen,Germany
 2651009,ANDI_J,Andreas,31675 Bueckeburg,Niedersachsen,Germany
 2651010,DAC989,Ulrich,27327 Schwarme,Niedersachsen,Germany
 2651011,DE13MS,Axel,30916 Isernhagen,Niedersachsen,Germany
@@ -5508,7 +5507,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2651108,BIGBLOCK,Denis,27801 Oldenburg Brettorf,Niedersachsen,Germany
 2651111,13MU101,Manfred,22417 Hamburg,Hamburg,Germany
 2651112,DD6BG,Oliver,22397 Hamburg,Hamburg,Germany
-2651123,MUMBLE,Mumble Tg5x5 Nds - Hb,27801 Nds - Hb,Niedersachsen,Germany
 2651151,AKKI72,Axel,27801 Wildeshausen Altona,Niedersachsen,Germany
 2651152,MONI77,Monika,27801 Wildeshausen Altona,Niedersachsen,Germany
 2651155,DW1HBW,Werner,28195 Bremen,Bremen,Germany
@@ -5604,6 +5602,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2652035,EREMIT,Ralph,90587 Veitsbronn,Bayern,Germany
 2652036,CHUCKY,Marcos,95126 Schwarzenbach,Bayern,Germany
 2652037,TR20029,Tom,86911 Diessen Am Ammersee,Bayern,Germany
+2652038,ALFABRAVO2,Andreas,86928 Hofstetten,Bayern,Germany
 2652044,TJ44,Markus,87527 Sonthofen,Bayern,Germany
 2652091,13RW09,Roland,91257 Pegnitz,Bayern,Germany
 2652100,JD02,Thomas,87561 Oberstdorf,Bayern,Germany
@@ -5770,6 +5769,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2654113,TULPE01,Thomas,15517 Fuerstenwalde,Brandenburg,Germany
 2654114,CB1HC,Christian,09456 Annaberg-Buchholz,Sachsen,Germany
 2654115,BABBEL,Christian,15517 Fuerstenwalde,Brandenburg,Germany
+2654116,ROEMER1,Reinhard,15526 Neu Golm,Brandenburg,Germany
 2654120,FUERSTIN,Nicole,15517 Fuerstenwalde,Brandenburg,Germany
 2654228,13OT228,Jean,15299 Muellrose,Brandenburg,Germany
 2654255,ST63,Thomas,99706 Sondershausen,Thueringen,Germany
@@ -5783,6 +5783,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2654562,13OT1871,Christian,14532 Kleinmachnow,Brandenburg,Germany
 2654565,AJ1,Andreas,04565 Regis-Breitingen,Sachsen,Germany
 2654567,DIPOL1,Ralf,04329 Leipzig,Sachsen,Germany
+2654711,BM4RCO,Marco,10627 Berlin,Berlin,Germany
+2654712,BM4NDY,Andy,10627 Berlin,Berlin,Germany
 2654790,U96,Dennis,04651 Bad Lausick,Sachsen,Germany
 2654910,13OY910,Michael,99706 Jechaburg,Thueringen,Germany
 2654964,13TH1964,Maik,06567 Bad Frankenhausen,Thueringen,Germany
@@ -5810,8 +5812,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2655017,RL0RHN,Crosslink Kissinger Huette,97657 Sandberg,Sachsen-Anhalt,Germany
 2655018,RL1RHN,Relais Kissinger Huette,97657 Sandberg,Sachsen-Anhalt,Germany
 2655019,XL0DIGI,Crosslink Auf Der N8schicht,33039 Nieheim,Nordrhein-Westfalen,Germany
-2655130,FUEWA1,Relais Freenet,15517 Fuerstenwalde,Brandenburg,Germany
-2655140,FUEWA2,Relais Pmr446,15517 Fuerstenwalde,Brandenburg,Germany
+265513,FUEWA1,Relais Freenet,15517 Fuerstenwalde,Brandenburg,Germany
+265514,FUEWA2,Relais Pmr446,15517 Fuerstenwalde,Brandenburg,Germany
 216701,HATVAN,Dmr-Repeater Hatvan,3000 Hatvan,216,Hungary
 216702,ALBIRSA1,Dmr-Repeater Albertirsa,2730 Albertirsa,216,Hungary
 216800,HSZ8RPT,Repeater Szentes,6600 Szentes,216,Hungary
