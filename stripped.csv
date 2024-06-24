@@ -5603,6 +5603,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2652036,CHUCKY,Marcos,95126 Schwarzenbach,Bayern,Germany
 2652037,TR20029,Tom,86911 Diessen Am Ammersee,Bayern,Germany
 2652038,ALFABRAVO2,Andreas,86928 Hofstetten,Bayern,Germany
+2652039,13EK925,Stefan,89343 Jettingen-Scheppach,Bayern,Germany
 2652044,TJ44,Markus,87527 Sonthofen,Bayern,Germany
 2652091,13RW09,Roland,91257 Pegnitz,Bayern,Germany
 2652100,JD02,Thomas,87561 Oberstdorf,Bayern,Germany
@@ -5759,6 +5760,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2654030,13RF846,Fabian,98646 Hildburghausen,Thueringen,Germany
 2654031,13OT155,Maik,12619 Berlin,Berlin,Germany
 2654032,DAC605,Jens,04552 Borna,Sachsen,Germany
+2654033,13DL08,Patrick,08371 Glauchau,Sachsen,Germany
 2654047,13HN2047,Daniel,99713 Ebeleben,Thueringen,Germany
 2654051,BETA13,Lars,13051 Berlin,Berlin,Germany
 2654103,BEBRA3,Marcel,99706 Sondershausen,Thueringen,Germany
@@ -5772,6 +5774,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2654116,ROEMER1,Reinhard,15526 Neu Golm,Brandenburg,Germany
 2654120,FUERSTIN,Nicole,15517 Fuerstenwalde,Brandenburg,Germany
 2654228,13OT228,Jean,15299 Muellrose,Brandenburg,Germany
+2654242,SIERRA10,Micha,99706 Sondershausen,Thueringen,Germany
 2654255,ST63,Thomas,99706 Sondershausen,Thueringen,Germany
 2654265,HYPER,Johannes,39261 Zerbst,Sachsen-Anhalt,Germany
 2654318,13HN318,Thomas,15518 Langewahl,Brandenburg,Germany
@@ -5812,8 +5815,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2655017,RL0RHN,Crosslink Kissinger Huette,97657 Sandberg,Sachsen-Anhalt,Germany
 2655018,RL1RHN,Relais Kissinger Huette,97657 Sandberg,Sachsen-Anhalt,Germany
 2655019,XL0DIGI,Crosslink Auf Der N8schicht,33039 Nieheim,Nordrhein-Westfalen,Germany
-265513,FUEWA1,Relais Freenet,15517 Fuerstenwalde,Brandenburg,Germany
-265514,FUEWA2,Relais Pmr446,15517 Fuerstenwalde,Brandenburg,Germany
+2655130,FUEWA1,Relais Freenet,15517 Fuerstenwalde,Brandenburg,Germany
+2655140,FUEWA2,Relais Pmr446,15517 Fuerstenwalde,Brandenburg,Germany
 216701,HATVAN,Dmr-Repeater Hatvan,3000 Hatvan,216,Hungary
 216702,ALBIRSA1,Dmr-Repeater Albertirsa,2730 Albertirsa,216,Hungary
 216800,HSZ8RPT,Repeater Szentes,6600 Szentes,216,Hungary
