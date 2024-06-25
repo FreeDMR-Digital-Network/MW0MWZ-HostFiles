@@ -4156,11 +4156,6 @@
       "tgid": "TG26322"
    },
    {
-      "id": 26330,
-      "callsign": "FURCOM1",
-      "tgid": "TG26330"
-   }, 
-   {
       "id": 26331,
       "callsign": "NIEDERSACHSEN OST",
       "tgid": "TG26331"
@@ -7251,19 +7246,9 @@
       "tgid": "TG2651904"
    }, 
    {
-      "id": 3020000,
-      "callsign": "ALDIAGAMING1 USER-TG BOBFLOOF",
-      "tgid": "TG3020000"
-   },
-   {
-      "id": 2049000,
-      "callsign": "ALDIAGAMING2 USER-TG NAHKATO",
-      "tgid": "TG2049000"
-   },
-   {
-      "id": 2654265,
-      "callsign": "FURCOM2 USER-TG HYPER",
-      "tgid": "TG2654265"
+      "id": 2651366,
+      "callsign": "DB4366 - JENS",
+      "tgid": "TG2651366"
    },
    {
       "id": 2651990,
