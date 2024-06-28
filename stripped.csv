@@ -5466,6 +5466,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 9974005,FR974BF,Bryan, La Reunion,974,France
 9994100,FR94DD,Didier, Val-De-Marne,94,France
 2629084,DO1ABZ,Andreas,07751 Zoellnitz,Thueringen,Germany
+2651000,RADIO5,Walter,31275 Lehrte,Niedersachsen,Germany
 2651001,DLRB01,Rene,22159 Hamburg,Hamburg,Germany
 2651002,KARO500,Wolfgang,21147 Hamburg,Hamburg,Germany
 2651003,KARO502,Nico,21147 Hamburg,Hamburg,Germany
@@ -5694,6 +5695,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2653066,DE2RVK,Matthias,51061 Koeln,Nordrhein-Westfalen,Germany
 2653067,GUMMIENTE,Thomas,61194 Niddatal,Hessen,Germany
 2653068,13RF1043,Holger,46399 Bocholt,Nordrhein-Westfalen,Germany
+2653069,13WB27,Stefan,51429 Bergisch Gladbach,Nordrhein-Westfalen,Germany
 2653077,13FB077,Patrick,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653083,KUGELFISCH,Stephanie,45470 Muelheim,Nordrhein-Westfalen,Germany
 2653101,BAMBI,Ria,46446 Emmerich Am Rhein,Nordrhein-Westfalen,Germany
